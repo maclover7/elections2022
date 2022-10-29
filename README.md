@@ -19,7 +19,7 @@ should be one array per tracked race, with the first field as a race ID
 of your selection, followed by the sheet name of the race in the
 `detail.xls` file provided by the county.
 
-On election day, run `download-results-county.js` to download results
+On election day, run `download-results-race.js` to download results
 for the tracked races.
 
 
