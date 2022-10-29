@@ -21,3 +21,10 @@ of your selection, followed by the sheet name of the race in the
 
 On election day, run `download-results-county.js` to download results
 for the tracked races.
+
+
+##### Generate race map
+
+At the start of election day, after you've already downloaded the county
+map and downloaded zero-count race results, run `create-map-race.js` to
+generate precinct maps for each tracked race.
