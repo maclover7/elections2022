@@ -1,2 +1,3 @@
 node_modules
+input/results-race-*.xlsx
 output/map-county-*.geojson

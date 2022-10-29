@@ -1,3 +1,6 @@
 {
-  "election_id": "111176"
+  "election_id": "111176",
+  "races": [
+    ["cc-1", "7"]
+  ]
 }
