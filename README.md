@@ -3,7 +3,6 @@
 Adds up election results for specific legislative districts in Allegheny
 County.
 
-
 ### Usage
 
 ##### Download county map
@@ -15,13 +14,12 @@ generate a file called `output/map-county-ELECTIONID.geojson`.
 ##### Generate race results
 
 Before election day, update the `races` array in `config.json`. There
-should be one array per tracked race, with the first field as a race ID
-of your selection, followed by the sheet name of the race in the
-`detail.xls` file provided by the county.
+should be one array per tracked race, with the first field as a race
+name of your selection, followed by the race ID number utilized in the
+Clarity election system.
 
 On election day, run `download-results-race.js` to download results
 for the tracked races.
-
 
 ##### Generate race map
 
