@@ -1,5 +1,5 @@
-const request = require('request-promise');
 const { writeFile } = require('fs/promises');
+const { loadCurrentVersion, makeRequest } = require('./clarity-utils');
 
 const config = require('./config');
 const resultsHeader = ['precinct_name', 'dem_total', 'rep_total', 'wi_total', 'precinct_total', 'dem_pct', 'rep_pct', 'wi_pct'];
@@ -13,7 +13,7 @@ class RaceDownload {
   }
 
   downloadRace() {
-    this.loadCurrentVersion()
+    loadCurrentVersion(this.baseUrl)
       .bind(this)
       .then(function (baseUrl) {
         this.baseUrl = baseUrl;
@@ -24,7 +24,7 @@ class RaceDownload {
   }
 
   downloadResults() {
-    return this.makeRequest('ALL.json', { json: true })
+    return makeRequest(this.baseUrl, 'ALL.json', { json: true })
       .then(({ Contests }) => {
         const results = Contests.map((precinct) => {
           const precinctRaceIndex = precinct.C.indexOf(this.raceId);
@@ -48,21 +48,6 @@ class RaceDownload {
 
         return Promise.resolve(results);
       });
-  }
-
-  loadCurrentVersion() {
-    return this.makeRequest('current_ver.txt')
-      .then((res) => Promise.resolve(`${this.baseUrl}/${res}/json`));
-  }
-
-  makeRequest(url, extraArgs) {
-    return request({
-      url: `${this.baseUrl}/${url}`,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
-      },
-      ...extraArgs
-    });
   }
 
   saveResults(results) {

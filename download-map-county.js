@@ -1,5 +1,5 @@
-const request = require('request-promise');
 const { writeFile } = require('fs/promises');
+const { loadCurrentVersion, makeRequest } = require('./clarity-utils');
 
 const config = require('./config');
 
@@ -66,17 +66,12 @@ class ClarityMap {
   }
 
   getPrecincts() {
-    return this.makeRequest('en/electionsettings.json', { json: true })
-      .then((settings) => this.makeRequest(settings['settings']['kmlmap'], { json: true }));
-  }
-
-  loadCurrentVersion() {
-    return this.makeRequest('current_ver.txt')
-      .then((res) => Promise.resolve(`${this.baseUrl}/${res}/json`));
+    return makeRequest(this.baseUrl, 'en/electionsettings.json', { json: true })
+      .then((settings) => makeRequest(this.baseUrl, settings['settings']['kmlmap'], { json: true }));
   }
 
   makeMap() {
-    this.loadCurrentVersion()
+    loadCurrentVersion(this.baseUrl)
       .bind(this)
       .then(function (baseUrl) {
         this.baseUrl = baseUrl;
@@ -85,16 +80,6 @@ class ClarityMap {
       .then(this.getPrecincts)
       .then((precincts) => Promise.all(precincts.map(this.convertPrecinct.bind(this))) )
       .then(this.saveFeatures);
-  }
-
-  makeRequest(url, extraArgs) {
-    return request({
-      url: `${this.baseUrl}/${url}`,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
-      },
-      ...extraArgs
-    });
   }
 
   saveFeatures(features) {
