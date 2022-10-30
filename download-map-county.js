@@ -1,5 +1,5 @@
 const { writeFile } = require('fs/promises');
-const { loadCurrentVersion, makeRequest } = require('./clarity-utils');
+const { loadCurrentVersion, makeJSONRequest } = require('./clarity-utils');
 
 const config = require('./config');
 
@@ -66,20 +66,19 @@ class ClarityMap {
   }
 
   getPrecincts() {
-    return makeRequest(this.baseUrl, 'en/electionsettings.json', { json: true })
-      .then((settings) => makeRequest(this.baseUrl, settings['settings']['kmlmap'], { json: true }));
+    return makeJSONRequest(this.baseUrl, 'en/electionsettings.json')
+      .then((settings) => makeJSONRequest(this.baseUrl, settings['settings']['kmlmap']));
   }
 
   makeMap() {
     loadCurrentVersion(this.baseUrl)
-      .bind(this)
-      .then(function (baseUrl) {
+      .then((baseUrl) => {
         this.baseUrl = baseUrl;
         return Promise.resolve();
       })
-      .then(this.getPrecincts)
-      .then((precincts) => Promise.all(precincts.map(this.convertPrecinct.bind(this))) )
-      .then(this.saveFeatures);
+      .then(() => this.getPrecincts())
+      .then((precincts) => Promise.all(precincts.map((p) => this.convertPrecinct(p))))
+      .then((features) => this.saveFeatures(features));
   }
 
   saveFeatures(features) {

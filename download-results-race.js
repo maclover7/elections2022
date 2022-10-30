@@ -1,5 +1,5 @@
 const { writeFile } = require('fs/promises');
-const { loadCurrentVersion, makeRequest } = require('./clarity-utils');
+const { loadCurrentVersion, makeJSONRequest } = require('./clarity-utils');
 
 const config = require('./config');
 const resultsHeader = ['precinct_name', 'dem_total', 'rep_total', 'wi_total', 'precinct_total', 'dem_pct', 'rep_pct', 'wi_pct'];
@@ -14,17 +14,16 @@ class RaceDownload {
 
   downloadRace() {
     loadCurrentVersion(this.baseUrl)
-      .bind(this)
-      .then(function (baseUrl) {
+      .then((baseUrl) => {
         this.baseUrl = baseUrl;
         return Promise.resolve();
       })
-      .then(this.downloadResults)
-      .then(this.saveResults);
+      .then(() => this.downloadResults())
+      .then((results) => this.saveResults(results));
   }
 
   downloadResults() {
-    return makeRequest(this.baseUrl, 'ALL.json', { json: true })
+    return makeJSONRequest(this.baseUrl, 'ALL.json')
       .then(({ Contests }) => {
         const results = Contests.map((precinct) => {
           const precinctRaceIndex = precinct.C.indexOf(this.raceId);
