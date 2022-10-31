@@ -87,5 +87,5 @@ class ClarityMap {
   }
 }
 
-const cm = new ClarityMap(config.election_id);
+const cm = new ClarityMap(config.electionId);
 cm.makeMap();

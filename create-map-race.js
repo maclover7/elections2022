@@ -17,7 +17,7 @@ const getPrecinctNames = (raceName) => {
 
 config.races.forEach(([raceName, raceId]) => {
   Promise.all([
-    getCountyMap(config.election_id),
+    getCountyMap(config.electionId),
     getPrecinctNames(raceName)
   ])
     .then(([map, precinctNames]) => {

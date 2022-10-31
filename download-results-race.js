@@ -60,6 +60,6 @@ class RaceDownload {
 }
 
 config.races.forEach(([raceName, raceId]) => {
-  const rd = new RaceDownload(config.election_id, raceId, raceName);
+  const rd = new RaceDownload(config.electionId, raceId, raceName);
   rd.downloadRace();
 });
