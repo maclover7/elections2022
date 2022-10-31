@@ -1,0 +1,33 @@
+name: "Download race results"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  download:
+    name: Download
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+      - id: use-node
+        name: Use Node 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+      - id: run-script
+        name: Run download script
+        run: |
+          node download-results-race.js
+      - id: add-and-commit
+        name: Add and commit
+        run: |
+          git add .
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git commit -m "Latest race results"
+      - id: push
+        name: Push
+        run: |
+          git push
