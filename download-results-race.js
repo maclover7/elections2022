@@ -29,6 +29,9 @@ class RaceDownload {
           const precinctRaceIndex = precinct.C.indexOf(this.raceId);
           if (precinctRaceIndex === -1) return null;
 
+          // Skip race summary
+          if (precinct.A === "-1") return null;
+
           const [demTotal, repTotal, wiTotal] = precinct.V[precinctRaceIndex];
           const precinctTotal = demTotal + repTotal + wiTotal;
 
