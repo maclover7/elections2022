@@ -19,7 +19,8 @@ class RaceDownload {
         return Promise.resolve();
       })
       .then(() => this.downloadResults())
-      .then((results) => this.saveResults(results));
+      .then((results) => this.saveResults(results))
+      .catch(e => { console.error(e); });
   }
 
   downloadResults() {

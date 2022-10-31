@@ -7,12 +7,14 @@ const fetchOptions = {
 function loadCurrentVersion(baseUrl) {
   return fetch(`${baseUrl}/current_ver.txt`, fetchOptions)
     .then((r) => r.text())
-    .then((r) => Promise.resolve(`${baseUrl}/${r}/json`));
+    .then((r) => Promise.resolve(`${baseUrl}/${r}/json`))
+    .catch(e => { throw(e); });
 };
 
 function makeJSONRequest(baseUrl, path) {
   return fetch(`${baseUrl}/${path}`, fetchOptions)
-    .then((r) => r.json());
+    .then((r) => r.json())
+    .catch(e => { throw(e); });
 }
 
 module.exports = { loadCurrentVersion, makeJSONRequest };
