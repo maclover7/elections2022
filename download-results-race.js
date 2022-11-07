@@ -42,9 +42,9 @@ class RaceDownload {
             repTotal,
             wiTotal,
             precinctTotal,
-            (100 * (demTotal / precinctTotal)).toFixed(1),
-            (100 * (repTotal / precinctTotal)).toFixed(1),
-            (100 * (wiTotal / precinctTotal)).toFixed(1)
+            precinctTotal === 0 ? 0 : (100 * (demTotal / precinctTotal)).toFixed(1),
+            precinctTotal === 0 ? 0 : (100 * (repTotal / precinctTotal)).toFixed(1),
+            precinctTotal === 0 ? 0 : (100 * (wiTotal / precinctTotal)).toFixed(1)
           ];
         })
           .filter((r) => r);

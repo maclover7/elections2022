@@ -1,45 +1,45 @@
 precinct_name,dem_total,rep_total,wi_total,precinct_total,dem_pct,rep_pct,wi_pct
-Ben Avon Dist 1,0,0,0,0,NaN,NaN,NaN
-Ben Avon Dist 2,0,0,0,0,NaN,NaN,NaN
-Ben Avon Ht,0,0,0,0,NaN,NaN,NaN
-Emsworth Dist 1,0,0,0,0,NaN,NaN,NaN
-Emsworth Dist 2,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 1 Dist 1,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 1 Dist 2,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 1 Dist 3,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 2 Dist 1,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 2 Dist 2,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 2 Dist 3,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 3 Dist 1,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 3 Dist 2,0,0,0,0,NaN,NaN,NaN
-Franklin Pk Ward 3 Dist 3,0,0,0,0,NaN,NaN,NaN
-Hampton Dist 3,0,0,0,0,NaN,NaN,NaN
-Hampton Dist 4,0,0,0,0,NaN,NaN,NaN
-Hampton Dist 5,0,0,0,0,NaN,NaN,NaN
-Hampton Dist 12,0,0,0,0,NaN,NaN,NaN
-Hampton Dist 13,0,0,0,0,NaN,NaN,NaN
-Kilbuck,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 1 Dist 1,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 1 Dist 2,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 1 Dist 3,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 2 Dist 1,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 2 Dist 2,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 2 Dist 3,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 3 Dist 1,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 3 Dist 2,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 3 Dist 3,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 4 Dist 1,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 4 Dist 2,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 4 Dist 3,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 5 Dist 1,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 5 Dist 2,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 5 Dist 3,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 6 Dist 1,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 6 Dist 2,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 6 Dist 3,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 7 Dist 1,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 7 Dist 2,0,0,0,0,NaN,NaN,NaN
-McCandless Ward 7 Dist 3,0,0,0,0,NaN,NaN,NaN
-Ohio Dist 1,0,0,0,0,NaN,NaN,NaN
-Ohio Dist 2,0,0,0,0,NaN,NaN,NaN
-Ohio Dist 3,0,0,0,0,NaN,NaN,NaN
+Ben Avon Dist 1,0,0,0,0,0,0,0
+Ben Avon Dist 2,0,0,0,0,0,0,0
+Ben Avon Ht,0,0,0,0,0,0,0
+Emsworth Dist 1,0,0,0,0,0,0,0
+Emsworth Dist 2,0,0,0,0,0,0,0
+Franklin Pk Ward 1 Dist 1,0,0,0,0,0,0,0
+Franklin Pk Ward 1 Dist 2,0,0,0,0,0,0,0
+Franklin Pk Ward 1 Dist 3,0,0,0,0,0,0,0
+Franklin Pk Ward 2 Dist 1,0,0,0,0,0,0,0
+Franklin Pk Ward 2 Dist 2,0,0,0,0,0,0,0
+Franklin Pk Ward 2 Dist 3,0,0,0,0,0,0,0
+Franklin Pk Ward 3 Dist 1,0,0,0,0,0,0,0
+Franklin Pk Ward 3 Dist 2,0,0,0,0,0,0,0
+Franklin Pk Ward 3 Dist 3,0,0,0,0,0,0,0
+Hampton Dist 3,0,0,0,0,0,0,0
+Hampton Dist 4,0,0,0,0,0,0,0
+Hampton Dist 5,0,0,0,0,0,0,0
+Hampton Dist 12,0,0,0,0,0,0,0
+Hampton Dist 13,0,0,0,0,0,0,0
+Kilbuck,0,0,0,0,0,0,0
+McCandless Ward 1 Dist 1,0,0,0,0,0,0,0
+McCandless Ward 1 Dist 2,0,0,0,0,0,0,0
+McCandless Ward 1 Dist 3,0,0,0,0,0,0,0
+McCandless Ward 2 Dist 1,0,0,0,0,0,0,0
+McCandless Ward 2 Dist 2,0,0,0,0,0,0,0
+McCandless Ward 2 Dist 3,0,0,0,0,0,0,0
+McCandless Ward 3 Dist 1,0,0,0,0,0,0,0
+McCandless Ward 3 Dist 2,0,0,0,0,0,0,0
+McCandless Ward 3 Dist 3,0,0,0,0,0,0,0
+McCandless Ward 4 Dist 1,0,0,0,0,0,0,0
+McCandless Ward 4 Dist 2,0,0,0,0,0,0,0
+McCandless Ward 4 Dist 3,0,0,0,0,0,0,0
+McCandless Ward 5 Dist 1,0,0,0,0,0,0,0
+McCandless Ward 5 Dist 2,0,0,0,0,0,0,0
+McCandless Ward 5 Dist 3,0,0,0,0,0,0,0
+McCandless Ward 6 Dist 1,0,0,0,0,0,0,0
+McCandless Ward 6 Dist 2,0,0,0,0,0,0,0
+McCandless Ward 6 Dist 3,0,0,0,0,0,0,0
+McCandless Ward 7 Dist 1,0,0,0,0,0,0,0
+McCandless Ward 7 Dist 2,0,0,0,0,0,0,0
+McCandless Ward 7 Dist 3,0,0,0,0,0,0,0
+Ohio Dist 1,0,0,0,0,0,0,0
+Ohio Dist 2,0,0,0,0,0,0,0
+Ohio Dist 3,0,0,0,0,0,0,0
