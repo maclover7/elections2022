@@ -1,62 +1,62 @@
 precinct_name,dem_total,rep_total,wi_total,precinct_total,dem_pct,rep_pct,wi_pct
-Aspinwall Dist 1,431,170,0,601,71.7,28.3,0.0
+Aspinwall Dist 1,434,172,0,606,71.6,28.4,0.0
 Aspinwall Dist 2,266,106,2,374,71.1,28.3,0.5
-Aspinwall Dist 3,409,176,1,586,69.8,30.0,0.2
-Blawnox,371,209,2,582,63.7,35.9,0.3
+Aspinwall Dist 3,414,176,1,591,70.1,29.8,0.2
+Blawnox,372,210,2,584,63.7,36.0,0.3
 Brackenridge Ward 1,139,124,0,263,52.9,47.1,0.0
-Brackenridge Ward 2,231,219,1,451,51.2,48.6,0.2
-Brackenridge Ward 3,154,193,2,349,44.1,55.3,0.6
-Cheswick Dist 1,214,208,3,425,50.4,48.9,0.7
+Brackenridge Ward 2,236,220,1,457,51.6,48.1,0.2
+Brackenridge Ward 3,154,194,2,350,44.0,55.4,0.6
+Cheswick Dist 1,215,208,3,426,50.5,48.8,0.7
 Cheswick Dist 2,244,228,0,472,51.7,48.3,0.0
 East Deer Ward 1,96,80,0,176,54.5,45.5,0.0
 East Deer Ward 2,159,191,1,351,45.3,54.4,0.3
-Fawn Dist 1,117,246,0,363,32.2,67.8,0.0
-Fawn Dist 2,208,396,1,605,34.4,65.5,0.2
-Fox Chapel Dist 1,361,254,0,615,58.7,41.3,0.0
-Fox Chapel Dist 2,424,293,1,718,59.1,40.8,0.1
-Fox Chapel Dist 3,346,218,0,564,61.3,38.7,0.0
-Fox Chapel Dist 4,543,301,2,846,64.2,35.6,0.2
-Fox Chapel Dist 5,140,59,0,199,70.4,29.6,0.0
-Frazer,187,325,2,514,36.4,63.2,0.4
-Harmar Dist 1,412,441,1,854,48.2,51.6,0.1
-Harmar Dist 2,177,187,1,365,48.5,51.2,0.3
-Harmar Dist 3,111,130,0,241,46.1,53.9,0.0
+Fawn Dist 1,118,246,0,364,32.4,67.6,0.0
+Fawn Dist 2,210,396,1,607,34.6,65.2,0.2
+Fox Chapel Dist 1,363,256,0,619,58.6,41.4,0.0
+Fox Chapel Dist 2,426,294,1,721,59.1,40.8,0.1
+Fox Chapel Dist 3,348,219,0,567,61.4,38.6,0.0
+Fox Chapel Dist 4,549,306,2,857,64.1,35.7,0.2
+Fox Chapel Dist 5,325,339,0,664,48.9,51.1,0.0
+Frazer,188,327,2,517,36.4,63.2,0.4
+Harmar Dist 1,415,441,1,857,48.4,51.5,0.1
+Harmar Dist 2,178,187,1,366,48.6,51.1,0.3
+Harmar Dist 3,113,131,0,244,46.3,53.7,0.0
 Harrison Ward 1 Dist 1,81,126,4,211,38.4,59.7,1.9
-Harrison Ward 1 Dist 2,218,208,0,426,51.2,48.8,0.0
+Harrison Ward 1 Dist 2,219,209,0,428,51.2,48.8,0.0
 Harrison Ward 1 Dist 3,212,241,0,453,46.8,53.2,0.0
 Harrison Ward 2 Dist 1,94,107,0,201,46.8,53.2,0.0
 Harrison Ward 2 Dist 2,134,132,0,266,50.4,49.6,0.0
-Harrison Ward 3 Dist 1,350,384,3,737,47.5,52.1,0.4
+Harrison Ward 3 Dist 1,353,385,3,741,47.6,52.0,0.4
 Harrison Ward 3 Dist 2,221,226,4,451,49.0,50.1,0.9
-Harrison Ward 4 Dist 1,189,264,1,454,41.6,58.1,0.2
-Harrison Ward 4 Dist 2,156,201,0,357,43.7,56.3,0.0
+Harrison Ward 4 Dist 1,189,265,1,455,41.5,58.2,0.2
+Harrison Ward 4 Dist 2,157,201,0,358,43.9,56.1,0.0
 Harrison Ward 5 Dist 1,143,81,0,224,63.8,36.2,0.0
-Harrison Ward 5 Dist 2,200,274,0,474,42.2,57.8,0.0
-Indiana Dist 1,307,303,0,610,50.3,49.7,0.0
-Indiana Dist 2,287,309,1,597,48.1,51.8,0.2
-Indiana Dist 3,464,462,1,927,50.1,49.8,0.1
-Indiana Dist 4,449,362,1,812,55.3,44.6,0.1
-Indiana Dist 5,353,299,1,653,54.1,45.8,0.2
-O'Hara Ward 1 Dist 1,425,259,2,686,62.0,37.8,0.3
-O'Hara Ward 1 Dist 2,270,147,1,418,64.6,35.2,0.2
-O'Hara Ward 2 Dist 1,112,19,0,131,85.5,14.5,0.0
-O'Hara Ward 2 Dist 2,374,268,2,644,58.1,41.6,0.3
-O'Hara Ward 3 Dist 1,285,177,1,463,61.6,38.2,0.2
-O'Hara Ward 3 Dist 2,209,171,3,383,54.6,44.6,0.8
-O'Hara Ward 4 Dist 1,267,119,0,386,69.2,30.8,0.0
-O'Hara Ward 4 Dist 2,430,162,1,593,72.5,27.3,0.2
-O'Hara Ward 5 Dist 1,345,212,1,558,61.8,38.0,0.2
-O'Hara Ward 5 Dist 2,445,188,2,635,70.1,29.6,0.3
-Sharpsburg Dist 1,202,95,1,298,67.8,31.9,0.3
-Sharpsburg Dist 2,80,10,0,90,88.9,11.1,0.0
-Sharpsburg Dist 3,266,195,0,461,57.7,42.3,0.0
-Springdale Br Dist 1,201,189,0,390,51.5,48.5,0.0
-Springdale Br Dist 2,68,20,0,88,77.3,22.7,0.0
-Springdale Br Dist 3,180,145,1,326,55.2,44.5,0.3
-Springdale Br Dist 4,142,128,1,271,52.4,47.2,0.4
-Springdale Twp,365,423,1,789,46.3,53.6,0.1
+Harrison Ward 5 Dist 2,204,275,0,479,42.6,57.4,0.0
+Indiana Dist 1,310,305,0,615,50.4,49.6,0.0
+Indiana Dist 2,287,311,1,599,47.9,51.9,0.2
+Indiana Dist 3,466,467,1,934,49.9,50.0,0.1
+Indiana Dist 4,452,365,1,818,55.3,44.6,0.1
+Indiana Dist 5,356,302,1,659,54.0,45.8,0.2
+O'Hara Ward 1 Dist 1,427,260,2,689,62.0,37.7,0.3
+O'Hara Ward 1 Dist 2,274,148,1,423,64.8,35.0,0.2
+O'Hara Ward 2 Dist 1,289,158,1,448,64.5,35.3,0.2
+O'Hara Ward 2 Dist 2,379,268,2,649,58.4,41.3,0.3
+O'Hara Ward 3 Dist 1,288,178,1,467,61.7,38.1,0.2
+O'Hara Ward 3 Dist 2,211,172,3,386,54.7,44.6,0.8
+O'Hara Ward 4 Dist 1,274,119,0,393,69.7,30.3,0.0
+O'Hara Ward 4 Dist 2,432,163,1,596,72.5,27.3,0.2
+O'Hara Ward 5 Dist 1,347,214,1,562,61.7,38.1,0.2
+O'Hara Ward 5 Dist 2,449,192,2,643,69.8,29.9,0.3
+Sharpsburg Dist 1,204,95,1,300,68.0,31.7,0.3
+Sharpsburg Dist 2,84,12,0,96,87.5,12.5,0.0
+Sharpsburg Dist 3,267,195,0,462,57.8,42.2,0.0
+Springdale Br Dist 1,202,189,0,391,51.7,48.3,0.0
+Springdale Br Dist 2,187,219,0,406,46.1,53.9,0.0
+Springdale Br Dist 3,180,146,1,327,55.0,44.6,0.3
+Springdale Br Dist 4,143,129,1,273,52.4,47.3,0.4
+Springdale Twp,367,424,1,792,46.3,53.5,0.1
 Tarentum Ward 1 Dist 1,140,148,5,293,47.8,50.5,1.7
-Tarentum Ward 1 Dist 2,165,132,1,298,55.4,44.3,0.3
-Tarentum Ward 2,54,9,0,63,85.7,14.3,0.0
-Tarentum Ward 3 Dist 1,67,62,0,129,51.9,48.1,0.0
+Tarentum Ward 1 Dist 2,167,132,1,300,55.7,44.0,0.3
+Tarentum Ward 2,130,120,3,253,51.4,47.4,1.2
+Tarentum Ward 3 Dist 1,67,63,0,130,51.5,48.5,0.0
 Tarentum Ward 3 Dist 2,121,146,0,267,45.3,54.7,0.0
