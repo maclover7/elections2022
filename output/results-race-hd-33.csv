@@ -1,8 +1,8 @@
 precinct_name,dem_total,rep_total,wi_total,precinct_total,dem_pct,rep_pct,wi_pct
 Aspinwall Dist 1,109,9,0,118,92.4,7.6,0.0
 Aspinwall Dist 2,266,106,2,374,71.1,28.3,0.5
-Aspinwall Dist 3,106,25,1,132,80.3,18.9,0.8
-Blawnox,143,22,2,167,85.6,13.2,1.2
+Aspinwall Dist 3,409,176,1,586,69.8,30.0,0.2
+Blawnox,371,209,2,582,63.7,35.9,0.3
 Brackenridge Ward 1,37,8,0,45,82.2,17.8,0.0
 Brackenridge Ward 2,76,23,0,99,76.8,23.2,0.0
 Brackenridge Ward 3,154,193,2,349,44.1,55.3,0.6
@@ -12,7 +12,7 @@ East Deer Ward 1,96,80,0,176,54.5,45.5,0.0
 East Deer Ward 2,55,23,0,78,70.5,29.5,0.0
 Fawn Dist 1,37,26,0,63,58.7,41.3,0.0
 Fawn Dist 2,208,396,1,605,34.4,65.5,0.2
-Fox Chapel Dist 1,134,40,0,174,77.0,23.0,0.0
+Fox Chapel Dist 1,361,254,0,615,58.7,41.3,0.0
 Fox Chapel Dist 2,150,41,0,191,78.5,21.5,0.0
 Fox Chapel Dist 3,142,32,0,174,81.6,18.4,0.0
 Fox Chapel Dist 4,229,45,2,276,83.0,16.3,0.7
@@ -27,7 +27,7 @@ Harrison Ward 1 Dist 3,60,23,0,83,72.3,27.7,0.0
 Harrison Ward 2 Dist 1,35,8,0,43,81.4,18.6,0.0
 Harrison Ward 2 Dist 2,40,12,0,52,76.9,23.1,0.0
 Harrison Ward 3 Dist 1,159,38,0,197,80.7,19.3,0.0
-Harrison Ward 3 Dist 2,66,16,0,82,80.5,19.5,0.0
+Harrison Ward 3 Dist 2,221,226,4,451,49.0,50.1,0.9
 Harrison Ward 4 Dist 1,189,264,1,454,41.6,58.1,0.2
 Harrison Ward 4 Dist 2,64,17,0,81,79.0,21.0,0.0
 Harrison Ward 5 Dist 1,55,12,0,67,82.1,17.9,0.0
@@ -43,7 +43,7 @@ O'Hara Ward 2 Dist 1,112,19,0,131,85.5,14.5,0.0
 O'Hara Ward 2 Dist 2,159,51,2,212,75.0,24.1,0.9
 O'Hara Ward 3 Dist 1,99,16,0,115,86.1,13.9,0.0
 O'Hara Ward 3 Dist 2,79,13,1,93,84.9,14.0,1.1
-O'Hara Ward 4 Dist 1,142,32,0,174,81.6,18.4,0.0
+O'Hara Ward 4 Dist 1,267,119,0,386,69.2,30.8,0.0
 O'Hara Ward 4 Dist 2,190,17,1,208,91.3,8.2,0.5
 O'Hara Ward 5 Dist 1,167,32,0,199,83.9,16.1,0.0
 O'Hara Ward 5 Dist 2,189,28,0,217,87.1,12.9,0.0
