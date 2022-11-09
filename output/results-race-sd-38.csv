@@ -55,24 +55,24 @@ Indiana Dist 4,447,371,0,818,54.6,45.4,0.0
 Indiana Dist 5,355,301,1,657,54.0,45.8,0.2
 McCandless Ward 1 Dist 1,395,405,3,803,49.2,50.4,0.4
 McCandless Ward 1 Dist 2,291,217,2,510,57.1,42.5,0.4
-McCandless Ward 1 Dist 3,175,37,0,212,82.5,17.5,0.0
-McCandless Ward 2 Dist 1,246,86,0,332,74.1,25.9,0.0
+McCandless Ward 1 Dist 3,373,373,1,747,49.9,49.9,0.1
+McCandless Ward 2 Dist 1,534,427,0,961,55.6,44.4,0.0
 McCandless Ward 2 Dist 2,322,323,0,645,49.9,50.1,0.0
 McCandless Ward 2 Dist 3,297,312,1,610,48.7,51.1,0.2
 McCandless Ward 3 Dist 1,409,294,1,704,58.1,41.8,0.1
 McCandless Ward 3 Dist 2,403,362,0,765,52.7,47.3,0.0
 McCandless Ward 3 Dist 3,392,414,0,806,48.6,51.4,0.0
 McCandless Ward 4 Dist 1,244,72,0,316,77.2,22.8,0.0
-McCandless Ward 4 Dist 2,121,46,0,167,72.5,27.5,0.0
-McCandless Ward 4 Dist 3,115,40,1,156,73.7,25.6,0.6
+McCandless Ward 4 Dist 2,313,294,1,608,51.5,48.4,0.2
+McCandless Ward 4 Dist 3,274,287,1,562,48.8,51.1,0.2
 McCandless Ward 5 Dist 1,292,347,0,639,45.7,54.3,0.0
 McCandless Ward 5 Dist 2,508,417,1,926,54.9,45.0,0.1
 McCandless Ward 5 Dist 3,422,262,1,685,61.6,38.2,0.1
 McCandless Ward 6 Dist 1,178,174,0,352,50.6,49.4,0.0
 McCandless Ward 6 Dist 2,374,389,0,763,49.0,51.0,0.0
-McCandless Ward 6 Dist 3,567,407,1,975,58.2,41.7,0.1
+McCandless Ward 6 Dist 3,690,596,1,1287,53.6,46.3,0.1
 McCandless Ward 7 Dist 1,568,494,2,1064,53.4,46.4,0.2
-McCandless Ward 7 Dist 2,206,44,0,250,82.4,17.6,0.0
+McCandless Ward 7 Dist 2,384,329,3,716,53.6,45.9,0.4
 McCandless Ward 7 Dist 3,189,192,0,381,49.6,50.4,0.0
 O'Hara Ward 1 Dist 1,412,268,2,682,60.4,39.3,0.3
 O'Hara Ward 1 Dist 2,257,161,0,418,61.5,38.5,0.0
@@ -82,15 +82,15 @@ O'Hara Ward 3 Dist 1,279,195,0,474,58.9,41.1,0.0
 O'Hara Ward 3 Dist 2,197,187,4,388,50.8,48.2,1.0
 O'Hara Ward 4 Dist 1,262,130,0,392,66.8,33.2,0.0
 O'Hara Ward 4 Dist 2,426,170,1,597,71.4,28.5,0.2
-O'Hara Ward 5 Dist 1,165,32,0,197,83.8,16.2,0.0
+O'Hara Ward 5 Dist 1,344,207,1,552,62.3,37.5,0.2
 O'Hara Ward 5 Dist 2,446,187,1,634,70.3,29.5,0.2
 Pine Dist 1,447,535,0,982,45.5,54.5,0.0
-Pine Dist 2,344,148,0,492,69.9,30.1,0.0
+Pine Dist 2,682,890,2,1574,43.3,56.5,0.1
 Pine Dist 3,62,19,0,81,76.5,23.5,0.0
 Pine Dist 4,460,534,0,994,46.3,53.7,0.0
 Pine Dist 5,540,669,1,1210,44.6,55.3,0.1
 Pine Dist 6,273,357,0,630,43.3,56.7,0.0
-Pine Dist 7,214,61,0,275,77.8,22.2,0.0
+Pine Dist 7,492,485,1,978,50.3,49.6,0.1
 Pine Dist 8,310,450,1,761,40.7,59.1,0.1
 Pittsburgh Ward 10 Dist 1,335,53,0,388,86.3,13.7,0.0
 Pittsburgh Ward 10 Dist 2,351,54,1,406,86.5,13.3,0.2
@@ -146,7 +146,7 @@ Pittsburgh Ward 12 Dist 14,111,1,1,113,98.2,0.9,0.9
 Pittsburgh Ward 12 Dist 15,235,6,0,241,97.5,2.5,0.0
 Pittsburgh Ward 12 Dist 16,139,2,1,142,97.9,1.4,0.7
 Richland Dist 1,380,463,1,844,45.0,54.9,0.1
-Richland Dist 2,148,40,1,189,78.3,21.2,0.5
+Richland Dist 2,332,430,1,763,43.5,56.4,0.1
 Richland Dist 3,359,431,2,792,45.3,54.4,0.3
 Richland Dist 4,348,466,0,814,42.8,57.2,0.0
 Richland Dist 5,261,426,1,688,37.9,61.9,0.1
@@ -190,19 +190,19 @@ Shaler Ward 1 Dist 1,209,175,0,384,54.4,45.6,0.0
 Shaler Ward 1 Dist 2,200,159,0,359,55.7,44.3,0.0
 Shaler Ward 1 Dist 3,165,173,0,338,48.8,51.2,0.0
 Shaler Ward 1 Dist 4,241,203,0,444,54.3,45.7,0.0
-Shaler Ward 1 Dist 5,67,30,0,97,69.1,30.9,0.0
+Shaler Ward 1 Dist 5,221,168,1,390,56.7,43.1,0.3
 Shaler Ward 2 Dist 1,332,425,0,757,43.9,56.1,0.0
 Shaler Ward 2 Dist 2,243,313,0,556,43.7,56.3,0.0
 Shaler Ward 2 Dist 3,228,158,0,386,59.1,40.9,0.0
 Shaler Ward 2 Dist 4,290,275,1,566,51.2,48.6,0.2
 Shaler Ward 2 Dist 5,125,124,0,249,50.2,49.8,0.0
-Shaler Ward 3 Dist 1,86,25,2,113,76.1,22.1,1.8
+Shaler Ward 3 Dist 1,224,213,3,440,50.9,48.4,0.7
 Shaler Ward 3 Dist 2,223,225,1,449,49.7,50.1,0.2
 Shaler Ward 3 Dist 3,182,236,0,418,43.5,56.5,0.0
 Shaler Ward 3 Dist 4,269,268,0,537,50.1,49.9,0.0
 Shaler Ward 3 Dist 5,207,281,2,490,42.2,57.3,0.4
 Shaler Ward 4 Dist 1,297,281,1,579,51.3,48.5,0.2
-Shaler Ward 4 Dist 2,55,20,0,75,73.3,26.7,0.0
+Shaler Ward 4 Dist 2,163,145,1,309,52.8,46.9,0.3
 Shaler Ward 4 Dist 3,242,231,2,475,50.9,48.6,0.4
 Shaler Ward 4 Dist 4,218,252,2,472,46.2,53.4,0.4
 Shaler Ward 4 Dist 5,193,165,2,360,53.6,45.8,0.6
@@ -222,8 +222,8 @@ Shaler Ward 7 Dist 3,202,206,0,408,49.5,50.5,0.0
 Shaler Ward 7 Dist 4,321,373,5,699,45.9,53.4,0.7
 Sharpsburg Dist 1,205,93,1,299,68.6,31.1,0.3
 Sharpsburg Dist 2,79,10,0,89,88.8,11.2,0.0
-Sharpsburg Dist 3,81,17,0,98,82.7,17.3,0.0
-Springdale Br Dist 1,69,13,0,82,84.1,15.9,0.0
+Sharpsburg Dist 3,266,197,1,464,57.3,42.5,0.2
+Springdale Br Dist 1,190,200,0,390,48.7,51.3,0.0
 Springdale Br Dist 2,67,21,0,88,76.1,23.9,0.0
 Springdale Br Dist 3,179,149,0,328,54.6,45.4,0.0
 Springdale Br Dist 4,136,139,0,275,49.5,50.5,0.0
