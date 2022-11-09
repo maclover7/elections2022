@@ -8,7 +8,7 @@ Brackenridge Ward 2,76,23,0,99,76.8,23.2,0.0
 Brackenridge Ward 3,49,8,0,57,86.0,14.0,0.0
 Cheswick Dist 1,70,22,0,92,76.1,23.9,0.0
 Cheswick Dist 2,80,24,0,104,76.9,23.1,0.0
-East Deer Ward 1,21,3,0,24,87.5,12.5,0.0
+East Deer Ward 1,96,80,0,176,54.5,45.5,0.0
 East Deer Ward 2,55,23,0,78,70.5,29.5,0.0
 Fawn Dist 1,37,26,0,63,58.7,41.3,0.0
 Fawn Dist 2,94,27,0,121,77.7,22.3,0.0
@@ -17,7 +17,7 @@ Fox Chapel Dist 2,150,41,0,191,78.5,21.5,0.0
 Fox Chapel Dist 3,142,32,0,174,81.6,18.4,0.0
 Fox Chapel Dist 4,229,45,2,276,83.0,16.3,0.7
 Fox Chapel Dist 5,140,59,0,199,70.4,29.6,0.0
-Frazer,82,25,0,107,76.6,23.4,0.0
+Frazer,187,325,2,514,36.4,63.2,0.4
 Harmar Dist 1,216,90,1,307,70.4,29.3,0.3
 Harmar Dist 2,70,21,0,91,76.9,23.1,0.0
 Harmar Dist 3,41,12,0,53,77.4,22.6,0.0
@@ -28,12 +28,12 @@ Harrison Ward 2 Dist 1,35,8,0,43,81.4,18.6,0.0
 Harrison Ward 2 Dist 2,40,12,0,52,76.9,23.1,0.0
 Harrison Ward 3 Dist 1,159,38,0,197,80.7,19.3,0.0
 Harrison Ward 3 Dist 2,66,16,0,82,80.5,19.5,0.0
-Harrison Ward 4 Dist 1,67,29,0,96,69.8,30.2,0.0
+Harrison Ward 4 Dist 1,189,264,1,454,41.6,58.1,0.2
 Harrison Ward 4 Dist 2,64,17,0,81,79.0,21.0,0.0
 Harrison Ward 5 Dist 1,55,12,0,67,82.1,17.9,0.0
 Harrison Ward 5 Dist 2,66,26,0,92,71.7,28.3,0.0
 Indiana Dist 1,110,25,0,135,81.5,18.5,0.0
-Indiana Dist 2,120,31,0,151,79.5,20.5,0.0
+Indiana Dist 2,287,309,1,597,48.1,51.8,0.2
 Indiana Dist 3,190,61,0,251,75.7,24.3,0.0
 Indiana Dist 4,179,35,0,214,83.6,16.4,0.0
 Indiana Dist 5,137,34,1,172,79.7,19.8,0.6
@@ -47,13 +47,13 @@ O'Hara Ward 4 Dist 1,142,32,0,174,81.6,18.4,0.0
 O'Hara Ward 4 Dist 2,190,17,1,208,91.3,8.2,0.5
 O'Hara Ward 5 Dist 1,167,32,0,199,83.9,16.1,0.0
 O'Hara Ward 5 Dist 2,189,28,0,217,87.1,12.9,0.0
-Sharpsburg Dist 1,59,17,0,76,77.6,22.4,0.0
+Sharpsburg Dist 1,202,95,1,298,67.8,31.9,0.3
 Sharpsburg Dist 2,80,10,0,90,88.9,11.1,0.0
 Sharpsburg Dist 3,82,17,0,99,82.8,17.2,0.0
 Springdale Br Dist 1,70,12,0,82,85.4,14.6,0.0
 Springdale Br Dist 2,68,20,0,88,77.3,22.7,0.0
-Springdale Br Dist 3,55,17,1,73,75.3,23.3,1.4
-Springdale Br Dist 4,44,12,0,56,78.6,21.4,0.0
+Springdale Br Dist 3,180,145,1,326,55.2,44.5,0.3
+Springdale Br Dist 4,142,128,1,271,52.4,47.2,0.4
 Springdale Twp,149,41,0,190,78.4,21.6,0.0
 Tarentum Ward 1 Dist 1,39,5,0,44,88.6,11.4,0.0
 Tarentum Ward 1 Dist 2,44,9,0,53,83.0,17.0,0.0
