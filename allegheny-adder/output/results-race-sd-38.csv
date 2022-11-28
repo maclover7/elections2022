@@ -1,250 +1,250 @@
 precinct_name,dem_total,rep_total,wi_total,precinct_total,dem_pct,rep_pct,wi_pct
-Aspinwall Dist 1,423,188,0,611,69.2,30.8,0.0
-Aspinwall Dist 2,271,107,0,378,71.7,28.3,0.0
-Aspinwall Dist 3,423,170,1,594,71.2,28.6,0.2
-Blawnox,380,207,2,589,64.5,35.1,0.3
+Aspinwall Dist 1,429,188,0,617,69.5,30.5,0.0
+Aspinwall Dist 2,273,109,0,382,71.5,28.5,0.0
+Aspinwall Dist 3,428,171,1,600,71.3,28.5,0.2
+Blawnox,388,213,2,603,64.3,35.3,0.3
 Brackenridge Ward 1,147,117,0,264,55.7,44.3,0.0
-Brackenridge Ward 2,242,214,0,456,53.1,46.9,0.0
-Brackenridge Ward 3,164,190,0,354,46.3,53.7,0.0
-Cheswick Dist 1,212,215,1,428,49.5,50.2,0.2
-Cheswick Dist 2,237,233,0,470,50.4,49.6,0.0
-East Deer Ward 1,99,78,0,177,55.9,44.1,0.0
-East Deer Ward 2,164,191,0,355,46.2,53.8,0.0
-Etna Ward 1,330,170,2,502,65.7,33.9,0.4
-Etna Ward 2,222,133,2,357,62.2,37.3,0.6
-Etna Ward 3,278,196,1,475,58.5,41.3,0.2
-Fawn Dist 1,123,241,1,365,33.7,66.0,0.3
-Fawn Dist 2,223,383,2,608,36.7,63.0,0.3
-Fox Chapel Dist 1,359,264,1,624,57.5,42.3,0.2
-Fox Chapel Dist 2,418,306,1,725,57.7,42.2,0.1
-Fox Chapel Dist 3,346,225,0,571,60.6,39.4,0.0
-Fox Chapel Dist 4,538,318,3,859,62.6,37.0,0.3
-Fox Chapel Dist 5,311,349,2,662,47.0,52.7,0.3
-Frazer,190,326,0,516,36.8,63.2,0.0
-Hampton Dist 1,413,451,0,864,47.8,52.2,0.0
-Hampton Dist 2,386,493,2,881,43.8,56.0,0.2
-Hampton Dist 3,431,519,0,950,45.4,54.6,0.0
-Hampton Dist 4,187,236,0,423,44.2,55.8,0.0
-Hampton Dist 5,254,255,0,509,49.9,50.1,0.0
-Hampton Dist 6,214,243,0,457,46.8,53.2,0.0
-Hampton Dist 7,456,565,3,1024,44.5,55.2,0.3
-Hampton Dist 8,349,335,0,684,51.0,49.0,0.0
-Hampton Dist 9,442,563,0,1005,44.0,56.0,0.0
-Hampton Dist 10,502,541,0,1043,48.1,51.9,0.0
-Hampton Dist 11,612,680,0,1292,47.4,52.6,0.0
-Hampton Dist 12,324,325,0,649,49.9,50.1,0.0
-Hampton Dist 13,280,271,3,554,50.5,48.9,0.5
-Harmar Dist 1,421,438,1,860,49.0,50.9,0.1
-Harmar Dist 2,173,197,1,371,46.6,53.1,0.3
+Brackenridge Ward 2,244,216,0,460,53.0,47.0,0.0
+Brackenridge Ward 3,166,191,0,357,46.5,53.5,0.0
+Cheswick Dist 1,213,215,1,429,49.7,50.1,0.2
+Cheswick Dist 2,240,235,0,475,50.5,49.5,0.0
+East Deer Ward 1,100,78,0,178,56.2,43.8,0.0
+East Deer Ward 2,164,193,0,357,45.9,54.1,0.0
+Etna Ward 1,334,172,2,508,65.7,33.9,0.4
+Etna Ward 2,228,134,2,364,62.6,36.8,0.5
+Etna Ward 3,281,197,1,479,58.7,41.1,0.2
+Fawn Dist 1,124,241,1,366,33.9,65.8,0.3
+Fawn Dist 2,227,388,2,617,36.8,62.9,0.3
+Fox Chapel Dist 1,363,266,1,630,57.6,42.2,0.2
+Fox Chapel Dist 2,421,308,1,730,57.7,42.2,0.1
+Fox Chapel Dist 3,349,228,0,577,60.5,39.5,0.0
+Fox Chapel Dist 4,552,319,3,874,63.2,36.5,0.3
+Fox Chapel Dist 5,322,352,2,676,47.6,52.1,0.3
+Frazer,192,328,0,520,36.9,63.1,0.0
+Hampton Dist 1,417,459,0,876,47.6,52.4,0.0
+Hampton Dist 2,397,495,2,894,44.4,55.4,0.2
+Hampton Dist 3,435,522,0,957,45.5,54.5,0.0
+Hampton Dist 4,192,237,0,429,44.8,55.2,0.0
+Hampton Dist 5,255,256,0,511,49.9,50.1,0.0
+Hampton Dist 6,218,243,0,461,47.3,52.7,0.0
+Hampton Dist 7,464,570,3,1037,44.7,55.0,0.3
+Hampton Dist 8,354,335,0,689,51.4,48.6,0.0
+Hampton Dist 9,448,566,0,1014,44.2,55.8,0.0
+Hampton Dist 10,511,543,0,1054,48.5,51.5,0.0
+Hampton Dist 11,620,683,0,1303,47.6,52.4,0.0
+Hampton Dist 12,329,327,0,656,50.2,49.8,0.0
+Hampton Dist 13,280,272,3,555,50.5,49.0,0.5
+Harmar Dist 1,425,441,1,867,49.0,50.9,0.1
+Harmar Dist 2,180,198,1,379,47.5,52.2,0.3
 Harmar Dist 3,108,135,0,243,44.4,55.6,0.0
-Harrison Ward 1 Dist 1,92,121,1,214,43.0,56.5,0.5
-Harrison Ward 1 Dist 2,219,210,0,429,51.0,49.0,0.0
-Harrison Ward 1 Dist 3,223,232,0,455,49.0,51.0,0.0
-Harrison Ward 2 Dist 1,108,94,0,202,53.5,46.5,0.0
-Harrison Ward 2 Dist 2,142,124,0,266,53.4,46.6,0.0
-Harrison Ward 3 Dist 1,361,383,2,746,48.4,51.3,0.3
-Harrison Ward 3 Dist 2,224,223,3,450,49.8,49.6,0.7
-Harrison Ward 4 Dist 1,200,254,1,455,44.0,55.8,0.2
-Harrison Ward 4 Dist 2,157,203,0,360,43.6,56.4,0.0
-Harrison Ward 5 Dist 1,148,74,0,222,66.7,33.3,0.0
-Harrison Ward 5 Dist 2,219,263,1,483,45.3,54.5,0.2
-Indiana Dist 1,302,314,1,617,48.9,50.9,0.2
-Indiana Dist 2,291,318,0,609,47.8,52.2,0.0
-Indiana Dist 3,455,482,1,938,48.5,51.4,0.1
-Indiana Dist 4,450,374,0,824,54.6,45.4,0.0
-Indiana Dist 5,357,305,1,663,53.8,46.0,0.2
-McCandless Ward 1 Dist 1,399,407,3,809,49.3,50.3,0.4
-McCandless Ward 1 Dist 2,295,217,3,515,57.3,42.1,0.6
-McCandless Ward 1 Dist 3,379,376,1,756,50.1,49.7,0.1
-McCandless Ward 2 Dist 1,538,427,0,965,55.8,44.2,0.0
-McCandless Ward 2 Dist 2,323,325,0,648,49.8,50.2,0.0
-McCandless Ward 2 Dist 3,297,313,1,611,48.6,51.2,0.2
-McCandless Ward 3 Dist 1,411,294,1,706,58.2,41.6,0.1
-McCandless Ward 3 Dist 2,406,362,0,768,52.9,47.1,0.0
-McCandless Ward 3 Dist 3,396,414,0,810,48.9,51.1,0.0
-McCandless Ward 4 Dist 1,538,507,1,1046,51.4,48.5,0.1
-McCandless Ward 4 Dist 2,315,294,1,610,51.6,48.2,0.2
-McCandless Ward 4 Dist 3,274,290,1,565,48.5,51.3,0.2
-McCandless Ward 5 Dist 1,296,348,0,644,46.0,54.0,0.0
-McCandless Ward 5 Dist 2,511,420,1,932,54.8,45.1,0.1
-McCandless Ward 5 Dist 3,430,272,1,703,61.2,38.7,0.1
-McCandless Ward 6 Dist 1,181,174,0,355,51.0,49.0,0.0
-McCandless Ward 6 Dist 2,382,394,0,776,49.2,50.8,0.0
-McCandless Ward 6 Dist 3,697,598,1,1296,53.8,46.1,0.1
-McCandless Ward 7 Dist 1,575,500,2,1077,53.4,46.4,0.2
-McCandless Ward 7 Dist 2,389,329,3,721,54.0,45.6,0.4
-McCandless Ward 7 Dist 3,190,194,0,384,49.5,50.5,0.0
-O'Hara Ward 1 Dist 1,414,269,2,685,60.4,39.3,0.3
-O'Hara Ward 1 Dist 2,261,162,0,423,61.7,38.3,0.0
-O'Hara Ward 2 Dist 1,280,165,1,446,62.8,37.0,0.2
-O'Hara Ward 2 Dist 2,374,281,1,656,57.0,42.8,0.2
-O'Hara Ward 3 Dist 1,282,197,0,479,58.9,41.1,0.0
-O'Hara Ward 3 Dist 2,199,188,4,391,50.9,48.1,1.0
-O'Hara Ward 4 Dist 1,269,130,0,399,67.4,32.6,0.0
-O'Hara Ward 4 Dist 2,428,171,1,600,71.3,28.5,0.2
-O'Hara Ward 5 Dist 1,346,209,1,556,62.2,37.6,0.2
-O'Hara Ward 5 Dist 2,450,191,1,642,70.1,29.8,0.2
-Pine Dist 1,460,540,0,1000,46.0,54.0,0.0
-Pine Dist 2,691,895,2,1588,43.5,56.4,0.1
+Harrison Ward 1 Dist 1,93,121,1,215,43.3,56.3,0.5
+Harrison Ward 1 Dist 2,225,211,0,436,51.6,48.4,0.0
+Harrison Ward 1 Dist 3,228,232,0,460,49.6,50.4,0.0
+Harrison Ward 2 Dist 1,109,94,0,203,53.7,46.3,0.0
+Harrison Ward 2 Dist 2,143,125,0,268,53.4,46.6,0.0
+Harrison Ward 3 Dist 1,367,385,2,754,48.7,51.1,0.3
+Harrison Ward 3 Dist 2,226,223,3,452,50.0,49.3,0.7
+Harrison Ward 4 Dist 1,204,254,1,459,44.4,55.3,0.2
+Harrison Ward 4 Dist 2,159,205,0,364,43.7,56.3,0.0
+Harrison Ward 5 Dist 1,152,74,0,226,67.3,32.7,0.0
+Harrison Ward 5 Dist 2,222,264,1,487,45.6,54.2,0.2
+Indiana Dist 1,311,315,1,627,49.6,50.2,0.2
+Indiana Dist 2,292,319,0,611,47.8,52.2,0.0
+Indiana Dist 3,462,483,1,946,48.8,51.1,0.1
+Indiana Dist 4,458,375,0,833,55.0,45.0,0.0
+Indiana Dist 5,364,307,1,672,54.2,45.7,0.1
+McCandless Ward 1 Dist 1,410,410,3,823,49.8,49.8,0.4
+McCandless Ward 1 Dist 2,300,220,3,523,57.4,42.1,0.6
+McCandless Ward 1 Dist 3,387,379,1,767,50.5,49.4,0.1
+McCandless Ward 2 Dist 1,541,428,0,969,55.8,44.2,0.0
+McCandless Ward 2 Dist 2,327,329,0,656,49.8,50.2,0.0
+McCandless Ward 2 Dist 3,302,315,1,618,48.9,51.0,0.2
+McCandless Ward 3 Dist 1,413,295,1,709,58.3,41.6,0.1
+McCandless Ward 3 Dist 2,409,366,0,775,52.8,47.2,0.0
+McCandless Ward 3 Dist 3,399,417,0,816,48.9,51.1,0.0
+McCandless Ward 4 Dist 1,544,507,1,1052,51.7,48.2,0.1
+McCandless Ward 4 Dist 2,323,299,1,623,51.8,48.0,0.2
+McCandless Ward 4 Dist 3,280,292,1,573,48.9,51.0,0.2
+McCandless Ward 5 Dist 1,297,348,0,645,46.0,54.0,0.0
+McCandless Ward 5 Dist 2,521,425,1,947,55.0,44.9,0.1
+McCandless Ward 5 Dist 3,434,275,1,710,61.1,38.7,0.1
+McCandless Ward 6 Dist 1,182,176,0,358,50.8,49.2,0.0
+McCandless Ward 6 Dist 2,387,395,0,782,49.5,50.5,0.0
+McCandless Ward 6 Dist 3,708,605,1,1314,53.9,46.0,0.1
+McCandless Ward 7 Dist 1,584,506,2,1092,53.5,46.3,0.2
+McCandless Ward 7 Dist 2,395,331,3,729,54.2,45.4,0.4
+McCandless Ward 7 Dist 3,191,194,0,385,49.6,50.4,0.0
+O'Hara Ward 1 Dist 1,422,271,2,695,60.7,39.0,0.3
+O'Hara Ward 1 Dist 2,272,163,0,435,62.5,37.5,0.0
+O'Hara Ward 2 Dist 1,285,166,1,452,63.1,36.7,0.2
+O'Hara Ward 2 Dist 2,391,281,1,673,58.1,41.8,0.1
+O'Hara Ward 3 Dist 1,286,199,0,485,59.0,41.0,0.0
+O'Hara Ward 3 Dist 2,204,188,4,396,51.5,47.5,1.0
+O'Hara Ward 4 Dist 1,274,130,0,404,67.8,32.2,0.0
+O'Hara Ward 4 Dist 2,435,171,1,607,71.7,28.2,0.2
+O'Hara Ward 5 Dist 1,352,213,1,566,62.2,37.6,0.2
+O'Hara Ward 5 Dist 2,451,192,1,644,70.0,29.8,0.2
+Pine Dist 1,462,544,0,1006,45.9,54.1,0.0
+Pine Dist 2,697,901,2,1600,43.6,56.3,0.1
 Pine Dist 3,141,177,0,318,44.3,55.7,0.0
-Pine Dist 4,464,537,0,1001,46.4,53.6,0.0
-Pine Dist 5,545,671,1,1217,44.8,55.1,0.1
-Pine Dist 6,278,357,0,635,43.8,56.2,0.0
-Pine Dist 7,498,488,1,987,50.5,49.4,0.1
-Pine Dist 8,319,451,1,771,41.4,58.5,0.1
-Pittsburgh Ward 10 Dist 1,338,54,0,392,86.2,13.8,0.0
-Pittsburgh Ward 10 Dist 2,354,55,1,410,86.3,13.4,0.2
-Pittsburgh Ward 10 Dist 3,361,60,0,421,85.7,14.3,0.0
-Pittsburgh Ward 10 Dist 4,310,74,1,385,80.5,19.2,0.3
-Pittsburgh Ward 10 Dist 5,299,56,1,356,84.0,15.7,0.3
-Pittsburgh Ward 10 Dist 6,242,71,1,314,77.1,22.6,0.3
-Pittsburgh Ward 10 Dist 7,317,90,0,407,77.9,22.1,0.0
-Pittsburgh Ward 10 Dist 8,330,83,0,413,79.9,20.1,0.0
-Pittsburgh Ward 10 Dist 9,285,85,1,371,76.8,22.9,0.3
-Pittsburgh Ward 10 Dist 10,348,95,0,443,78.6,21.4,0.0
-Pittsburgh Ward 10 Dist 11,326,76,0,402,81.1,18.9,0.0
-Pittsburgh Ward 10 Dist 12,278,24,1,303,91.7,7.9,0.3
-Pittsburgh Ward 10 Dist 13,299,46,1,346,86.4,13.3,0.3
-Pittsburgh Ward 10 Dist 14,349,27,0,376,92.8,7.2,0.0
-Pittsburgh Ward 10 Dist 15,149,7,0,156,95.5,4.5,0.0
+Pine Dist 4,472,540,0,1012,46.6,53.4,0.0
+Pine Dist 5,552,676,1,1229,44.9,55.0,0.1
+Pine Dist 6,279,359,0,638,43.7,56.3,0.0
+Pine Dist 7,502,490,1,993,50.6,49.3,0.1
+Pine Dist 8,321,455,1,777,41.3,58.6,0.1
+Pittsburgh Ward 10 Dist 1,345,54,0,399,86.5,13.5,0.0
+Pittsburgh Ward 10 Dist 2,360,55,1,416,86.5,13.2,0.2
+Pittsburgh Ward 10 Dist 3,370,60,0,430,86.0,14.0,0.0
+Pittsburgh Ward 10 Dist 4,315,76,1,392,80.4,19.4,0.3
+Pittsburgh Ward 10 Dist 5,301,57,1,359,83.8,15.9,0.3
+Pittsburgh Ward 10 Dist 6,248,73,1,322,77.0,22.7,0.3
+Pittsburgh Ward 10 Dist 7,321,90,0,411,78.1,21.9,0.0
+Pittsburgh Ward 10 Dist 8,336,84,0,420,80.0,20.0,0.0
+Pittsburgh Ward 10 Dist 9,289,85,1,375,77.1,22.7,0.3
+Pittsburgh Ward 10 Dist 10,354,95,0,449,78.8,21.2,0.0
+Pittsburgh Ward 10 Dist 11,328,76,0,404,81.2,18.8,0.0
+Pittsburgh Ward 10 Dist 12,280,24,1,305,91.8,7.9,0.3
+Pittsburgh Ward 10 Dist 13,304,46,1,351,86.6,13.1,0.3
+Pittsburgh Ward 10 Dist 14,352,28,0,380,92.6,7.4,0.0
+Pittsburgh Ward 10 Dist 15,152,8,0,160,95.0,5.0,0.0
 Pittsburgh Ward 10 Dist 16,120,5,0,125,96.0,4.0,0.0
 Pittsburgh Ward 10 Dist 17,215,24,0,239,90.0,10.0,0.0
-Pittsburgh Ward 10 Dist 18,276,9,0,285,96.8,3.2,0.0
-Pittsburgh Ward 10 Dist 19,216,6,1,223,96.9,2.7,0.4
-Pittsburgh Ward 11 Dist 1,329,29,1,359,91.6,8.1,0.3
-Pittsburgh Ward 11 Dist 2,254,15,0,269,94.4,5.6,0.0
-Pittsburgh Ward 11 Dist 3,175,7,1,183,95.6,3.8,0.5
-Pittsburgh Ward 11 Dist 4,202,13,0,215,94.0,6.0,0.0
+Pittsburgh Ward 10 Dist 18,279,9,0,288,96.9,3.1,0.0
+Pittsburgh Ward 10 Dist 19,220,6,1,227,96.9,2.6,0.4
+Pittsburgh Ward 11 Dist 1,338,29,1,368,91.8,7.9,0.3
+Pittsburgh Ward 11 Dist 2,264,16,0,280,94.3,5.7,0.0
+Pittsburgh Ward 11 Dist 3,178,7,1,186,95.7,3.8,0.5
+Pittsburgh Ward 11 Dist 4,209,15,0,224,93.3,6.7,0.0
 Pittsburgh Ward 11 Dist 5,261,17,1,279,93.5,6.1,0.4
-Pittsburgh Ward 11 Dist 6,423,38,2,463,91.4,8.2,0.4
-Pittsburgh Ward 11 Dist 7,393,63,0,456,86.2,13.8,0.0
-Pittsburgh Ward 11 Dist 8,320,34,1,355,90.1,9.6,0.3
-Pittsburgh Ward 11 Dist 9,404,45,1,450,89.8,10.0,0.2
-Pittsburgh Ward 11 Dist 10,379,55,1,435,87.1,12.6,0.2
-Pittsburgh Ward 11 Dist 11,348,31,0,379,91.8,8.2,0.0
-Pittsburgh Ward 11 Dist 12,414,43,1,458,90.4,9.4,0.2
-Pittsburgh Ward 11 Dist 13,439,48,1,488,90.0,9.8,0.2
-Pittsburgh Ward 11 Dist 14,261,14,0,275,94.9,5.1,0.0
-Pittsburgh Ward 11 Dist 15,130,1,0,131,99.2,0.8,0.0
-Pittsburgh Ward 11 Dist 16,256,24,0,280,91.4,8.6,0.0
-Pittsburgh Ward 11 Dist 17,317,14,0,331,95.8,4.2,0.0
-Pittsburgh Ward 11 Dist 18,248,16,0,264,93.9,6.1,0.0
+Pittsburgh Ward 11 Dist 6,425,38,2,465,91.4,8.2,0.4
+Pittsburgh Ward 11 Dist 7,398,64,0,462,86.1,13.9,0.0
+Pittsburgh Ward 11 Dist 8,326,37,1,364,89.6,10.2,0.3
+Pittsburgh Ward 11 Dist 9,411,46,1,458,89.7,10.0,0.2
+Pittsburgh Ward 11 Dist 10,386,55,1,442,87.3,12.4,0.2
+Pittsburgh Ward 11 Dist 11,355,31,0,386,92.0,8.0,0.0
+Pittsburgh Ward 11 Dist 12,420,43,1,464,90.5,9.3,0.2
+Pittsburgh Ward 11 Dist 13,445,48,1,494,90.1,9.7,0.2
+Pittsburgh Ward 11 Dist 14,262,14,0,276,94.9,5.1,0.0
+Pittsburgh Ward 11 Dist 15,131,1,0,132,99.2,0.8,0.0
+Pittsburgh Ward 11 Dist 16,259,24,0,283,91.5,8.5,0.0
+Pittsburgh Ward 11 Dist 17,331,15,0,346,95.7,4.3,0.0
+Pittsburgh Ward 11 Dist 18,254,16,0,270,94.1,5.9,0.0
 Pittsburgh Ward 12 Dist 1,48,2,0,50,96.0,4.0,0.0
-Pittsburgh Ward 12 Dist 2,103,4,0,107,96.3,3.7,0.0
+Pittsburgh Ward 12 Dist 2,104,4,0,108,96.3,3.7,0.0
 Pittsburgh Ward 12 Dist 3,56,2,0,58,96.6,3.4,0.0
 Pittsburgh Ward 12 Dist 4,145,5,0,150,96.7,3.3,0.0
-Pittsburgh Ward 12 Dist 5,34,5,0,39,87.2,12.8,0.0
-Pittsburgh Ward 12 Dist 6,70,4,0,74,94.6,5.4,0.0
-Pittsburgh Ward 12 Dist 7,102,4,0,106,96.2,3.8,0.0
-Pittsburgh Ward 12 Dist 8,70,1,0,71,98.6,1.4,0.0
-Pittsburgh Ward 12 Dist 9,105,4,0,109,96.3,3.7,0.0
+Pittsburgh Ward 12 Dist 5,36,5,0,41,87.8,12.2,0.0
+Pittsburgh Ward 12 Dist 6,73,4,0,77,94.8,5.2,0.0
+Pittsburgh Ward 12 Dist 7,103,4,0,107,96.3,3.7,0.0
+Pittsburgh Ward 12 Dist 8,71,1,0,72,98.6,1.4,0.0
+Pittsburgh Ward 12 Dist 9,106,4,0,110,96.4,3.6,0.0
 Pittsburgh Ward 12 Dist 10,181,6,1,188,96.3,3.2,0.5
-Pittsburgh Ward 12 Dist 11,184,4,0,188,97.9,2.1,0.0
-Pittsburgh Ward 12 Dist 12,234,16,0,250,93.6,6.4,0.0
-Pittsburgh Ward 12 Dist 13,162,3,0,165,98.2,1.8,0.0
-Pittsburgh Ward 12 Dist 14,112,1,1,114,98.2,0.9,0.9
-Pittsburgh Ward 12 Dist 15,239,6,0,245,97.6,2.4,0.0
-Pittsburgh Ward 12 Dist 16,139,2,1,142,97.9,1.4,0.7
-Richland Dist 1,383,465,1,849,45.1,54.8,0.1
-Richland Dist 2,334,434,1,769,43.4,56.4,0.1
-Richland Dist 3,359,431,2,792,45.3,54.4,0.3
-Richland Dist 4,351,468,0,819,42.9,57.1,0.0
-Richland Dist 5,268,429,1,698,38.4,61.5,0.1
-Richland Dist 6,330,477,1,808,40.8,59.0,0.1
-Richland Dist 7,340,498,0,838,40.6,59.4,0.0
-Richland Dist 8,237,372,0,609,38.9,61.1,0.0
-Ross Ward 1 Dist 1,269,265,1,535,50.3,49.5,0.2
-Ross Ward 1 Dist 2,264,166,2,432,61.1,38.4,0.5
-Ross Ward 1 Dist 3,180,140,2,322,55.9,43.5,0.6
-Ross Ward 1 Dist 4,321,276,2,599,53.6,46.1,0.3
-Ross Ward 2 Dist 1,458,346,2,806,56.8,42.9,0.2
-Ross Ward 2 Dist 2,353,332,1,686,51.5,48.4,0.1
-Ross Ward 2 Dist 3,267,239,0,506,52.8,47.2,0.0
-Ross Ward 3 Dist 1,284,191,1,476,59.7,40.1,0.2
-Ross Ward 3 Dist 2,310,218,2,530,58.5,41.1,0.4
-Ross Ward 3 Dist 3,197,180,0,377,52.3,47.7,0.0
-Ross Ward 3 Dist 4,257,220,1,478,53.8,46.0,0.2
-Ross Ward 4 Dist 1,325,275,3,603,53.9,45.6,0.5
-Ross Ward 4 Dist 2,405,317,2,724,55.9,43.8,0.3
-Ross Ward 4 Dist 3,258,264,1,523,49.3,50.5,0.2
-Ross Ward 4 Dist 4,285,247,0,532,53.6,46.4,0.0
-Ross Ward 5 Dist 1,228,208,3,439,51.9,47.4,0.7
-Ross Ward 5 Dist 2,162,123,0,285,56.8,43.2,0.0
-Ross Ward 5 Dist 3,260,243,0,503,51.7,48.3,0.0
-Ross Ward 5 Dist 4,290,250,0,540,53.7,46.3,0.0
-Ross Ward 6 Dist 1,224,110,1,335,66.9,32.8,0.3
-Ross Ward 6 Dist 2,395,252,0,647,61.1,38.9,0.0
-Ross Ward 6 Dist 3,265,167,1,433,61.2,38.6,0.2
-Ross Ward 6 Dist 4,219,160,0,379,57.8,42.2,0.0
-Ross Ward 7 Dist 1,214,186,0,400,53.5,46.5,0.0
-Ross Ward 7 Dist 2,192,125,0,317,60.6,39.4,0.0
-Ross Ward 7 Dist 3,281,202,0,483,58.2,41.8,0.0
-Ross Ward 7 Dist 4,205,179,0,384,53.4,46.6,0.0
-Ross Ward 8 Dist 1,577,389,2,968,59.6,40.2,0.2
-Ross Ward 8 Dist 2,177,126,0,303,58.4,41.6,0.0
-Ross Ward 8 Dist 3,241,182,1,424,56.8,42.9,0.2
-Ross Ward 9 Dist 1,303,317,2,622,48.7,51.0,0.3
-Ross Ward 9 Dist 2,376,296,1,673,55.9,44.0,0.1
-Ross Ward 9 Dist 3,275,276,1,552,49.8,50.0,0.2
+Pittsburgh Ward 12 Dist 11,185,4,0,189,97.9,2.1,0.0
+Pittsburgh Ward 12 Dist 12,238,16,0,254,93.7,6.3,0.0
+Pittsburgh Ward 12 Dist 13,169,3,0,172,98.3,1.7,0.0
+Pittsburgh Ward 12 Dist 14,114,1,1,116,98.3,0.9,0.9
+Pittsburgh Ward 12 Dist 15,243,6,0,249,97.6,2.4,0.0
+Pittsburgh Ward 12 Dist 16,140,2,1,143,97.9,1.4,0.7
+Richland Dist 1,387,466,1,854,45.3,54.6,0.1
+Richland Dist 2,345,436,1,782,44.1,55.8,0.1
+Richland Dist 3,364,433,2,799,45.6,54.2,0.3
+Richland Dist 4,359,471,0,830,43.3,56.7,0.0
+Richland Dist 5,272,433,1,706,38.5,61.3,0.1
+Richland Dist 6,335,478,1,814,41.2,58.7,0.1
+Richland Dist 7,344,498,0,842,40.9,59.1,0.0
+Richland Dist 8,239,372,0,611,39.1,60.9,0.0
+Ross Ward 1 Dist 1,273,265,1,539,50.6,49.2,0.2
+Ross Ward 1 Dist 2,272,167,2,441,61.7,37.9,0.5
+Ross Ward 1 Dist 3,184,142,2,328,56.1,43.3,0.6
+Ross Ward 1 Dist 4,323,277,2,602,53.7,46.0,0.3
+Ross Ward 2 Dist 1,460,349,2,811,56.7,43.0,0.2
+Ross Ward 2 Dist 2,357,333,1,691,51.7,48.2,0.1
+Ross Ward 2 Dist 3,274,240,0,514,53.3,46.7,0.0
+Ross Ward 3 Dist 1,286,191,1,478,59.8,40.0,0.2
+Ross Ward 3 Dist 2,312,218,2,532,58.6,41.0,0.4
+Ross Ward 3 Dist 3,202,180,0,382,52.9,47.1,0.0
+Ross Ward 3 Dist 4,261,221,1,483,54.0,45.8,0.2
+Ross Ward 4 Dist 1,328,276,3,607,54.0,45.5,0.5
+Ross Ward 4 Dist 2,408,320,2,730,55.9,43.8,0.3
+Ross Ward 4 Dist 3,259,266,1,526,49.2,50.6,0.2
+Ross Ward 4 Dist 4,288,247,0,535,53.8,46.2,0.0
+Ross Ward 5 Dist 1,228,209,3,440,51.8,47.5,0.7
+Ross Ward 5 Dist 2,163,123,0,286,57.0,43.0,0.0
+Ross Ward 5 Dist 3,261,243,0,504,51.8,48.2,0.0
+Ross Ward 5 Dist 4,297,250,0,547,54.3,45.7,0.0
+Ross Ward 6 Dist 1,233,112,1,346,67.3,32.4,0.3
+Ross Ward 6 Dist 2,398,252,0,650,61.2,38.8,0.0
+Ross Ward 6 Dist 3,272,167,1,440,61.8,38.0,0.2
+Ross Ward 6 Dist 4,224,160,0,384,58.3,41.7,0.0
+Ross Ward 7 Dist 1,215,186,0,401,53.6,46.4,0.0
+Ross Ward 7 Dist 2,194,125,0,319,60.8,39.2,0.0
+Ross Ward 7 Dist 3,281,204,0,485,57.9,42.1,0.0
+Ross Ward 7 Dist 4,211,179,0,390,54.1,45.9,0.0
+Ross Ward 8 Dist 1,589,395,3,987,59.7,40.0,0.3
+Ross Ward 8 Dist 2,181,127,0,308,58.8,41.2,0.0
+Ross Ward 8 Dist 3,245,183,1,429,57.1,42.7,0.2
+Ross Ward 9 Dist 1,305,318,2,625,48.8,50.9,0.3
+Ross Ward 9 Dist 2,380,297,1,678,56.0,43.8,0.1
+Ross Ward 9 Dist 3,277,276,1,554,50.0,49.8,0.2
 Shaler Ward 1 Dist 1,212,175,0,387,54.8,45.2,0.0
-Shaler Ward 1 Dist 2,202,159,0,361,56.0,44.0,0.0
-Shaler Ward 1 Dist 3,167,173,0,340,49.1,50.9,0.0
-Shaler Ward 1 Dist 4,245,203,0,448,54.7,45.3,0.0
-Shaler Ward 1 Dist 5,225,169,1,395,57.0,42.8,0.3
+Shaler Ward 1 Dist 2,206,161,0,367,56.1,43.9,0.0
+Shaler Ward 1 Dist 3,171,173,0,344,49.7,50.3,0.0
+Shaler Ward 1 Dist 4,248,203,0,451,55.0,45.0,0.0
+Shaler Ward 1 Dist 5,230,171,1,402,57.2,42.5,0.2
 Shaler Ward 2 Dist 1,334,428,0,762,43.8,56.2,0.0
-Shaler Ward 2 Dist 2,245,316,0,561,43.7,56.3,0.0
-Shaler Ward 2 Dist 3,231,158,0,389,59.4,40.6,0.0
-Shaler Ward 2 Dist 4,295,276,1,572,51.6,48.3,0.2
-Shaler Ward 2 Dist 5,125,125,0,250,50.0,50.0,0.0
-Shaler Ward 3 Dist 1,228,214,3,445,51.2,48.1,0.7
-Shaler Ward 3 Dist 2,224,225,1,450,49.8,50.0,0.2
-Shaler Ward 3 Dist 3,182,236,0,418,43.5,56.5,0.0
-Shaler Ward 3 Dist 4,273,268,0,541,50.5,49.5,0.0
-Shaler Ward 3 Dist 5,208,281,2,491,42.4,57.2,0.4
-Shaler Ward 4 Dist 1,301,282,1,584,51.5,48.3,0.2
-Shaler Ward 4 Dist 2,163,145,1,309,52.8,46.9,0.3
-Shaler Ward 4 Dist 3,244,232,2,478,51.0,48.5,0.4
-Shaler Ward 4 Dist 4,218,252,2,472,46.2,53.4,0.4
-Shaler Ward 4 Dist 5,195,165,2,362,53.9,45.6,0.6
-Shaler Ward 5 Dist 1,240,336,1,577,41.6,58.2,0.2
-Shaler Ward 5 Dist 2,245,249,0,494,49.6,50.4,0.0
-Shaler Ward 5 Dist 3,212,200,0,412,51.5,48.5,0.0
-Shaler Ward 5 Dist 4,113,147,0,260,43.5,56.5,0.0
-Shaler Ward 5 Dist 5,266,277,1,544,48.9,50.9,0.2
-Shaler Ward 6 Dist 1,235,230,0,465,50.5,49.5,0.0
-Shaler Ward 6 Dist 2,230,265,1,496,46.4,53.4,0.2
-Shaler Ward 6 Dist 3,186,244,0,430,43.3,56.7,0.0
+Shaler Ward 2 Dist 2,246,316,0,562,43.8,56.2,0.0
+Shaler Ward 2 Dist 3,233,158,0,391,59.6,40.4,0.0
+Shaler Ward 2 Dist 4,298,277,1,576,51.7,48.1,0.2
+Shaler Ward 2 Dist 5,130,127,0,257,50.6,49.4,0.0
+Shaler Ward 3 Dist 1,233,218,3,454,51.3,48.0,0.7
+Shaler Ward 3 Dist 2,226,226,1,453,49.9,49.9,0.2
+Shaler Ward 3 Dist 3,184,237,0,421,43.7,56.3,0.0
+Shaler Ward 3 Dist 4,276,270,0,546,50.5,49.5,0.0
+Shaler Ward 3 Dist 5,210,281,2,493,42.6,57.0,0.4
+Shaler Ward 4 Dist 1,304,282,1,587,51.8,48.0,0.2
+Shaler Ward 4 Dist 2,165,145,1,311,53.1,46.6,0.3
+Shaler Ward 4 Dist 3,247,235,2,484,51.0,48.6,0.4
+Shaler Ward 4 Dist 4,219,253,2,474,46.2,53.4,0.4
+Shaler Ward 4 Dist 5,196,166,2,364,53.8,45.6,0.5
+Shaler Ward 5 Dist 1,246,337,1,584,42.1,57.7,0.2
+Shaler Ward 5 Dist 2,252,252,0,504,50.0,50.0,0.0
+Shaler Ward 5 Dist 3,215,201,0,416,51.7,48.3,0.0
+Shaler Ward 5 Dist 4,113,149,0,262,43.1,56.9,0.0
+Shaler Ward 5 Dist 5,267,277,1,545,49.0,50.8,0.2
+Shaler Ward 6 Dist 1,239,231,0,470,50.9,49.1,0.0
+Shaler Ward 6 Dist 2,231,267,1,499,46.3,53.5,0.2
+Shaler Ward 6 Dist 3,188,246,0,434,43.3,56.7,0.0
 Shaler Ward 6 Dist 4,136,119,0,255,53.3,46.7,0.0
-Shaler Ward 6 Dist 5,204,200,0,404,50.5,49.5,0.0
-Shaler Ward 7 Dist 1,236,176,0,412,57.3,42.7,0.0
-Shaler Ward 7 Dist 2,261,244,0,505,51.7,48.3,0.0
-Shaler Ward 7 Dist 3,203,206,0,409,49.6,50.4,0.0
-Shaler Ward 7 Dist 4,326,375,5,706,46.2,53.1,0.7
-Sharpsburg Dist 1,206,93,1,300,68.7,31.0,0.3
-Sharpsburg Dist 2,291,113,4,408,71.3,27.7,1.0
-Sharpsburg Dist 3,267,197,1,465,57.4,42.4,0.2
-Springdale Br Dist 1,191,200,0,391,48.8,51.2,0.0
-Springdale Br Dist 2,183,225,1,409,44.7,55.0,0.2
-Springdale Br Dist 3,179,150,0,329,54.4,45.6,0.0
-Springdale Br Dist 4,138,139,0,277,49.8,50.2,0.0
-Springdale Twp,377,419,0,796,47.4,52.6,0.0
-Tarentum Ward 1 Dist 1,148,141,3,292,50.7,48.3,1.0
-Tarentum Ward 1 Dist 2,175,121,3,299,58.5,40.5,1.0
-Tarentum Ward 2,135,117,0,252,53.6,46.4,0.0
-Tarentum Ward 3 Dist 1,65,64,0,129,50.4,49.6,0.0
-Tarentum Ward 3 Dist 2,120,149,0,269,44.6,55.4,0.0
-West Deer Dist 1,395,627,1,1023,38.6,61.3,0.1
-West Deer Dist 2,145,272,0,417,34.8,65.2,0.0
-West Deer Dist 3,197,296,0,493,40.0,60.0,0.0
-West Deer Dist 4,277,329,0,606,45.7,54.3,0.0
-West Deer Dist 5,217,349,1,567,38.3,61.6,0.2
-West Deer Dist 6,222,300,0,522,42.5,57.5,0.0
-West Deer Dist 7,506,768,0,1274,39.7,60.3,0.0
-West Deer Dist 8,518,632,1,1151,45.0,54.9,0.1
-West View Dist 1,287,147,2,436,65.8,33.7,0.5
-West View Dist 2,265,187,0,452,58.6,41.4,0.0
-West View Dist 3,197,161,0,358,55.0,45.0,0.0
-West View Dist 4,216,170,1,387,55.8,43.9,0.3
-West View Dist 5,310,187,1,498,62.2,37.6,0.2
-West View Dist 6,318,200,2,520,61.2,38.5,0.4
-West View Dist 7,295,165,0,460,64.1,35.9,0.0
+Shaler Ward 6 Dist 5,204,201,0,405,50.4,49.6,0.0
+Shaler Ward 7 Dist 1,237,177,0,414,57.2,42.8,0.0
+Shaler Ward 7 Dist 2,266,244,0,510,52.2,47.8,0.0
+Shaler Ward 7 Dist 3,208,208,0,416,50.0,50.0,0.0
+Shaler Ward 7 Dist 4,330,376,5,711,46.4,52.9,0.7
+Sharpsburg Dist 1,209,94,1,304,68.8,30.9,0.3
+Sharpsburg Dist 2,296,114,4,414,71.5,27.5,1.0
+Sharpsburg Dist 3,271,199,1,471,57.5,42.3,0.2
+Springdale Br Dist 1,197,204,0,401,49.1,50.9,0.0
+Springdale Br Dist 2,185,228,1,414,44.7,55.1,0.2
+Springdale Br Dist 3,181,150,0,331,54.7,45.3,0.0
+Springdale Br Dist 4,141,139,0,280,50.4,49.6,0.0
+Springdale Twp,391,424,0,815,48.0,52.0,0.0
+Tarentum Ward 1 Dist 1,152,142,3,297,51.2,47.8,1.0
+Tarentum Ward 1 Dist 2,176,121,3,300,58.7,40.3,1.0
+Tarentum Ward 2,136,118,0,254,53.5,46.5,0.0
+Tarentum Ward 3 Dist 1,66,64,0,130,50.8,49.2,0.0
+Tarentum Ward 3 Dist 2,121,151,0,272,44.5,55.5,0.0
+West Deer Dist 1,397,632,1,1030,38.5,61.4,0.1
+West Deer Dist 2,147,272,0,419,35.1,64.9,0.0
+West Deer Dist 3,198,299,0,497,39.8,60.2,0.0
+West Deer Dist 4,281,330,0,611,46.0,54.0,0.0
+West Deer Dist 5,223,350,1,574,38.9,61.0,0.2
+West Deer Dist 6,227,306,0,533,42.6,57.4,0.0
+West Deer Dist 7,517,773,0,1290,40.1,59.9,0.0
+West Deer Dist 8,523,634,1,1158,45.2,54.7,0.1
+West View Dist 1,290,147,2,439,66.1,33.5,0.5
+West View Dist 2,267,188,0,455,58.7,41.3,0.0
+West View Dist 3,204,163,0,367,55.6,44.4,0.0
+West View Dist 4,217,173,1,391,55.5,44.2,0.3
+West View Dist 5,317,189,1,507,62.5,37.3,0.2
+West View Dist 6,320,201,2,523,61.2,38.4,0.4
+West View Dist 7,299,166,0,465,64.3,35.7,0.0
