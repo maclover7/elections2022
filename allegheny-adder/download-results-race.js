@@ -5,10 +5,11 @@ const config = require('./config');
 const resultsHeader = ['precinct_name', 'dem_total', 'rep_total', 'wi_total', 'precinct_total', 'dem_pct', 'rep_pct', 'wi_pct'];
 
 class RaceDownload {
-  constructor(electionId, raceId, raceName) {
+  constructor(electionId, raceIdForGeography, raceIdForResults, raceName) {
     this.electionId = electionId;
     this.baseUrl = `https://results.enr.clarityelections.com/PA/Allegheny/${electionId}`;
-    this.raceId = raceId;
+    this.raceIdForGeography = raceIdForGeography;
+    this.raceIdForResults = raceIdForResults;
     this.raceName = raceName;
   }
 
@@ -27,7 +28,10 @@ class RaceDownload {
     return makeJSONRequest(this.baseUrl, 'ALL.json')
       .then(({ Contests }) => {
         const results = Contests.map((precinct) => {
-          const precinctRaceIndex = precinct.C.indexOf(this.raceId);
+          // Skip precinct if it doesn't include the race for geography or results
+          if (precinct.C.indexOf(this.raceIdForGeography) === -1) return null;
+
+          const precinctRaceIndex = precinct.C.indexOf(this.raceIdForResults);
           if (precinctRaceIndex === -1) return null;
 
           // Skip race summary
@@ -59,7 +63,7 @@ class RaceDownload {
   }
 }
 
-config.races.forEach(([raceName, raceId]) => {
-  const rd = new RaceDownload(config.electionId, raceId, raceName);
+config.races.forEach(([raceName, raceIdForGeography, raceIdForResults]) => {
+  const rd = new RaceDownload(config.electionId, raceIdForGeography, raceIdForResults, raceName);
   rd.downloadRace();
 });
