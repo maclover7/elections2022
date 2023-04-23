@@ -16,7 +16,8 @@ will generate a file called `output/map-county-ELECTIONID.geojson`.
 
 Update the `races` array in `config.json`. There should be one array per
 tracked race, with the first entry as a race name of your selection,
-followed by the race ID number utilized in the Clarity election system.
+followed by the Clarity race ID for the "geography" and then the Clarity
+race ID for the "results."
 
 **Get zero-count results**
 
@@ -35,23 +36,23 @@ After you've downloaded the county map, and zero-count race results, run
   `create-map-race.js`.
 - Link to an external dataset, and insert the GitHub URL for the "raw"
   version of the `output/results-race-RACENAME.csv` for the race.
-- Select `dem_pct` as the color column, and insert the following as
+- Select `{{dem}}_pct` as the color column, and insert the following as
   the color preset: `#b2182b,#ef8a62,#d1e5f0,#67a9cf,#2166ac`.
-- You could also select `rep_pct` as the color column, but would need to
+- You could also select `{{rep}}_pct` as the color column, but would need to
   adjust the color preset accordingly.
 - Under custom range, change the center value to 50.
 - Insert a title, description and graphic credit.
-- Insert the source: `Allegheny County Elections Division`.
+- Insert the source: `Allegheny County Elections`.
 - Select to show map labels.
 - Click customize tooltips to open a dropdown menu, and insert something
   similar to the following. You can pick the candidate order:
 
 ```
-DEMCANDIDATENAMEHERE (D): {{ dem_total }}; {{ dem_pct }}%
+DEMCANDIDATENAMEHERE (D): {{ {{dem}}_total }}; {{ {{dem}}_pct }}%
 
-REPCANDIDATENAMEHERE (R): {{ rep_total }}; {{ rep_pct }}%
+REPCANDIDATENAMEHERE (R): {{ {{rep}}_total }}; {{ {{rep}}_pct }}%
 
-Write-in: {{ wi_total }}; {{ wi_pct }}%
+Write-in: {{ write-in_total }}; {{write-in_pct }}%
 
 Total votes: {{ precinct_total }}
 ```

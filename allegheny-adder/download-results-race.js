@@ -2,7 +2,6 @@ const { writeFile } = require('fs/promises');
 const { loadCurrentVersion, makeJSONRequest } = require('./clarity-utils');
 
 const config = require('./config');
-const resultsHeader = ['precinct_name', 'dem_total', 'rep_total', 'wi_total', 'precinct_total', 'dem_pct', 'rep_pct', 'wi_pct'];
 
 class RaceDownload {
   constructor(electionId, raceIdForGeography, raceIdForResults, raceName) {
@@ -25,41 +24,55 @@ class RaceDownload {
   }
 
   downloadResults() {
-    return makeJSONRequest(this.baseUrl, 'ALL.json')
-      .then(({ Contests }) => {
-        const results = Contests.map((precinct) => {
-          // Skip precinct if it doesn't include the race for geography or results
-          if (precinct.C.indexOf(this.raceIdForGeography) === -1) return null;
+    return Promise.all([
+      makeJSONRequest(this.baseUrl, 'sum.json'),
+      makeJSONRequest(this.baseUrl, 'ALL.json')
+    ]).then(([{ Contests: candidateContests }, { Contests: resultsContests }]) => {
+      const candidates = candidateContests
+        .find((c) => c.K === this.raceIdForResults)
+        .CH.map((c) => c.split(' ').pop());
 
-          const precinctRaceIndex = precinct.C.indexOf(this.raceIdForResults);
-          if (precinctRaceIndex === -1) return null;
+      const results = resultsContests.map((precinct) => {
+        // Skip race summary
+        if (precinct.A === "-1") return null;
 
-          // Skip race summary
-          if (precinct.A === "-1") return null;
+        // Skip precinct if it doesn't include the race for geography or results
+        if (precinct.C.indexOf(this.raceIdForGeography) === -1) return null;
 
-          const [demTotal, repTotal, wiTotal] = precinct.V[precinctRaceIndex];
-          const precinctTotal = demTotal + repTotal + wiTotal;
+        const precinctRaceIndex = precinct.C.indexOf(this.raceIdForResults);
+        if (precinctRaceIndex === -1) return null;
 
-          return [
-            precinct.A,
-            demTotal,
-            repTotal,
-            wiTotal,
-            precinctTotal,
-            precinctTotal === 0 ? 0 : (100 * (demTotal / precinctTotal)).toFixed(1),
-            precinctTotal === 0 ? 0 : (100 * (repTotal / precinctTotal)).toFixed(1),
-            precinctTotal === 0 ? 0 : (100 * (wiTotal / precinctTotal)).toFixed(1)
-          ];
-        })
-          .filter((r) => r);
+        const candidateVotes = precinct.V[precinctRaceIndex];
+        const precinctVotes = candidateVotes.reduce((acc, val) => acc + val, 0);
+        const candidatePercentages = candidateVotes.map((candidateVote) => {
+          if (precinctVotes === 0) return 0;
+          return (100 * (candidateVote / precinctVotes)).toFixed(1);
+        });
 
-        return Promise.resolve(results);
-      });
+        return [
+          precinct.A,
+          candidates[candidateVotes.indexOf(Math.max(...candidateVotes))],
+          ...candidateVotes,
+          precinctVotes,
+          ...candidatePercentages
+        ];
+      }).filter((r) => r);
+
+      return Promise.resolve([
+        [
+          'precinct_name',
+          'winner',
+          ...candidates.map((c) => `${c}_total`),
+          'precinct_total',
+          ...candidates.map((c) => `${c}_pct`)
+        ],
+        ...results
+      ]);
+    });
   }
 
   saveResults(results) {
-    const resultsWithHeader = [resultsHeader, ...results];
-    return writeFile(`output/results-race-${this.raceName}.csv`, resultsWithHeader.map((r) => r.join(',')).join("\n"));
+    return writeFile(`output/results-race-${this.raceName}.csv`, results.map((r) => r.join(',')).join("\n"));
   }
 }
 
