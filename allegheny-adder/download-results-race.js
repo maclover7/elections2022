@@ -43,6 +43,7 @@ class RaceDownload {
         if (precinctRaceIndex === -1) return null;
 
         const candidateVotes = precinct.V[precinctRaceIndex];
+        const precinctCandidateMaxVotes = Math.max(...candidateVotes);
         const precinctVotes = candidateVotes.reduce((acc, val) => acc + val, 0);
         const candidatePercentages = candidateVotes.map((candidateVote) => {
           if (precinctVotes === 0) return 0;
@@ -51,7 +52,8 @@ class RaceDownload {
 
         return [
           precinct.A,
-          candidates[candidateVotes.indexOf(Math.max(...candidateVotes))],
+          candidates[candidateVotes.indexOf(precinctCandidateMaxVotes)],
+          precinctCandidateMaxVotes - (precinctVotes - precinctCandidateMaxVotes),
           ...candidateVotes,
           precinctVotes,
           ...candidatePercentages
@@ -62,6 +64,7 @@ class RaceDownload {
         [
           'precinct_name',
           'winner',
+          'winner_net',
           ...candidates.map((c) => `${c}_total`),
           'precinct_total',
           ...candidates.map((c) => `${c}_pct`)
