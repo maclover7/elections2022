@@ -1,250 +1,250 @@
-precinct_name,winner,winner_net,Williams_total,Mizgorski_total,Write-in_total,precinct_total,Williams_pct,Mizgorski_pct,Write-in_pct
-Aspinwall Dist 1,Williams,241,429,188,0,617,69.5,30.5,0.0
-Aspinwall Dist 2,Williams,164,273,109,0,382,71.5,28.5,0.0
-Aspinwall Dist 3,Williams,256,428,171,1,600,71.3,28.5,0.2
-Blawnox,Williams,173,388,213,2,603,64.3,35.3,0.3
-Brackenridge Ward 1,Williams,30,147,117,0,264,55.7,44.3,0.0
-Brackenridge Ward 2,Williams,28,244,216,0,460,53.0,47.0,0.0
-Brackenridge Ward 3,Mizgorski,25,166,191,0,357,46.5,53.5,0.0
-Cheswick Dist 1,Mizgorski,1,213,215,1,429,49.7,50.1,0.2
-Cheswick Dist 2,Williams,5,240,235,0,475,50.5,49.5,0.0
-East Deer Ward 1,Williams,22,100,78,0,178,56.2,43.8,0.0
-East Deer Ward 2,Mizgorski,29,164,193,0,357,45.9,54.1,0.0
-Etna Ward 1,Williams,160,334,172,2,508,65.7,33.9,0.4
-Etna Ward 2,Williams,92,228,134,2,364,62.6,36.8,0.5
-Etna Ward 3,Williams,83,281,197,1,479,58.7,41.1,0.2
-Fawn Dist 1,Mizgorski,116,124,241,1,366,33.9,65.8,0.3
-Fawn Dist 2,Mizgorski,159,227,388,2,617,36.8,62.9,0.3
-Fox Chapel Dist 1,Williams,96,363,266,1,630,57.6,42.2,0.2
-Fox Chapel Dist 2,Williams,112,421,308,1,730,57.7,42.2,0.1
-Fox Chapel Dist 3,Williams,121,349,228,0,577,60.5,39.5,0.0
-Fox Chapel Dist 4,Williams,230,552,319,3,874,63.2,36.5,0.3
-Fox Chapel Dist 5,Mizgorski,28,322,352,2,676,47.6,52.1,0.3
-Frazer,Mizgorski,136,192,328,0,520,36.9,63.1,0.0
-Hampton Dist 1,Mizgorski,42,417,459,0,876,47.6,52.4,0.0
-Hampton Dist 2,Mizgorski,96,397,495,2,894,44.4,55.4,0.2
-Hampton Dist 3,Mizgorski,87,435,522,0,957,45.5,54.5,0.0
-Hampton Dist 4,Mizgorski,45,192,237,0,429,44.8,55.2,0.0
-Hampton Dist 5,Mizgorski,1,255,256,0,511,49.9,50.1,0.0
-Hampton Dist 6,Mizgorski,25,218,243,0,461,47.3,52.7,0.0
-Hampton Dist 7,Mizgorski,103,464,570,3,1037,44.7,55.0,0.3
-Hampton Dist 8,Williams,19,354,335,0,689,51.4,48.6,0.0
-Hampton Dist 9,Mizgorski,118,448,566,0,1014,44.2,55.8,0.0
-Hampton Dist 10,Mizgorski,32,511,543,0,1054,48.5,51.5,0.0
-Hampton Dist 11,Mizgorski,63,620,683,0,1303,47.6,52.4,0.0
-Hampton Dist 12,Williams,2,329,327,0,656,50.2,49.8,0.0
-Hampton Dist 13,Williams,5,280,272,3,555,50.5,49.0,0.5
-Harmar Dist 1,Mizgorski,15,425,441,1,867,49.0,50.9,0.1
-Harmar Dist 2,Mizgorski,17,180,198,1,379,47.5,52.2,0.3
-Harmar Dist 3,Mizgorski,27,108,135,0,243,44.4,55.6,0.0
-Harrison Ward 1 Dist 1,Mizgorski,27,93,121,1,215,43.3,56.3,0.5
-Harrison Ward 1 Dist 2,Williams,14,225,211,0,436,51.6,48.4,0.0
-Harrison Ward 1 Dist 3,Mizgorski,4,228,232,0,460,49.6,50.4,0.0
-Harrison Ward 2 Dist 1,Williams,15,109,94,0,203,53.7,46.3,0.0
-Harrison Ward 2 Dist 2,Williams,18,143,125,0,268,53.4,46.6,0.0
-Harrison Ward 3 Dist 1,Mizgorski,16,367,385,2,754,48.7,51.1,0.3
-Harrison Ward 3 Dist 2,Williams,0,226,223,3,452,50.0,49.3,0.7
-Harrison Ward 4 Dist 1,Mizgorski,49,204,254,1,459,44.4,55.3,0.2
-Harrison Ward 4 Dist 2,Mizgorski,46,159,205,0,364,43.7,56.3,0.0
-Harrison Ward 5 Dist 1,Williams,78,152,74,0,226,67.3,32.7,0.0
-Harrison Ward 5 Dist 2,Mizgorski,41,222,264,1,487,45.6,54.2,0.2
-Indiana Dist 1,Mizgorski,3,311,315,1,627,49.6,50.2,0.2
-Indiana Dist 2,Mizgorski,27,292,319,0,611,47.8,52.2,0.0
-Indiana Dist 3,Mizgorski,20,462,483,1,946,48.8,51.1,0.1
-Indiana Dist 4,Williams,83,458,375,0,833,55.0,45.0,0.0
-Indiana Dist 5,Williams,56,364,307,1,672,54.2,45.7,0.1
-McCandless Ward 1 Dist 1,Williams,-3,410,410,3,823,49.8,49.8,0.4
-McCandless Ward 1 Dist 2,Williams,77,300,220,3,523,57.4,42.1,0.6
-McCandless Ward 1 Dist 3,Williams,7,387,379,1,767,50.5,49.4,0.1
-McCandless Ward 2 Dist 1,Williams,113,541,428,0,969,55.8,44.2,0.0
-McCandless Ward 2 Dist 2,Mizgorski,2,327,329,0,656,49.8,50.2,0.0
-McCandless Ward 2 Dist 3,Mizgorski,12,302,315,1,618,48.9,51.0,0.2
-McCandless Ward 3 Dist 1,Williams,117,413,295,1,709,58.3,41.6,0.1
-McCandless Ward 3 Dist 2,Williams,43,409,366,0,775,52.8,47.2,0.0
-McCandless Ward 3 Dist 3,Mizgorski,18,399,417,0,816,48.9,51.1,0.0
-McCandless Ward 4 Dist 1,Williams,36,544,507,1,1052,51.7,48.2,0.1
-McCandless Ward 4 Dist 2,Williams,23,323,299,1,623,51.8,48.0,0.2
-McCandless Ward 4 Dist 3,Mizgorski,11,280,292,1,573,48.9,51.0,0.2
-McCandless Ward 5 Dist 1,Mizgorski,51,297,348,0,645,46.0,54.0,0.0
-McCandless Ward 5 Dist 2,Williams,95,521,425,1,947,55.0,44.9,0.1
-McCandless Ward 5 Dist 3,Williams,158,434,275,1,710,61.1,38.7,0.1
-McCandless Ward 6 Dist 1,Williams,6,182,176,0,358,50.8,49.2,0.0
-McCandless Ward 6 Dist 2,Mizgorski,8,387,395,0,782,49.5,50.5,0.0
-McCandless Ward 6 Dist 3,Williams,102,708,605,1,1314,53.9,46.0,0.1
-McCandless Ward 7 Dist 1,Williams,76,584,506,2,1092,53.5,46.3,0.2
-McCandless Ward 7 Dist 2,Williams,61,395,331,3,729,54.2,45.4,0.4
-McCandless Ward 7 Dist 3,Mizgorski,3,191,194,0,385,49.6,50.4,0.0
-O'Hara Ward 1 Dist 1,Williams,149,422,271,2,695,60.7,39.0,0.3
-O'Hara Ward 1 Dist 2,Williams,109,272,163,0,435,62.5,37.5,0.0
-O'Hara Ward 2 Dist 1,Williams,118,285,166,1,452,63.1,36.7,0.2
-O'Hara Ward 2 Dist 2,Williams,109,391,281,1,673,58.1,41.8,0.1
-O'Hara Ward 3 Dist 1,Williams,87,286,199,0,485,59.0,41.0,0.0
-O'Hara Ward 3 Dist 2,Williams,12,204,188,4,396,51.5,47.5,1.0
-O'Hara Ward 4 Dist 1,Williams,144,274,130,0,404,67.8,32.2,0.0
-O'Hara Ward 4 Dist 2,Williams,263,435,171,1,607,71.7,28.2,0.2
-O'Hara Ward 5 Dist 1,Williams,138,352,213,1,566,62.2,37.6,0.2
-O'Hara Ward 5 Dist 2,Williams,258,451,192,1,644,70.0,29.8,0.2
-Pine Dist 1,Mizgorski,82,462,544,0,1006,45.9,54.1,0.0
-Pine Dist 2,Mizgorski,202,697,901,2,1600,43.6,56.3,0.1
-Pine Dist 3,Mizgorski,36,141,177,0,318,44.3,55.7,0.0
-Pine Dist 4,Mizgorski,68,472,540,0,1012,46.6,53.4,0.0
-Pine Dist 5,Mizgorski,123,552,676,1,1229,44.9,55.0,0.1
-Pine Dist 6,Mizgorski,80,279,359,0,638,43.7,56.3,0.0
-Pine Dist 7,Williams,11,502,490,1,993,50.6,49.3,0.1
-Pine Dist 8,Mizgorski,133,321,455,1,777,41.3,58.6,0.1
-Pittsburgh Ward 10 Dist 1,Williams,291,345,54,0,399,86.5,13.5,0.0
-Pittsburgh Ward 10 Dist 2,Williams,304,360,55,1,416,86.5,13.2,0.2
-Pittsburgh Ward 10 Dist 3,Williams,310,370,60,0,430,86.0,14.0,0.0
-Pittsburgh Ward 10 Dist 4,Williams,238,315,76,1,392,80.4,19.4,0.3
-Pittsburgh Ward 10 Dist 5,Williams,243,301,57,1,359,83.8,15.9,0.3
-Pittsburgh Ward 10 Dist 6,Williams,174,248,73,1,322,77.0,22.7,0.3
-Pittsburgh Ward 10 Dist 7,Williams,231,321,90,0,411,78.1,21.9,0.0
-Pittsburgh Ward 10 Dist 8,Williams,252,336,84,0,420,80.0,20.0,0.0
-Pittsburgh Ward 10 Dist 9,Williams,203,289,85,1,375,77.1,22.7,0.3
-Pittsburgh Ward 10 Dist 10,Williams,259,354,95,0,449,78.8,21.2,0.0
-Pittsburgh Ward 10 Dist 11,Williams,252,328,76,0,404,81.2,18.8,0.0
-Pittsburgh Ward 10 Dist 12,Williams,255,280,24,1,305,91.8,7.9,0.3
-Pittsburgh Ward 10 Dist 13,Williams,257,304,46,1,351,86.6,13.1,0.3
-Pittsburgh Ward 10 Dist 14,Williams,324,352,28,0,380,92.6,7.4,0.0
-Pittsburgh Ward 10 Dist 15,Williams,144,152,8,0,160,95.0,5.0,0.0
-Pittsburgh Ward 10 Dist 16,Williams,115,120,5,0,125,96.0,4.0,0.0
-Pittsburgh Ward 10 Dist 17,Williams,191,215,24,0,239,90.0,10.0,0.0
-Pittsburgh Ward 10 Dist 18,Williams,270,279,9,0,288,96.9,3.1,0.0
-Pittsburgh Ward 10 Dist 19,Williams,213,220,6,1,227,96.9,2.6,0.4
-Pittsburgh Ward 11 Dist 1,Williams,308,338,29,1,368,91.8,7.9,0.3
-Pittsburgh Ward 11 Dist 2,Williams,248,264,16,0,280,94.3,5.7,0.0
-Pittsburgh Ward 11 Dist 3,Williams,170,178,7,1,186,95.7,3.8,0.5
-Pittsburgh Ward 11 Dist 4,Williams,194,209,15,0,224,93.3,6.7,0.0
-Pittsburgh Ward 11 Dist 5,Williams,243,261,17,1,279,93.5,6.1,0.4
-Pittsburgh Ward 11 Dist 6,Williams,385,425,38,2,465,91.4,8.2,0.4
-Pittsburgh Ward 11 Dist 7,Williams,334,398,64,0,462,86.1,13.9,0.0
-Pittsburgh Ward 11 Dist 8,Williams,288,326,37,1,364,89.6,10.2,0.3
-Pittsburgh Ward 11 Dist 9,Williams,364,411,46,1,458,89.7,10.0,0.2
-Pittsburgh Ward 11 Dist 10,Williams,330,386,55,1,442,87.3,12.4,0.2
-Pittsburgh Ward 11 Dist 11,Williams,324,355,31,0,386,92.0,8.0,0.0
-Pittsburgh Ward 11 Dist 12,Williams,376,420,43,1,464,90.5,9.3,0.2
-Pittsburgh Ward 11 Dist 13,Williams,396,445,48,1,494,90.1,9.7,0.2
-Pittsburgh Ward 11 Dist 14,Williams,248,262,14,0,276,94.9,5.1,0.0
-Pittsburgh Ward 11 Dist 15,Williams,130,131,1,0,132,99.2,0.8,0.0
-Pittsburgh Ward 11 Dist 16,Williams,235,259,24,0,283,91.5,8.5,0.0
-Pittsburgh Ward 11 Dist 17,Williams,316,331,15,0,346,95.7,4.3,0.0
-Pittsburgh Ward 11 Dist 18,Williams,238,254,16,0,270,94.1,5.9,0.0
-Pittsburgh Ward 12 Dist 1,Williams,46,48,2,0,50,96.0,4.0,0.0
-Pittsburgh Ward 12 Dist 2,Williams,100,104,4,0,108,96.3,3.7,0.0
-Pittsburgh Ward 12 Dist 3,Williams,54,56,2,0,58,96.6,3.4,0.0
-Pittsburgh Ward 12 Dist 4,Williams,140,145,5,0,150,96.7,3.3,0.0
-Pittsburgh Ward 12 Dist 5,Williams,31,36,5,0,41,87.8,12.2,0.0
-Pittsburgh Ward 12 Dist 6,Williams,69,73,4,0,77,94.8,5.2,0.0
-Pittsburgh Ward 12 Dist 7,Williams,99,103,4,0,107,96.3,3.7,0.0
-Pittsburgh Ward 12 Dist 8,Williams,70,71,1,0,72,98.6,1.4,0.0
-Pittsburgh Ward 12 Dist 9,Williams,102,106,4,0,110,96.4,3.6,0.0
-Pittsburgh Ward 12 Dist 10,Williams,174,181,6,1,188,96.3,3.2,0.5
-Pittsburgh Ward 12 Dist 11,Williams,181,185,4,0,189,97.9,2.1,0.0
-Pittsburgh Ward 12 Dist 12,Williams,222,238,16,0,254,93.7,6.3,0.0
-Pittsburgh Ward 12 Dist 13,Williams,166,169,3,0,172,98.3,1.7,0.0
-Pittsburgh Ward 12 Dist 14,Williams,112,114,1,1,116,98.3,0.9,0.9
-Pittsburgh Ward 12 Dist 15,Williams,237,243,6,0,249,97.6,2.4,0.0
-Pittsburgh Ward 12 Dist 16,Williams,137,140,2,1,143,97.9,1.4,0.7
-Richland Dist 1,Mizgorski,78,387,466,1,854,45.3,54.6,0.1
-Richland Dist 2,Mizgorski,90,345,436,1,782,44.1,55.8,0.1
-Richland Dist 3,Mizgorski,67,364,433,2,799,45.6,54.2,0.3
-Richland Dist 4,Mizgorski,112,359,471,0,830,43.3,56.7,0.0
-Richland Dist 5,Mizgorski,160,272,433,1,706,38.5,61.3,0.1
-Richland Dist 6,Mizgorski,142,335,478,1,814,41.2,58.7,0.1
-Richland Dist 7,Mizgorski,154,344,498,0,842,40.9,59.1,0.0
-Richland Dist 8,Mizgorski,133,239,372,0,611,39.1,60.9,0.0
-Ross Ward 1 Dist 1,Williams,7,273,265,1,539,50.6,49.2,0.2
-Ross Ward 1 Dist 2,Williams,103,272,167,2,441,61.7,37.9,0.5
-Ross Ward 1 Dist 3,Williams,40,184,142,2,328,56.1,43.3,0.6
-Ross Ward 1 Dist 4,Williams,44,323,277,2,602,53.7,46.0,0.3
-Ross Ward 2 Dist 1,Williams,109,460,349,2,811,56.7,43.0,0.2
-Ross Ward 2 Dist 2,Williams,23,357,333,1,691,51.7,48.2,0.1
-Ross Ward 2 Dist 3,Williams,34,274,240,0,514,53.3,46.7,0.0
-Ross Ward 3 Dist 1,Williams,94,286,191,1,478,59.8,40.0,0.2
-Ross Ward 3 Dist 2,Williams,92,312,218,2,532,58.6,41.0,0.4
-Ross Ward 3 Dist 3,Williams,22,202,180,0,382,52.9,47.1,0.0
-Ross Ward 3 Dist 4,Williams,39,261,221,1,483,54.0,45.8,0.2
-Ross Ward 4 Dist 1,Williams,49,328,276,3,607,54.0,45.5,0.5
-Ross Ward 4 Dist 2,Williams,86,408,320,2,730,55.9,43.8,0.3
-Ross Ward 4 Dist 3,Mizgorski,6,259,266,1,526,49.2,50.6,0.2
-Ross Ward 4 Dist 4,Williams,41,288,247,0,535,53.8,46.2,0.0
-Ross Ward 5 Dist 1,Williams,16,228,209,3,440,51.8,47.5,0.7
-Ross Ward 5 Dist 2,Williams,40,163,123,0,286,57.0,43.0,0.0
-Ross Ward 5 Dist 3,Williams,18,261,243,0,504,51.8,48.2,0.0
-Ross Ward 5 Dist 4,Williams,47,297,250,0,547,54.3,45.7,0.0
-Ross Ward 6 Dist 1,Williams,120,233,112,1,346,67.3,32.4,0.3
-Ross Ward 6 Dist 2,Williams,146,398,252,0,650,61.2,38.8,0.0
-Ross Ward 6 Dist 3,Williams,104,272,167,1,440,61.8,38.0,0.2
-Ross Ward 6 Dist 4,Williams,64,224,160,0,384,58.3,41.7,0.0
-Ross Ward 7 Dist 1,Williams,29,215,186,0,401,53.6,46.4,0.0
-Ross Ward 7 Dist 2,Williams,69,194,125,0,319,60.8,39.2,0.0
-Ross Ward 7 Dist 3,Williams,77,281,204,0,485,57.9,42.1,0.0
-Ross Ward 7 Dist 4,Williams,32,211,179,0,390,54.1,45.9,0.0
-Ross Ward 8 Dist 1,Williams,191,589,395,3,987,59.7,40.0,0.3
-Ross Ward 8 Dist 2,Williams,54,181,127,0,308,58.8,41.2,0.0
-Ross Ward 8 Dist 3,Williams,61,245,183,1,429,57.1,42.7,0.2
-Ross Ward 9 Dist 1,Mizgorski,11,305,318,2,625,48.8,50.9,0.3
-Ross Ward 9 Dist 2,Williams,82,380,297,1,678,56.0,43.8,0.1
-Ross Ward 9 Dist 3,Williams,0,277,276,1,554,50.0,49.8,0.2
-Shaler Ward 1 Dist 1,Williams,37,212,175,0,387,54.8,45.2,0.0
-Shaler Ward 1 Dist 2,Williams,45,206,161,0,367,56.1,43.9,0.0
-Shaler Ward 1 Dist 3,Mizgorski,2,171,173,0,344,49.7,50.3,0.0
-Shaler Ward 1 Dist 4,Williams,45,248,203,0,451,55.0,45.0,0.0
-Shaler Ward 1 Dist 5,Williams,58,230,171,1,402,57.2,42.5,0.2
-Shaler Ward 2 Dist 1,Mizgorski,94,334,428,0,762,43.8,56.2,0.0
-Shaler Ward 2 Dist 2,Mizgorski,70,246,316,0,562,43.8,56.2,0.0
-Shaler Ward 2 Dist 3,Williams,75,233,158,0,391,59.6,40.4,0.0
-Shaler Ward 2 Dist 4,Williams,20,298,277,1,576,51.7,48.1,0.2
-Shaler Ward 2 Dist 5,Williams,3,130,127,0,257,50.6,49.4,0.0
-Shaler Ward 3 Dist 1,Williams,12,233,218,3,454,51.3,48.0,0.7
-Shaler Ward 3 Dist 2,Williams,-1,226,226,1,453,49.9,49.9,0.2
-Shaler Ward 3 Dist 3,Mizgorski,53,184,237,0,421,43.7,56.3,0.0
-Shaler Ward 3 Dist 4,Williams,6,276,270,0,546,50.5,49.5,0.0
-Shaler Ward 3 Dist 5,Mizgorski,69,210,281,2,493,42.6,57.0,0.4
-Shaler Ward 4 Dist 1,Williams,21,304,282,1,587,51.8,48.0,0.2
-Shaler Ward 4 Dist 2,Williams,19,165,145,1,311,53.1,46.6,0.3
-Shaler Ward 4 Dist 3,Williams,10,247,235,2,484,51.0,48.6,0.4
-Shaler Ward 4 Dist 4,Mizgorski,32,219,253,2,474,46.2,53.4,0.4
-Shaler Ward 4 Dist 5,Williams,28,196,166,2,364,53.8,45.6,0.5
-Shaler Ward 5 Dist 1,Mizgorski,90,246,337,1,584,42.1,57.7,0.2
-Shaler Ward 5 Dist 2,Williams,0,252,252,0,504,50.0,50.0,0.0
-Shaler Ward 5 Dist 3,Williams,14,215,201,0,416,51.7,48.3,0.0
-Shaler Ward 5 Dist 4,Mizgorski,36,113,149,0,262,43.1,56.9,0.0
-Shaler Ward 5 Dist 5,Mizgorski,9,267,277,1,545,49.0,50.8,0.2
-Shaler Ward 6 Dist 1,Williams,8,239,231,0,470,50.9,49.1,0.0
-Shaler Ward 6 Dist 2,Mizgorski,35,231,267,1,499,46.3,53.5,0.2
-Shaler Ward 6 Dist 3,Mizgorski,58,188,246,0,434,43.3,56.7,0.0
-Shaler Ward 6 Dist 4,Williams,17,136,119,0,255,53.3,46.7,0.0
-Shaler Ward 6 Dist 5,Williams,3,204,201,0,405,50.4,49.6,0.0
-Shaler Ward 7 Dist 1,Williams,60,237,177,0,414,57.2,42.8,0.0
-Shaler Ward 7 Dist 2,Williams,22,266,244,0,510,52.2,47.8,0.0
-Shaler Ward 7 Dist 3,Williams,0,208,208,0,416,50.0,50.0,0.0
-Shaler Ward 7 Dist 4,Mizgorski,41,330,376,5,711,46.4,52.9,0.7
-Sharpsburg Dist 1,Williams,114,209,94,1,304,68.8,30.9,0.3
-Sharpsburg Dist 2,Williams,178,296,114,4,414,71.5,27.5,1.0
-Sharpsburg Dist 3,Williams,71,271,199,1,471,57.5,42.3,0.2
-Springdale Br Dist 1,Mizgorski,7,197,204,0,401,49.1,50.9,0.0
-Springdale Br Dist 2,Mizgorski,42,185,228,1,414,44.7,55.1,0.2
-Springdale Br Dist 3,Williams,31,181,150,0,331,54.7,45.3,0.0
-Springdale Br Dist 4,Williams,2,141,139,0,280,50.4,49.6,0.0
-Springdale Twp,Mizgorski,33,391,424,0,815,48.0,52.0,0.0
-Tarentum Ward 1 Dist 1,Williams,7,152,142,3,297,51.2,47.8,1.0
-Tarentum Ward 1 Dist 2,Williams,52,176,121,3,300,58.7,40.3,1.0
-Tarentum Ward 2,Williams,18,136,118,0,254,53.5,46.5,0.0
-Tarentum Ward 3 Dist 1,Williams,2,66,64,0,130,50.8,49.2,0.0
-Tarentum Ward 3 Dist 2,Mizgorski,30,121,151,0,272,44.5,55.5,0.0
-West Deer Dist 1,Mizgorski,234,397,632,1,1030,38.5,61.4,0.1
-West Deer Dist 2,Mizgorski,125,147,272,0,419,35.1,64.9,0.0
-West Deer Dist 3,Mizgorski,101,198,299,0,497,39.8,60.2,0.0
-West Deer Dist 4,Mizgorski,49,281,330,0,611,46.0,54.0,0.0
-West Deer Dist 5,Mizgorski,126,223,350,1,574,38.9,61.0,0.2
-West Deer Dist 6,Mizgorski,79,227,306,0,533,42.6,57.4,0.0
-West Deer Dist 7,Mizgorski,256,517,773,0,1290,40.1,59.9,0.0
-West Deer Dist 8,Mizgorski,110,523,634,1,1158,45.2,54.7,0.1
-West View Dist 1,Williams,141,290,147,2,439,66.1,33.5,0.5
-West View Dist 2,Williams,79,267,188,0,455,58.7,41.3,0.0
-West View Dist 3,Williams,41,204,163,0,367,55.6,44.4,0.0
-West View Dist 4,Williams,43,217,173,1,391,55.5,44.2,0.3
-West View Dist 5,Williams,127,317,189,1,507,62.5,37.3,0.2
-West View Dist 6,Williams,117,320,201,2,523,61.2,38.4,0.4
-West View Dist 7,Williams,133,299,166,0,465,64.3,35.7,0.0
+precinct_name,precinct_center_lat,precinct_center_lon,winner,winner_net,Williams_total,Mizgorski_total,Write-in_total,precinct_total,Williams_pct,Mizgorski_pct,Write-in_pct
+Aspinwall Dist 1,40.490700000000004,-79.90535,Williams,241,429,188,0,617,69.5,30.5,0.0
+Aspinwall Dist 2,40.49705,-79.90495000000001,Williams,164,273,109,0,382,71.5,28.5,0.0
+Aspinwall Dist 3,40.490700000000004,-79.90020000000001,Williams,256,428,171,1,600,71.3,28.5,0.2
+Blawnox,40.49165000000001,-79.8585,Williams,173,388,213,2,603,64.3,35.3,0.3
+Brackenridge Ward 1,40.60465000000001,-79.7398,Williams,30,147,117,0,264,55.7,44.3,0.0
+Brackenridge Ward 2,40.61125,-79.73940000000002,Williams,28,244,216,0,460,53.0,47.0,0.0
+Brackenridge Ward 3,40.609350000000006,-79.74585,Mizgorski,25,166,191,0,357,46.5,53.5,0.0
+Cheswick Dist 1,40.540800000000004,-79.80115,Mizgorski,1,213,215,1,429,49.7,50.1,0.2
+Cheswick Dist 2,40.5458,-79.80145,Williams,5,240,235,0,475,50.5,49.5,0.0
+East Deer Ward 1,40.593500000000006,-79.77690000000001,Williams,22,100,78,0,178,56.2,43.8,0.0
+East Deer Ward 2,40.5765,-79.7842,Mizgorski,29,164,193,0,357,45.9,54.1,0.0
+Etna Ward 1,40.49595000000001,-79.95020000000001,Williams,160,334,172,2,508,65.7,33.9,0.4
+Etna Ward 2,40.49815,-79.94575,Williams,92,228,134,2,364,62.6,36.8,0.5
+Etna Ward 3,40.5047,-79.95240000000001,Williams,83,281,197,1,479,58.7,41.1,0.2
+Fawn Dist 1,40.653000000000006,-79.78810000000001,Mizgorski,116,124,241,1,366,33.9,65.8,0.3
+Fawn Dist 2,40.6411,-79.7492,Mizgorski,159,227,388,2,617,36.8,62.9,0.3
+Fox Chapel Dist 1,40.50305,-79.89,Williams,96,363,266,1,630,57.6,42.2,0.2
+Fox Chapel Dist 2,40.537150000000004,-79.8723,Williams,112,421,308,1,730,57.7,42.2,0.1
+Fox Chapel Dist 3,40.512100000000004,-79.90145000000001,Williams,121,349,228,0,577,60.5,39.5,0.0
+Fox Chapel Dist 4,40.53575,-79.89590000000001,Williams,230,552,319,3,874,63.2,36.5,0.3
+Fox Chapel Dist 5,40.51975,-79.88845,Mizgorski,28,322,352,2,676,47.6,52.1,0.3
+Frazer,40.603,-79.79035,Mizgorski,136,192,328,0,520,36.9,63.1,0.0
+Hampton Dist 1,40.56235,-79.93890000000002,Mizgorski,42,417,459,0,876,47.6,52.4,0.0
+Hampton Dist 2,40.599900000000005,-79.934,Mizgorski,96,397,495,2,894,44.4,55.4,0.2
+Hampton Dist 3,40.5936,-79.9796,Mizgorski,87,435,522,0,957,45.5,54.5,0.0
+Hampton Dist 4,40.56175,-79.96290000000002,Mizgorski,45,192,237,0,429,44.8,55.2,0.0
+Hampton Dist 5,40.5587,-79.97985,Mizgorski,1,255,256,0,511,49.9,50.1,0.0
+Hampton Dist 6,40.57815,-79.95835,Mizgorski,25,218,243,0,461,47.3,52.7,0.0
+Hampton Dist 7,40.56975,-79.93495000000001,Mizgorski,103,464,570,3,1037,44.7,55.0,0.3
+Hampton Dist 8,40.587450000000004,-79.9347,Williams,19,354,335,0,689,51.4,48.6,0.0
+Hampton Dist 9,40.60655,-79.95325000000001,Mizgorski,118,448,566,0,1014,44.2,55.8,0.0
+Hampton Dist 10,40.58885,-79.9621,Mizgorski,32,511,543,0,1054,48.5,51.5,0.0
+Hampton Dist 11,40.608000000000004,-79.93155000000002,Mizgorski,63,620,683,0,1303,47.6,52.4,0.0
+Hampton Dist 12,40.5724,-79.96895,Williams,2,329,327,0,656,50.2,49.8,0.0
+Hampton Dist 13,40.570350000000005,-79.97785,Williams,5,280,272,3,555,50.5,49.0,0.5
+Harmar Dist 1,40.541050000000006,-79.84755000000001,Mizgorski,15,425,441,1,867,49.0,50.9,0.1
+Harmar Dist 2,40.544650000000004,-79.81765000000001,Mizgorski,17,180,198,1,379,47.5,52.2,0.3
+Harmar Dist 3,40.5549,-79.8192,Mizgorski,27,108,135,0,243,44.4,55.6,0.0
+Harrison Ward 1 Dist 1,40.615300000000005,-79.73355000000001,Mizgorski,27,93,121,1,215,43.3,56.3,0.5
+Harrison Ward 1 Dist 2,40.62205,-79.74285,Williams,14,225,211,0,436,51.6,48.4,0.0
+Harrison Ward 1 Dist 3,40.62455,-79.73535000000001,Mizgorski,4,228,232,0,460,49.6,50.4,0.0
+Harrison Ward 2 Dist 1,40.6116,-79.73195000000001,Williams,15,109,94,0,203,53.7,46.3,0.0
+Harrison Ward 2 Dist 2,40.612300000000005,-79.72305,Williams,18,143,125,0,268,53.4,46.6,0.0
+Harrison Ward 3 Dist 1,40.6447,-79.7072,Mizgorski,16,367,385,2,754,48.7,51.1,0.3
+Harrison Ward 3 Dist 2,40.628,-79.71175,Williams,0,226,223,3,452,50.0,49.3,0.7
+Harrison Ward 4 Dist 1,40.633500000000005,-79.71780000000001,Mizgorski,49,204,254,1,459,44.4,55.3,0.2
+Harrison Ward 4 Dist 2,40.64425,-79.72130000000001,Mizgorski,46,159,205,0,364,43.7,56.3,0.0
+Harrison Ward 5 Dist 1,40.6193,-79.72265000000002,Williams,78,152,74,0,226,67.3,32.7,0.0
+Harrison Ward 5 Dist 2,40.630700000000004,-79.72665,Mizgorski,41,222,264,1,487,45.6,54.2,0.2
+Indiana Dist 1,40.57855000000001,-79.88230000000001,Mizgorski,3,311,315,1,627,49.6,50.2,0.2
+Indiana Dist 2,40.57225,-79.87195000000001,Mizgorski,27,292,319,0,611,47.8,52.2,0.0
+Indiana Dist 3,40.57995,-79.84020000000001,Mizgorski,20,462,483,1,946,48.8,51.1,0.1
+Indiana Dist 4,40.5489,-79.92205000000001,Williams,83,458,375,0,833,55.0,45.0,0.0
+Indiana Dist 5,40.55445,-79.8832,Williams,56,364,307,1,672,54.2,45.7,0.1
+McCandless Ward 1 Dist 1,40.5989,-80.02525,Williams,-3,410,410,3,823,49.8,49.8,0.4
+McCandless Ward 1 Dist 2,40.5808,-80.00695000000002,Williams,77,300,220,3,523,57.4,42.1,0.6
+McCandless Ward 1 Dist 3,40.594,-80.03140000000002,Williams,7,387,379,1,767,50.5,49.4,0.1
+McCandless Ward 2 Dist 1,40.59985,-80.0566,Williams,113,541,428,0,969,55.8,44.2,0.0
+McCandless Ward 2 Dist 2,40.5934,-80.06110000000001,Mizgorski,2,327,329,0,656,49.8,50.2,0.0
+McCandless Ward 2 Dist 3,40.59625,-80.04335,Mizgorski,12,302,315,1,618,48.9,51.0,0.2
+McCandless Ward 3 Dist 1,40.57390000000001,-80.0446,Williams,117,413,295,1,709,58.3,41.6,0.1
+McCandless Ward 3 Dist 2,40.579750000000004,-80.04585,Williams,43,409,366,0,775,52.8,47.2,0.0
+McCandless Ward 3 Dist 3,40.579800000000006,-80.0553,Mizgorski,18,399,417,0,816,48.9,51.1,0.0
+McCandless Ward 4 Dist 1,40.5608,-80.04935,Williams,36,544,507,1,1052,51.7,48.2,0.1
+McCandless Ward 4 Dist 2,40.56465,-80.04945000000001,Williams,23,323,299,1,623,51.8,48.0,0.2
+McCandless Ward 4 Dist 3,40.56205,-80.06155000000001,Mizgorski,11,280,292,1,573,48.9,51.0,0.2
+McCandless Ward 5 Dist 1,40.5839,-80.02595000000001,Mizgorski,51,297,348,0,645,46.0,54.0,0.0
+McCandless Ward 5 Dist 2,40.5685,-80.02600000000001,Williams,95,521,425,1,947,55.0,44.9,0.1
+McCandless Ward 5 Dist 3,40.56280000000001,-80.03155000000001,Williams,158,434,275,1,710,61.1,38.7,0.1
+McCandless Ward 6 Dist 1,40.560950000000005,-80.01515,Williams,6,182,176,0,358,50.8,49.2,0.0
+McCandless Ward 6 Dist 2,40.5574,-80.01475,Mizgorski,8,387,395,0,782,49.5,50.5,0.0
+McCandless Ward 6 Dist 3,40.567400000000006,-80.0001,Williams,102,708,605,1,1314,53.9,46.0,0.1
+McCandless Ward 7 Dist 1,40.5945,-79.99915000000001,Williams,76,584,506,2,1092,53.5,46.3,0.2
+McCandless Ward 7 Dist 2,40.57040000000001,-79.9947,Williams,61,395,331,3,729,54.2,45.4,0.4
+McCandless Ward 7 Dist 3,40.561400000000006,-79.99350000000001,Mizgorski,3,191,194,0,385,49.6,50.4,0.0
+O'Hara Ward 1 Dist 1,40.496750000000006,-79.87265000000001,Williams,149,422,271,2,695,60.7,39.0,0.3
+O'Hara Ward 1 Dist 2,40.498000000000005,-79.86025000000001,Williams,109,272,163,0,435,62.5,37.5,0.0
+O'Hara Ward 2 Dist 1,40.5157,-79.9254,Williams,118,285,166,1,452,63.1,36.7,0.2
+O'Hara Ward 2 Dist 2,40.5242,-79.92450000000001,Williams,109,391,281,1,673,58.1,41.8,0.1
+O'Hara Ward 3 Dist 1,40.5073,-79.92595,Williams,87,286,199,0,485,59.0,41.0,0.0
+O'Hara Ward 3 Dist 2,40.500550000000004,-79.9261,Williams,12,204,188,4,396,51.5,47.5,1.0
+O'Hara Ward 4 Dist 1,40.49515,-79.88525000000001,Williams,144,274,130,0,404,67.8,32.2,0.0
+O'Hara Ward 4 Dist 2,40.5064,-79.91055,Williams,263,435,171,1,607,71.7,28.2,0.2
+O'Hara Ward 5 Dist 1,40.51785,-79.86080000000001,Williams,138,352,213,1,566,62.2,37.6,0.2
+O'Hara Ward 5 Dist 2,40.5124,-79.8636,Williams,258,451,192,1,644,70.0,29.8,0.2
+Pine Dist 1,40.66225,-80.05205000000001,Mizgorski,82,462,544,0,1006,45.9,54.1,0.0
+Pine Dist 2,40.6572,-80.01615000000001,Mizgorski,202,697,901,2,1600,43.6,56.3,0.1
+Pine Dist 3,40.652100000000004,-80.0013,Mizgorski,36,141,177,0,318,44.3,55.7,0.0
+Pine Dist 4,40.6439,-80.05475000000001,Mizgorski,68,472,540,0,1012,46.6,53.4,0.0
+Pine Dist 5,40.6319,-80.0392,Mizgorski,123,552,676,1,1229,44.9,55.0,0.1
+Pine Dist 6,40.63575,-80.0162,Mizgorski,80,279,359,0,638,43.7,56.3,0.0
+Pine Dist 7,40.628550000000004,-80.06185,Williams,11,502,490,1,993,50.6,49.3,0.1
+Pine Dist 8,40.6236,-80.0083,Mizgorski,133,321,455,1,777,41.3,58.6,0.1
+Pittsburgh Ward 10 Dist 1,40.482800000000005,-79.95320000000001,Williams,291,345,54,0,399,86.5,13.5,0.0
+Pittsburgh Ward 10 Dist 2,40.47905,-79.95170000000002,Williams,304,360,55,1,416,86.5,13.2,0.2
+Pittsburgh Ward 10 Dist 3,40.4808,-79.94965,Williams,310,370,60,0,430,86.0,14.0,0.0
+Pittsburgh Ward 10 Dist 4,40.483700000000006,-79.93605000000001,Williams,238,315,76,1,392,80.4,19.4,0.3
+Pittsburgh Ward 10 Dist 5,40.48695000000001,-79.94175000000001,Williams,243,301,57,1,359,83.8,15.9,0.3
+Pittsburgh Ward 10 Dist 6,40.481750000000005,-79.9442,Williams,174,248,73,1,322,77.0,22.7,0.3
+Pittsburgh Ward 10 Dist 7,40.48825,-79.929,Williams,231,321,90,0,411,78.1,21.9,0.0
+Pittsburgh Ward 10 Dist 8,40.486900000000006,-79.92215000000002,Williams,252,336,84,0,420,80.0,20.0,0.0
+Pittsburgh Ward 10 Dist 9,40.4823,-79.92745000000001,Williams,203,289,85,1,375,77.1,22.7,0.3
+Pittsburgh Ward 10 Dist 10,40.480850000000004,-79.9314,Williams,259,354,95,0,449,78.8,21.2,0.0
+Pittsburgh Ward 10 Dist 11,40.47695,-79.92975000000001,Williams,252,328,76,0,404,81.2,18.8,0.0
+Pittsburgh Ward 10 Dist 12,40.47735,-79.93505000000002,Williams,255,280,24,1,305,91.8,7.9,0.3
+Pittsburgh Ward 10 Dist 13,40.479200000000006,-79.94365000000002,Williams,257,304,46,1,351,86.6,13.1,0.3
+Pittsburgh Ward 10 Dist 14,40.4777,-79.93960000000001,Williams,324,352,28,0,380,92.6,7.4,0.0
+Pittsburgh Ward 10 Dist 15,40.47285,-79.9371,Williams,144,152,8,0,160,95.0,5.0,0.0
+Pittsburgh Ward 10 Dist 16,40.46995,-79.9366,Williams,115,120,5,0,125,96.0,4.0,0.0
+Pittsburgh Ward 10 Dist 17,40.46640000000001,-79.93785,Williams,191,215,24,0,239,90.0,10.0,0.0
+Pittsburgh Ward 10 Dist 18,40.46625,-79.9435,Williams,270,279,9,0,288,96.9,3.1,0.0
+Pittsburgh Ward 10 Dist 19,40.469500000000004,-79.94325,Williams,213,220,6,1,227,96.9,2.6,0.4
+Pittsburgh Ward 11 Dist 1,40.4746,-79.9237,Williams,308,338,29,1,368,91.8,7.9,0.3
+Pittsburgh Ward 11 Dist 2,40.4656,-79.93325000000002,Williams,248,264,16,0,280,94.3,5.7,0.0
+Pittsburgh Ward 11 Dist 3,40.46235,-79.9244,Williams,170,178,7,1,186,95.7,3.8,0.5
+Pittsburgh Ward 11 Dist 4,40.46755,-79.93075,Williams,194,209,15,0,224,93.3,6.7,0.0
+Pittsburgh Ward 11 Dist 5,40.470200000000006,-79.92975000000001,Williams,243,261,17,1,279,93.5,6.1,0.4
+Pittsburgh Ward 11 Dist 6,40.47305,-79.92855,Williams,385,425,38,2,465,91.4,8.2,0.4
+Pittsburgh Ward 11 Dist 7,40.477450000000005,-79.9255,Williams,334,398,64,0,462,86.1,13.9,0.0
+Pittsburgh Ward 11 Dist 8,40.47715000000001,-79.92125,Williams,288,326,37,1,364,89.6,10.2,0.3
+Pittsburgh Ward 11 Dist 9,40.4814,-79.91715,Williams,364,411,46,1,458,89.7,10.0,0.2
+Pittsburgh Ward 11 Dist 10,40.47585000000001,-79.91605000000001,Williams,330,386,55,1,442,87.3,12.4,0.2
+Pittsburgh Ward 11 Dist 11,40.472100000000005,-79.92275000000001,Williams,324,355,31,0,386,92.0,8.0,0.0
+Pittsburgh Ward 11 Dist 12,40.47110000000001,-79.91665,Williams,376,420,43,1,464,90.5,9.3,0.2
+Pittsburgh Ward 11 Dist 13,40.47085,-79.9144,Williams,396,445,48,1,494,90.1,9.7,0.2
+Pittsburgh Ward 11 Dist 14,40.46825,-79.91485,Williams,248,262,14,0,276,94.9,5.1,0.0
+Pittsburgh Ward 11 Dist 15,40.4626,-79.9194,Williams,130,131,1,0,132,99.2,0.8,0.0
+Pittsburgh Ward 11 Dist 16,40.4683,-79.92365000000001,Williams,235,259,24,0,283,91.5,8.5,0.0
+Pittsburgh Ward 11 Dist 17,40.46855000000001,-79.9264,Williams,316,331,15,0,346,95.7,4.3,0.0
+Pittsburgh Ward 11 Dist 18,40.46555000000001,-79.923,Williams,238,254,16,0,270,94.1,5.9,0.0
+Pittsburgh Ward 12 Dist 1,40.4583,-79.91245,Williams,46,48,2,0,50,96.0,4.0,0.0
+Pittsburgh Ward 12 Dist 2,40.462700000000005,-79.91050000000001,Williams,100,104,4,0,108,96.3,3.7,0.0
+Pittsburgh Ward 12 Dist 3,40.465250000000005,-79.91685000000001,Williams,54,56,2,0,58,96.6,3.4,0.0
+Pittsburgh Ward 12 Dist 4,40.46285,-79.91445000000002,Williams,140,145,5,0,150,96.7,3.3,0.0
+Pittsburgh Ward 12 Dist 5,40.466800000000006,-79.91230000000002,Williams,31,36,5,0,41,87.8,12.2,0.0
+Pittsburgh Ward 12 Dist 6,40.4645,-79.90950000000001,Williams,69,73,4,0,77,94.8,5.2,0.0
+Pittsburgh Ward 12 Dist 7,40.4637,-79.9025,Williams,99,103,4,0,107,96.3,3.7,0.0
+Pittsburgh Ward 12 Dist 8,40.4566,-79.90535,Williams,70,71,1,0,72,98.6,1.4,0.0
+Pittsburgh Ward 12 Dist 9,40.460750000000004,-79.90365,Williams,102,106,4,0,110,96.4,3.6,0.0
+Pittsburgh Ward 12 Dist 10,40.46725000000001,-79.90485000000001,Williams,174,181,6,1,188,96.3,3.2,0.5
+Pittsburgh Ward 12 Dist 11,40.470800000000004,-79.9026,Williams,181,185,4,0,189,97.9,2.1,0.0
+Pittsburgh Ward 12 Dist 12,40.4807,-79.89605,Williams,222,238,16,0,254,93.7,6.3,0.0
+Pittsburgh Ward 12 Dist 13,40.468450000000004,-79.89215000000002,Williams,166,169,3,0,172,98.3,1.7,0.0
+Pittsburgh Ward 12 Dist 14,40.466950000000004,-79.89925000000001,Williams,112,114,1,1,116,98.3,0.9,0.9
+Pittsburgh Ward 12 Dist 15,40.464600000000004,-79.89330000000001,Williams,237,243,6,0,249,97.6,2.4,0.0
+Pittsburgh Ward 12 Dist 16,40.472750000000005,-79.8906,Williams,137,140,2,1,143,97.9,1.4,0.7
+Richland Dist 1,40.660650000000004,-79.94205000000001,Mizgorski,78,387,466,1,854,45.3,54.6,0.1
+Richland Dist 2,40.640100000000004,-79.93075,Mizgorski,90,345,436,1,782,44.1,55.8,0.1
+Richland Dist 3,40.62435000000001,-79.93370000000002,Mizgorski,67,364,433,2,799,45.6,54.2,0.3
+Richland Dist 4,40.62610000000001,-79.9331,Mizgorski,112,359,471,0,830,43.3,56.7,0.0
+Richland Dist 5,40.6417,-79.94885000000001,Mizgorski,160,272,433,1,706,38.5,61.3,0.1
+Richland Dist 6,40.62425,-79.9553,Mizgorski,142,335,478,1,814,41.2,58.7,0.1
+Richland Dist 7,40.6319,-79.97255000000001,Mizgorski,154,344,498,0,842,40.9,59.1,0.0
+Richland Dist 8,40.6542,-79.9744,Mizgorski,133,239,372,0,611,39.1,60.9,0.0
+Ross Ward 1 Dist 1,40.523950000000006,-79.99905000000001,Williams,7,273,265,1,539,50.6,49.2,0.2
+Ross Ward 1 Dist 2,40.5183,-79.99045000000001,Williams,103,272,167,2,441,61.7,37.9,0.5
+Ross Ward 1 Dist 3,40.51010000000001,-79.99690000000001,Williams,40,184,142,2,328,56.1,43.3,0.6
+Ross Ward 1 Dist 4,40.51905000000001,-79.9992,Williams,44,323,277,2,602,53.7,46.0,0.3
+Ross Ward 2 Dist 1,40.53985,-80.00605,Williams,109,460,349,2,811,56.7,43.0,0.2
+Ross Ward 2 Dist 2,40.53835,-79.99495,Williams,23,357,333,1,691,51.7,48.2,0.1
+Ross Ward 2 Dist 3,40.535250000000005,-79.99950000000001,Williams,34,274,240,0,514,53.3,46.7,0.0
+Ross Ward 3 Dist 1,40.53450000000001,-80.02945,Williams,94,286,191,1,478,59.8,40.0,0.2
+Ross Ward 3 Dist 2,40.52655,-80.02885,Williams,92,312,218,2,532,58.6,41.0,0.4
+Ross Ward 3 Dist 3,40.5307,-80.0224,Williams,22,202,180,0,382,52.9,47.1,0.0
+Ross Ward 3 Dist 4,40.52145,-80.0189,Williams,39,261,221,1,483,54.0,45.8,0.2
+Ross Ward 4 Dist 1,40.516450000000006,-80.055,Williams,49,328,276,3,607,54.0,45.5,0.5
+Ross Ward 4 Dist 2,40.527300000000004,-80.05165000000001,Williams,86,408,320,2,730,55.9,43.8,0.3
+Ross Ward 4 Dist 3,40.5423,-80.05745,Mizgorski,6,259,266,1,526,49.2,50.6,0.2
+Ross Ward 4 Dist 4,40.545950000000005,-80.0473,Williams,41,288,247,0,535,53.8,46.2,0.0
+Ross Ward 5 Dist 1,40.53735,-80.0273,Williams,16,228,209,3,440,51.8,47.5,0.7
+Ross Ward 5 Dist 2,40.54305,-80.0308,Williams,40,163,123,0,286,57.0,43.0,0.0
+Ross Ward 5 Dist 3,40.541050000000006,-80.04350000000001,Williams,18,261,243,0,504,51.8,48.2,0.0
+Ross Ward 5 Dist 4,40.533300000000004,-80.04115,Williams,47,297,250,0,547,54.3,45.7,0.0
+Ross Ward 6 Dist 1,40.5095,-80.05170000000001,Williams,120,233,112,1,346,67.3,32.4,0.3
+Ross Ward 6 Dist 2,40.5114,-80.039,Williams,146,398,252,0,650,61.2,38.8,0.0
+Ross Ward 6 Dist 3,40.50065000000001,-80.04410000000001,Williams,104,272,167,1,440,61.8,38.0,0.2
+Ross Ward 6 Dist 4,40.494150000000005,-80.0395,Williams,64,224,160,0,384,58.3,41.7,0.0
+Ross Ward 7 Dist 1,40.5022,-79.9993,Williams,29,215,186,0,401,53.6,46.4,0.0
+Ross Ward 7 Dist 2,40.507850000000005,-80.0163,Williams,69,194,125,0,319,60.8,39.2,0.0
+Ross Ward 7 Dist 3,40.5039,-80.02985000000001,Williams,77,281,204,0,485,57.9,42.1,0.0
+Ross Ward 7 Dist 4,40.49600000000001,-80.0332,Williams,32,211,179,0,390,54.1,45.9,0.0
+Ross Ward 8 Dist 1,40.541250000000005,-80.02255000000001,Williams,191,589,395,3,987,59.7,40.0,0.3
+Ross Ward 8 Dist 2,40.54825,-80.02255,Williams,54,181,127,0,308,58.8,41.2,0.0
+Ross Ward 8 Dist 3,40.52575,-80.01305,Williams,61,245,183,1,429,57.1,42.7,0.2
+Ross Ward 9 Dist 1,40.54865,-79.994,Mizgorski,11,305,318,2,625,48.8,50.9,0.3
+Ross Ward 9 Dist 2,40.5505,-80.0335,Williams,82,380,297,1,678,56.0,43.8,0.1
+Ross Ward 9 Dist 3,40.551050000000004,-80.00930000000001,Williams,0,277,276,1,554,50.0,49.8,0.2
+Shaler Ward 1 Dist 1,40.49625,-79.9594,Williams,37,212,175,0,387,54.8,45.2,0.0
+Shaler Ward 1 Dist 2,40.4849,-79.9621,Williams,45,206,161,0,367,56.1,43.9,0.0
+Shaler Ward 1 Dist 3,40.4982,-79.95455000000001,Mizgorski,2,171,173,0,344,49.7,50.3,0.0
+Shaler Ward 1 Dist 4,40.496750000000006,-79.96975,Williams,45,248,203,0,451,55.0,45.0,0.0
+Shaler Ward 1 Dist 5,40.489850000000004,-79.96530000000001,Williams,58,230,171,1,402,57.2,42.5,0.2
+Shaler Ward 2 Dist 1,40.51140000000001,-79.98095,Mizgorski,94,334,428,0,762,43.8,56.2,0.0
+Shaler Ward 2 Dist 2,40.51195,-79.97705,Mizgorski,70,246,316,0,562,43.8,56.2,0.0
+Shaler Ward 2 Dist 3,40.498850000000004,-79.9788,Williams,75,233,158,0,391,59.6,40.4,0.0
+Shaler Ward 2 Dist 4,40.51140000000001,-79.96470000000001,Williams,20,298,277,1,576,51.7,48.1,0.2
+Shaler Ward 2 Dist 5,40.50845,-79.95580000000001,Williams,3,130,127,0,257,50.6,49.4,0.0
+Shaler Ward 3 Dist 1,40.53705,-79.94365,Williams,12,233,218,3,454,51.3,48.0,0.7
+Shaler Ward 3 Dist 2,40.54515000000001,-79.94255000000001,Williams,-1,226,226,1,453,49.9,49.9,0.2
+Shaler Ward 3 Dist 3,40.5491,-79.95060000000001,Mizgorski,53,184,237,0,421,43.7,56.3,0.0
+Shaler Ward 3 Dist 4,40.54050000000001,-79.95875000000001,Williams,6,276,270,0,546,50.5,49.5,0.0
+Shaler Ward 3 Dist 5,40.540000000000006,-79.94930000000001,Mizgorski,69,210,281,2,493,42.6,57.0,0.4
+Shaler Ward 4 Dist 1,40.529700000000005,-79.95975000000001,Williams,21,304,282,1,587,51.8,48.0,0.2
+Shaler Ward 4 Dist 2,40.520250000000004,-79.96395000000001,Williams,19,165,145,1,311,53.1,46.6,0.3
+Shaler Ward 4 Dist 3,40.5386,-79.97030000000001,Williams,10,247,235,2,484,51.0,48.6,0.4
+Shaler Ward 4 Dist 4,40.5431,-79.96965,Mizgorski,32,219,253,2,474,46.2,53.4,0.4
+Shaler Ward 4 Dist 5,40.522800000000004,-79.95515,Williams,28,196,166,2,364,53.8,45.6,0.5
+Shaler Ward 5 Dist 1,40.52785,-79.9767,Mizgorski,90,246,337,1,584,42.1,57.7,0.2
+Shaler Ward 5 Dist 2,40.5384,-79.98260000000002,Williams,0,252,252,0,504,50.0,50.0,0.0
+Shaler Ward 5 Dist 3,40.5281,-79.96695,Williams,14,215,201,0,416,51.7,48.3,0.0
+Shaler Ward 5 Dist 4,40.52205000000001,-79.98400000000001,Mizgorski,36,113,149,0,262,43.1,56.9,0.0
+Shaler Ward 5 Dist 5,40.5307,-79.98345,Mizgorski,9,267,277,1,545,49.0,50.8,0.2
+Shaler Ward 6 Dist 1,40.55055,-79.96545,Williams,8,239,231,0,470,50.9,49.1,0.0
+Shaler Ward 6 Dist 2,40.55075000000001,-79.974,Mizgorski,35,231,267,1,499,46.3,53.5,0.2
+Shaler Ward 6 Dist 3,40.54690000000001,-79.98295000000002,Mizgorski,58,188,246,0,434,43.3,56.7,0.0
+Shaler Ward 6 Dist 4,40.55095,-79.953,Williams,17,136,119,0,255,53.3,46.7,0.0
+Shaler Ward 6 Dist 5,40.549350000000004,-79.9844,Williams,3,204,201,0,405,50.4,49.6,0.0
+Shaler Ward 7 Dist 1,40.50790000000001,-79.94085000000001,Williams,60,237,177,0,414,57.2,42.8,0.0
+Shaler Ward 7 Dist 2,40.512550000000005,-79.95485000000001,Williams,22,266,244,0,510,52.2,47.8,0.0
+Shaler Ward 7 Dist 3,40.5196,-79.94745,Williams,0,208,208,0,416,50.0,50.0,0.0
+Shaler Ward 7 Dist 4,40.52235,-79.94905,Mizgorski,41,330,376,5,711,46.4,52.9,0.7
+Sharpsburg Dist 1,40.494150000000005,-79.93675,Williams,114,209,94,1,304,68.8,30.9,0.3
+Sharpsburg Dist 2,40.495050000000006,-79.92915,Williams,178,296,114,4,414,71.5,27.5,1.0
+Sharpsburg Dist 3,40.493050000000004,-79.91655,Williams,71,271,199,1,471,57.5,42.3,0.2
+Springdale Br Dist 1,40.54130000000001,-79.77265,Mizgorski,7,197,204,0,401,49.1,50.9,0.0
+Springdale Br Dist 2,40.5458,-79.78775,Mizgorski,42,185,228,1,414,44.7,55.1,0.2
+Springdale Br Dist 3,40.5377,-79.787,Williams,31,181,150,0,331,54.7,45.3,0.0
+Springdale Br Dist 4,40.54225,-79.78745,Williams,2,141,139,0,280,50.4,49.6,0.0
+Springdale Twp,40.5535,-79.7875,Mizgorski,33,391,424,0,815,48.0,52.0,0.0
+Tarentum Ward 1 Dist 1,40.605050000000006,-79.7533,Williams,7,152,142,3,297,51.2,47.8,1.0
+Tarentum Ward 1 Dist 2,40.607200000000006,-79.75305,Williams,52,176,121,3,300,58.7,40.3,1.0
+Tarentum Ward 2,40.600750000000005,-79.74940000000001,Williams,18,136,118,0,254,53.5,46.5,0.0
+Tarentum Ward 3 Dist 1,40.59955,-79.76945,Williams,2,66,64,0,130,50.8,49.2,0.0
+Tarentum Ward 3 Dist 2,40.6061,-79.7642,Mizgorski,30,121,151,0,272,44.5,55.5,0.0
+West Deer Dist 1,40.64490000000001,-79.87890000000002,Mizgorski,234,397,632,1,1030,38.5,61.4,0.1
+West Deer Dist 2,40.65675,-79.85065,Mizgorski,125,147,272,0,419,35.1,64.9,0.0
+West Deer Dist 3,40.6113,-79.8331,Mizgorski,101,198,299,0,497,39.8,60.2,0.0
+West Deer Dist 4,40.614200000000004,-79.91145,Mizgorski,49,281,330,0,611,46.0,54.0,0.0
+West Deer Dist 5,40.6338,-79.83435,Mizgorski,126,223,350,1,574,38.9,61.0,0.2
+West Deer Dist 6,40.611650000000004,-79.8596,Mizgorski,79,227,306,0,533,42.6,57.4,0.0
+West Deer Dist 7,40.613850000000006,-79.89035000000001,Mizgorski,256,517,773,0,1290,40.1,59.9,0.0
+West Deer Dist 8,40.64105000000001,-79.9024,Mizgorski,110,523,634,1,1158,45.2,54.7,0.1
+West View Dist 1,40.5136,-80.02655000000001,Williams,141,290,147,2,439,66.1,33.5,0.5
+West View Dist 2,40.51635,-80.0223,Williams,79,267,188,0,455,58.7,41.3,0.0
+West View Dist 3,40.5189,-80.02960000000002,Williams,41,204,163,0,367,55.6,44.4,0.0
+West View Dist 4,40.519800000000004,-80.03505000000001,Williams,43,217,173,1,391,55.5,44.2,0.3
+West View Dist 5,40.51795,-80.03745,Williams,127,317,189,1,507,62.5,37.3,0.2
+West View Dist 6,40.517450000000004,-80.04570000000001,Williams,117,320,201,2,523,61.2,38.4,0.4
+West View Dist 7,40.52535,-80.03550000000001,Williams,133,299,166,0,465,64.3,35.7,0.0

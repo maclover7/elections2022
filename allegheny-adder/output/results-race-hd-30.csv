@@ -1,45 +1,45 @@
-precinct_name,winner,winner_net,Venkat_total,Kirk_total,Write-in_total,precinct_total,Venkat_pct,Kirk_pct,Write-in_pct
-Ben Avon Dist 1,Venkat,161,261,100,0,361,72.3,27.7,0.0
-Ben Avon Dist 2,Venkat,280,498,216,2,716,69.6,30.2,0.3
-Ben Avon Ht,Venkat,59,161,102,0,263,61.2,38.8,0.0
-Emsworth Dist 1,Venkat,129,309,180,0,489,63.2,36.8,0.0
-Emsworth Dist 2,Venkat,117,342,224,1,567,60.3,39.5,0.2
-Franklin Pk Ward 1 Dist 1,Kirk,25,394,419,0,813,48.5,51.5,0.0
-Franklin Pk Ward 1 Dist 2,Venkat,93,540,447,0,987,54.7,45.3,0.0
-Franklin Pk Ward 1 Dist 3,Venkat,111,530,419,0,949,55.8,44.2,0.0
-Franklin Pk Ward 2 Dist 1,Venkat,107,517,409,1,927,55.8,44.1,0.1
-Franklin Pk Ward 2 Dist 2,Venkat,47,482,435,0,917,52.6,47.4,0.0
-Franklin Pk Ward 2 Dist 3,Venkat,134,608,474,0,1082,56.2,43.8,0.0
-Franklin Pk Ward 3 Dist 1,Venkat,42,481,437,2,920,52.3,47.5,0.2
-Franklin Pk Ward 3 Dist 2,Venkat,52,317,264,1,582,54.5,45.4,0.2
-Franklin Pk Ward 3 Dist 3,Venkat,77,525,447,1,973,54.0,45.9,0.1
-Hampton Dist 3,Kirk,5,473,479,1,953,49.6,50.3,0.1
-Hampton Dist 4,Kirk,27,198,225,0,423,46.8,53.2,0.0
-Hampton Dist 5,Venkat,31,270,239,0,509,53.0,47.0,0.0
-Hampton Dist 12,Venkat,56,356,300,0,656,54.3,45.7,0.0
-Hampton Dist 13,Venkat,30,290,257,3,550,52.7,46.7,0.5
-Kilbuck,Venkat,56,262,205,1,468,56.0,43.8,0.2
-McCandless Ward 1 Dist 1,Venkat,52,441,387,2,830,53.1,46.6,0.2
-McCandless Ward 1 Dist 2,Venkat,96,309,210,3,522,59.2,40.2,0.6
-McCandless Ward 1 Dist 3,Venkat,45,406,357,4,767,52.9,46.5,0.5
-McCandless Ward 2 Dist 1,Venkat,198,586,388,0,974,60.2,39.8,0.0
-McCandless Ward 2 Dist 2,Venkat,16,338,322,0,660,51.2,48.8,0.0
-McCandless Ward 2 Dist 3,Kirk,6,303,310,1,614,49.3,50.5,0.2
-McCandless Ward 3 Dist 1,Venkat,108,413,303,2,718,57.5,42.2,0.3
-McCandless Ward 3 Dist 2,Venkat,83,428,345,0,773,55.4,44.6,0.0
-McCandless Ward 3 Dist 3,Venkat,56,436,380,0,816,53.4,46.6,0.0
-McCandless Ward 4 Dist 1,Venkat,86,572,486,0,1058,54.1,45.9,0.0
-McCandless Ward 4 Dist 2,Venkat,74,351,277,0,628,55.9,44.1,0.0
-McCandless Ward 4 Dist 3,Venkat,17,296,278,1,575,51.5,48.3,0.2
-McCandless Ward 5 Dist 1,Kirk,38,300,338,0,638,47.0,53.0,0.0
-McCandless Ward 5 Dist 2,Venkat,141,543,399,3,945,57.5,42.2,0.3
-McCandless Ward 5 Dist 3,Venkat,196,456,260,0,716,63.7,36.3,0.0
-McCandless Ward 6 Dist 1,Venkat,13,185,172,0,357,51.8,48.2,0.0
-McCandless Ward 6 Dist 2,Venkat,49,414,365,0,779,53.1,46.9,0.0
-McCandless Ward 6 Dist 3,Venkat,237,777,540,0,1317,59.0,41.0,0.0
-McCandless Ward 7 Dist 1,Venkat,112,602,487,3,1092,55.1,44.6,0.3
-McCandless Ward 7 Dist 2,Venkat,78,402,322,2,726,55.4,44.4,0.3
-McCandless Ward 7 Dist 3,Venkat,25,205,180,0,385,53.2,46.8,0.0
-Ohio Dist 1,Venkat,53,590,537,0,1127,52.4,47.6,0.0
-Ohio Dist 2,Venkat,111,750,639,0,1389,54.0,46.0,0.0
-Ohio Dist 3,Venkat,262,840,576,2,1418,59.2,40.6,0.1
+precinct_name,precinct_center_lat,precinct_center_lon,winner,winner_net,Venkat_total,Kirk_total,Write-in_total,precinct_total,Venkat_pct,Kirk_pct,Write-in_pct
+Ben Avon Dist 1,40.506750000000004,-80.0854,Venkat,161,261,100,0,361,72.3,27.7,0.0
+Ben Avon Dist 2,40.505300000000005,-80.08025,Venkat,280,498,216,2,716,69.6,30.2,0.3
+Ben Avon Ht,40.512100000000004,-80.07375,Venkat,59,161,102,0,263,61.2,38.8,0.0
+Emsworth Dist 1,40.511700000000005,-80.10285000000002,Venkat,129,309,180,0,489,63.2,36.8,0.0
+Emsworth Dist 2,40.51015000000001,-80.0925,Venkat,117,342,224,1,567,60.3,39.5,0.2
+Franklin Pk Ward 1 Dist 1,40.59665,-80.12630000000001,Kirk,25,394,419,0,813,48.5,51.5,0.0
+Franklin Pk Ward 1 Dist 2,40.6048,-80.10115,Venkat,93,540,447,0,987,54.7,45.3,0.0
+Franklin Pk Ward 1 Dist 3,40.602450000000005,-80.08205000000001,Venkat,111,530,419,0,949,55.8,44.2,0.0
+Franklin Pk Ward 2 Dist 1,40.579950000000004,-80.10000000000001,Venkat,107,517,409,1,927,55.8,44.1,0.1
+Franklin Pk Ward 2 Dist 2,40.56750000000001,-80.08995,Venkat,47,482,435,0,917,52.6,47.4,0.0
+Franklin Pk Ward 2 Dist 3,40.55865,-80.07260000000001,Venkat,134,608,474,0,1082,56.2,43.8,0.0
+Franklin Pk Ward 3 Dist 1,40.6061,-80.08030000000001,Venkat,42,481,437,2,920,52.3,47.5,0.2
+Franklin Pk Ward 3 Dist 2,40.593,-80.07860000000001,Venkat,52,317,264,1,582,54.5,45.4,0.2
+Franklin Pk Ward 3 Dist 3,40.58045,-80.078,Venkat,77,525,447,1,973,54.0,45.9,0.1
+Hampton Dist 3,40.5936,-79.9796,Kirk,5,473,479,1,953,49.6,50.3,0.1
+Hampton Dist 4,40.56175,-79.96290000000002,Kirk,27,198,225,0,423,46.8,53.2,0.0
+Hampton Dist 5,40.5587,-79.97985,Venkat,31,270,239,0,509,53.0,47.0,0.0
+Hampton Dist 12,40.5724,-79.96895,Venkat,56,356,300,0,656,54.3,45.7,0.0
+Hampton Dist 13,40.570350000000005,-79.97785,Venkat,30,290,257,3,550,52.7,46.7,0.5
+Kilbuck,40.52105,-80.0916,Venkat,56,262,205,1,468,56.0,43.8,0.2
+McCandless Ward 1 Dist 1,40.5989,-80.02525,Venkat,52,441,387,2,830,53.1,46.6,0.2
+McCandless Ward 1 Dist 2,40.5808,-80.00695000000002,Venkat,96,309,210,3,522,59.2,40.2,0.6
+McCandless Ward 1 Dist 3,40.594,-80.03140000000002,Venkat,45,406,357,4,767,52.9,46.5,0.5
+McCandless Ward 2 Dist 1,40.59985,-80.0566,Venkat,198,586,388,0,974,60.2,39.8,0.0
+McCandless Ward 2 Dist 2,40.5934,-80.06110000000001,Venkat,16,338,322,0,660,51.2,48.8,0.0
+McCandless Ward 2 Dist 3,40.59625,-80.04335,Kirk,6,303,310,1,614,49.3,50.5,0.2
+McCandless Ward 3 Dist 1,40.57390000000001,-80.0446,Venkat,108,413,303,2,718,57.5,42.2,0.3
+McCandless Ward 3 Dist 2,40.579750000000004,-80.04585,Venkat,83,428,345,0,773,55.4,44.6,0.0
+McCandless Ward 3 Dist 3,40.579800000000006,-80.0553,Venkat,56,436,380,0,816,53.4,46.6,0.0
+McCandless Ward 4 Dist 1,40.5608,-80.04935,Venkat,86,572,486,0,1058,54.1,45.9,0.0
+McCandless Ward 4 Dist 2,40.56465,-80.04945000000001,Venkat,74,351,277,0,628,55.9,44.1,0.0
+McCandless Ward 4 Dist 3,40.56205,-80.06155000000001,Venkat,17,296,278,1,575,51.5,48.3,0.2
+McCandless Ward 5 Dist 1,40.5839,-80.02595000000001,Kirk,38,300,338,0,638,47.0,53.0,0.0
+McCandless Ward 5 Dist 2,40.5685,-80.02600000000001,Venkat,141,543,399,3,945,57.5,42.2,0.3
+McCandless Ward 5 Dist 3,40.56280000000001,-80.03155000000001,Venkat,196,456,260,0,716,63.7,36.3,0.0
+McCandless Ward 6 Dist 1,40.560950000000005,-80.01515,Venkat,13,185,172,0,357,51.8,48.2,0.0
+McCandless Ward 6 Dist 2,40.5574,-80.01475,Venkat,49,414,365,0,779,53.1,46.9,0.0
+McCandless Ward 6 Dist 3,40.567400000000006,-80.0001,Venkat,237,777,540,0,1317,59.0,41.0,0.0
+McCandless Ward 7 Dist 1,40.5945,-79.99915000000001,Venkat,112,602,487,3,1092,55.1,44.6,0.3
+McCandless Ward 7 Dist 2,40.57040000000001,-79.9947,Venkat,78,402,322,2,726,55.4,44.4,0.3
+McCandless Ward 7 Dist 3,40.561400000000006,-79.99350000000001,Venkat,25,205,180,0,385,53.2,46.8,0.0
+Ohio Dist 1,40.56275000000001,-80.09895,Venkat,53,590,537,0,1127,52.4,47.6,0.0
+Ohio Dist 2,40.5369,-80.09720000000002,Venkat,111,750,639,0,1389,54.0,46.0,0.0
+Ohio Dist 3,40.53445000000001,-80.08225000000002,Venkat,262,840,576,2,1418,59.2,40.6,0.1

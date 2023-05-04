@@ -1,62 +1,62 @@
-precinct_name,winner,winner_net,Steele_total,Tomson_total,Write-in_total,precinct_total,Steele_pct,Tomson_pct,Write-in_pct
-Aspinwall Dist 1,Steele,268,440,172,0,612,71.9,28.1,0.0
-Aspinwall Dist 2,Steele,158,268,108,2,378,70.9,28.6,0.5
-Aspinwall Dist 3,Steele,241,419,177,1,597,70.2,29.6,0.2
-Blawnox,Steele,164,381,215,2,598,63.7,36.0,0.3
-Brackenridge Ward 1,Steele,15,139,124,0,263,52.9,47.1,0.0
-Brackenridge Ward 2,Steele,15,238,222,1,461,51.6,48.2,0.2
-Brackenridge Ward 3,Tomson,37,156,195,2,353,44.2,55.2,0.6
-Cheswick Dist 1,Steele,5,216,208,3,427,50.6,48.7,0.7
-Cheswick Dist 2,Steele,17,247,230,0,477,51.8,48.2,0.0
-East Deer Ward 1,Steele,17,97,80,0,177,54.8,45.2,0.0
-East Deer Ward 2,Tomson,33,159,193,1,353,45.0,54.7,0.3
-Fawn Dist 1,Tomson,127,119,246,0,365,32.6,67.4,0.0
-Fawn Dist 2,Tomson,184,214,399,1,614,34.9,65.0,0.2
-Fox Chapel Dist 1,Steele,109,367,258,0,625,58.7,41.3,0.0
-Fox Chapel Dist 2,Steele,132,429,296,1,726,59.1,40.8,0.1
-Fox Chapel Dist 3,Steele,129,351,222,0,573,61.3,38.7,0.0
-Fox Chapel Dist 4,Steele,254,563,307,2,872,64.6,35.2,0.2
-Fox Chapel Dist 5,Tomson,8,335,343,0,678,49.4,50.6,0.0
-Frazer,Tomson,137,190,329,2,521,36.5,63.1,0.4
-Harmar Dist 1,Tomson,23,420,444,1,865,48.6,51.3,0.1
-Harmar Dist 2,Tomson,4,184,189,1,374,49.2,50.5,0.3
-Harmar Dist 3,Tomson,18,113,131,0,244,46.3,53.7,0.0
-Harrison Ward 1 Dist 1,Tomson,40,82,126,4,212,38.7,59.4,1.9
-Harrison Ward 1 Dist 2,Steele,13,224,211,0,435,51.5,48.5,0.0
-Harrison Ward 1 Dist 3,Tomson,24,217,241,0,458,47.4,52.6,0.0
-Harrison Ward 2 Dist 1,Tomson,12,95,107,0,202,47.0,53.0,0.0
-Harrison Ward 2 Dist 2,Steele,3,136,133,0,269,50.6,49.4,0.0
-Harrison Ward 3 Dist 1,Tomson,23,360,386,3,749,48.1,51.5,0.4
-Harrison Ward 3 Dist 2,Tomson,-1,223,226,4,453,49.2,49.9,0.9
-Harrison Ward 4 Dist 1,Tomson,71,193,265,1,459,42.0,57.7,0.2
-Harrison Ward 4 Dist 2,Tomson,44,159,203,0,362,43.9,56.1,0.0
-Harrison Ward 5 Dist 1,Steele,66,147,81,0,228,64.5,35.5,0.0
-Harrison Ward 5 Dist 2,Tomson,70,206,276,0,482,42.7,57.3,0.0
-Indiana Dist 1,Steele,13,319,306,0,625,51.0,49.0,0.0
-Indiana Dist 2,Tomson,23,288,312,1,601,47.9,51.9,0.2
-Indiana Dist 3,Steele,4,473,468,1,942,50.2,49.7,0.1
-Indiana Dist 4,Steele,93,460,366,1,827,55.6,44.3,0.1
-Indiana Dist 5,Steele,58,363,304,1,668,54.3,45.5,0.1
-O'Hara Ward 1 Dist 1,Steele,173,436,261,2,699,62.4,37.3,0.3
-O'Hara Ward 1 Dist 2,Steele,136,285,148,1,434,65.7,34.1,0.2
-O'Hara Ward 2 Dist 1,Steele,136,295,158,1,454,65.0,34.8,0.2
-O'Hara Ward 2 Dist 2,Steele,125,395,268,2,665,59.4,40.3,0.3
-O'Hara Ward 3 Dist 1,Steele,112,292,179,1,472,61.9,37.9,0.2
-O'Hara Ward 3 Dist 2,Steele,41,216,172,3,391,55.2,44.0,0.8
-O'Hara Ward 4 Dist 1,Steele,160,279,119,0,398,70.1,29.9,0.0
-O'Hara Ward 4 Dist 2,Steele,275,439,163,1,603,72.8,27.0,0.2
-O'Hara Ward 5 Dist 1,Steele,133,352,218,1,571,61.6,38.2,0.2
-O'Hara Ward 5 Dist 2,Steele,254,450,194,2,646,69.7,30.0,0.3
-Sharpsburg Dist 1,Steele,110,207,96,1,304,68.1,31.6,0.3
-Sharpsburg Dist 2,Steele,181,299,116,2,417,71.7,27.8,0.5
-Sharpsburg Dist 3,Steele,74,271,197,0,468,57.9,42.1,0.0
-Springdale Br Dist 1,Steele,13,207,194,0,401,51.6,48.4,0.0
-Springdale Br Dist 2,Tomson,33,189,222,0,411,46.0,54.0,0.0
-Springdale Br Dist 3,Steele,35,182,146,1,329,55.3,44.4,0.3
-Springdale Br Dist 4,Steele,16,146,129,1,276,52.9,46.7,0.4
-Springdale Twp,Tomson,47,381,429,1,811,47.0,52.9,0.1
-Tarentum Ward 1 Dist 1,Tomson,0,144,149,5,298,48.3,50.0,1.7
-Tarentum Ward 1 Dist 2,Steele,35,168,132,1,301,55.8,43.9,0.3
-Tarentum Ward 2,Steele,7,131,121,3,255,51.4,47.5,1.2
-Tarentum Ward 3 Dist 1,Steele,5,68,63,0,131,51.9,48.1,0.0
-Tarentum Ward 3 Dist 2,Tomson,24,123,147,0,270,45.6,54.4,0.0
+precinct_name,precinct_center_lat,precinct_center_lon,winner,winner_net,Steele_total,Tomson_total,Write-in_total,precinct_total,Steele_pct,Tomson_pct,Write-in_pct
+Aspinwall Dist 1,40.490700000000004,-79.90535,Steele,268,440,172,0,612,71.9,28.1,0.0
+Aspinwall Dist 2,40.49705,-79.90495000000001,Steele,158,268,108,2,378,70.9,28.6,0.5
+Aspinwall Dist 3,40.490700000000004,-79.90020000000001,Steele,241,419,177,1,597,70.2,29.6,0.2
+Blawnox,40.49165000000001,-79.8585,Steele,164,381,215,2,598,63.7,36.0,0.3
+Brackenridge Ward 1,40.60465000000001,-79.7398,Steele,15,139,124,0,263,52.9,47.1,0.0
+Brackenridge Ward 2,40.61125,-79.73940000000002,Steele,15,238,222,1,461,51.6,48.2,0.2
+Brackenridge Ward 3,40.609350000000006,-79.74585,Tomson,37,156,195,2,353,44.2,55.2,0.6
+Cheswick Dist 1,40.540800000000004,-79.80115,Steele,5,216,208,3,427,50.6,48.7,0.7
+Cheswick Dist 2,40.5458,-79.80145,Steele,17,247,230,0,477,51.8,48.2,0.0
+East Deer Ward 1,40.593500000000006,-79.77690000000001,Steele,17,97,80,0,177,54.8,45.2,0.0
+East Deer Ward 2,40.5765,-79.7842,Tomson,33,159,193,1,353,45.0,54.7,0.3
+Fawn Dist 1,40.653000000000006,-79.78810000000001,Tomson,127,119,246,0,365,32.6,67.4,0.0
+Fawn Dist 2,40.6411,-79.7492,Tomson,184,214,399,1,614,34.9,65.0,0.2
+Fox Chapel Dist 1,40.50305,-79.89,Steele,109,367,258,0,625,58.7,41.3,0.0
+Fox Chapel Dist 2,40.537150000000004,-79.8723,Steele,132,429,296,1,726,59.1,40.8,0.1
+Fox Chapel Dist 3,40.512100000000004,-79.90145000000001,Steele,129,351,222,0,573,61.3,38.7,0.0
+Fox Chapel Dist 4,40.53575,-79.89590000000001,Steele,254,563,307,2,872,64.6,35.2,0.2
+Fox Chapel Dist 5,40.51975,-79.88845,Tomson,8,335,343,0,678,49.4,50.6,0.0
+Frazer,40.603,-79.79035,Tomson,137,190,329,2,521,36.5,63.1,0.4
+Harmar Dist 1,40.541050000000006,-79.84755000000001,Tomson,23,420,444,1,865,48.6,51.3,0.1
+Harmar Dist 2,40.544650000000004,-79.81765000000001,Tomson,4,184,189,1,374,49.2,50.5,0.3
+Harmar Dist 3,40.5549,-79.8192,Tomson,18,113,131,0,244,46.3,53.7,0.0
+Harrison Ward 1 Dist 1,40.615300000000005,-79.73355000000001,Tomson,40,82,126,4,212,38.7,59.4,1.9
+Harrison Ward 1 Dist 2,40.62205,-79.74285,Steele,13,224,211,0,435,51.5,48.5,0.0
+Harrison Ward 1 Dist 3,40.62455,-79.73535000000001,Tomson,24,217,241,0,458,47.4,52.6,0.0
+Harrison Ward 2 Dist 1,40.6116,-79.73195000000001,Tomson,12,95,107,0,202,47.0,53.0,0.0
+Harrison Ward 2 Dist 2,40.612300000000005,-79.72305,Steele,3,136,133,0,269,50.6,49.4,0.0
+Harrison Ward 3 Dist 1,40.6447,-79.7072,Tomson,23,360,386,3,749,48.1,51.5,0.4
+Harrison Ward 3 Dist 2,40.628,-79.71175,Tomson,-1,223,226,4,453,49.2,49.9,0.9
+Harrison Ward 4 Dist 1,40.633500000000005,-79.71780000000001,Tomson,71,193,265,1,459,42.0,57.7,0.2
+Harrison Ward 4 Dist 2,40.64425,-79.72130000000001,Tomson,44,159,203,0,362,43.9,56.1,0.0
+Harrison Ward 5 Dist 1,40.6193,-79.72265000000002,Steele,66,147,81,0,228,64.5,35.5,0.0
+Harrison Ward 5 Dist 2,40.630700000000004,-79.72665,Tomson,70,206,276,0,482,42.7,57.3,0.0
+Indiana Dist 1,40.57855000000001,-79.88230000000001,Steele,13,319,306,0,625,51.0,49.0,0.0
+Indiana Dist 2,40.57225,-79.87195000000001,Tomson,23,288,312,1,601,47.9,51.9,0.2
+Indiana Dist 3,40.57995,-79.84020000000001,Steele,4,473,468,1,942,50.2,49.7,0.1
+Indiana Dist 4,40.5489,-79.92205000000001,Steele,93,460,366,1,827,55.6,44.3,0.1
+Indiana Dist 5,40.55445,-79.8832,Steele,58,363,304,1,668,54.3,45.5,0.1
+O'Hara Ward 1 Dist 1,40.496750000000006,-79.87265000000001,Steele,173,436,261,2,699,62.4,37.3,0.3
+O'Hara Ward 1 Dist 2,40.498000000000005,-79.86025000000001,Steele,136,285,148,1,434,65.7,34.1,0.2
+O'Hara Ward 2 Dist 1,40.5157,-79.9254,Steele,136,295,158,1,454,65.0,34.8,0.2
+O'Hara Ward 2 Dist 2,40.5242,-79.92450000000001,Steele,125,395,268,2,665,59.4,40.3,0.3
+O'Hara Ward 3 Dist 1,40.5073,-79.92595,Steele,112,292,179,1,472,61.9,37.9,0.2
+O'Hara Ward 3 Dist 2,40.500550000000004,-79.9261,Steele,41,216,172,3,391,55.2,44.0,0.8
+O'Hara Ward 4 Dist 1,40.49515,-79.88525000000001,Steele,160,279,119,0,398,70.1,29.9,0.0
+O'Hara Ward 4 Dist 2,40.5064,-79.91055,Steele,275,439,163,1,603,72.8,27.0,0.2
+O'Hara Ward 5 Dist 1,40.51785,-79.86080000000001,Steele,133,352,218,1,571,61.6,38.2,0.2
+O'Hara Ward 5 Dist 2,40.5124,-79.8636,Steele,254,450,194,2,646,69.7,30.0,0.3
+Sharpsburg Dist 1,40.494150000000005,-79.93675,Steele,110,207,96,1,304,68.1,31.6,0.3
+Sharpsburg Dist 2,40.495050000000006,-79.92915,Steele,181,299,116,2,417,71.7,27.8,0.5
+Sharpsburg Dist 3,40.493050000000004,-79.91655,Steele,74,271,197,0,468,57.9,42.1,0.0
+Springdale Br Dist 1,40.54130000000001,-79.77265,Steele,13,207,194,0,401,51.6,48.4,0.0
+Springdale Br Dist 2,40.5458,-79.78775,Tomson,33,189,222,0,411,46.0,54.0,0.0
+Springdale Br Dist 3,40.5377,-79.787,Steele,35,182,146,1,329,55.3,44.4,0.3
+Springdale Br Dist 4,40.54225,-79.78745,Steele,16,146,129,1,276,52.9,46.7,0.4
+Springdale Twp,40.5535,-79.7875,Tomson,47,381,429,1,811,47.0,52.9,0.1
+Tarentum Ward 1 Dist 1,40.605050000000006,-79.7533,Tomson,0,144,149,5,298,48.3,50.0,1.7
+Tarentum Ward 1 Dist 2,40.607200000000006,-79.75305,Steele,35,168,132,1,301,55.8,43.9,0.3
+Tarentum Ward 2,40.600750000000005,-79.74940000000001,Steele,7,131,121,3,255,51.4,47.5,1.2
+Tarentum Ward 3 Dist 1,40.59955,-79.76945,Steele,5,68,63,0,131,51.9,48.1,0.0
+Tarentum Ward 3 Dist 2,40.6061,-79.7642,Tomson,24,123,147,0,270,45.6,54.4,0.0

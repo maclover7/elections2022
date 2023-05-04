@@ -1,6 +1,19 @@
 const { readFile, writeFile } = require('fs/promises');
+const { center: turfCenter, feature: turfFeature } = require('@turf/turf');
 
 const config = require('./config');
+
+const createPrecinctCenters = (map, raceName) => {
+  return Promise.all(map.features.map((feature) => {
+    return Promise.resolve({
+      [feature.properties.name]: turfCenter(turfFeature(feature.geometry)).geometry.coordinates
+    });
+  }))
+    .then((features) => {
+      const featuresArr = Object.assign({}, ...features);
+      writeFile(`output/map-racepc-${raceName}.json`, JSON.stringify(featuresArr));
+    });
+};
 
 const getCountyMap = (electionId) => {
   return readFile(`./output/map-county-${electionId}.geojson`, 'utf-8')
@@ -22,6 +35,11 @@ config.races.forEach(([raceName, raceId]) => {
   ])
     .then(([map, precinctNames]) => {
       map.features = map.features.filter((feature) => precinctNames.includes(feature.properties.name));
-      return writeFile(`output/map-race-${raceName}.geojson`, JSON.stringify(map));
+      return Promise.resolve(map);
+    }).then((map) => {
+      return Promise.all([
+        createPrecinctCenters(map, raceName),
+        writeFile(`output/map-race-${raceName}.geojson`, JSON.stringify(map))
+      ]);
     });
 });

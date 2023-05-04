@@ -1,5 +1,5 @@
 const { writeFile } = require('fs/promises');
-const { loadCurrentVersion, makeJSONRequest } = require('./clarity-utils');
+const { getPrecinctCenters, loadCurrentVersion, makeJSONRequest } = require('./clarity-utils');
 
 const config = require('./config');
 
@@ -26,8 +26,9 @@ class RaceDownload {
   downloadResults() {
     return Promise.all([
       makeJSONRequest(this.baseUrl, 'sum.json'),
-      makeJSONRequest(this.baseUrl, 'ALL.json')
-    ]).then(([{ Contests: candidateContests }, { Contests: resultsContests }]) => {
+      makeJSONRequest(this.baseUrl, 'ALL.json'),
+      getPrecinctCenters(this.raceName)
+    ]).then(([{ Contests: candidateContests }, { Contests: resultsContests }, precinctCenters]) => {
       const candidates = candidateContests
         .find((c) => c.K === this.raceIdForResults)
         .CH.map((c) => c.split(' ').pop());
@@ -42,6 +43,8 @@ class RaceDownload {
         const precinctRaceIndex = precinct.C.indexOf(this.raceIdForResults);
         if (precinctRaceIndex === -1) return null;
 
+        const precinctCenter = precinctCenters[precinct.A];
+
         const candidateVotes = precinct.V[precinctRaceIndex];
         const precinctCandidateMaxVotes = Math.max(...candidateVotes);
         const precinctVotes = candidateVotes.reduce((acc, val) => acc + val, 0);
@@ -52,6 +55,8 @@ class RaceDownload {
 
         return [
           precinct.A,
+          precinctCenter[1],
+          precinctCenter[0],
           candidates[candidateVotes.indexOf(precinctCandidateMaxVotes)],
           precinctCandidateMaxVotes - (precinctVotes - precinctCandidateMaxVotes),
           ...candidateVotes,
@@ -63,6 +68,8 @@ class RaceDownload {
       return Promise.resolve([
         [
           'precinct_name',
+          'precinct_center_lat',
+          'precinct_center_lon',
           'winner',
           'winner_net',
           ...candidates.map((c) => `${c}_total`),

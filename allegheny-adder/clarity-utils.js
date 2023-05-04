@@ -4,6 +4,10 @@ const fetchOptions = {
   }
 };
 
+function getPrecinctCenters(raceIdForResults) {
+  return Promise.resolve(require(`./output/map-racepc-${raceIdForResults}.json`));
+}
+
 function loadCurrentVersion(baseUrl) {
   return fetch(`${baseUrl}/current_ver.txt`, fetchOptions)
     .then((r) => r.text())
@@ -17,4 +21,4 @@ function makeJSONRequest(baseUrl, path) {
     .catch(e => { throw(e); });
 }
 
-module.exports = { loadCurrentVersion, makeJSONRequest };
+module.exports = { getPrecinctCenters, loadCurrentVersion, makeJSONRequest };
