@@ -2,5 +2,8 @@
   "electionId": "95692",
   "races": [
     ["19da", "0111", "0111"]
+  ],
+  "races_compared": [
+    ["1923da", "19da", 2, "19da", 2]
   ]
 }
