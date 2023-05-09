@@ -1,9 +1,10 @@
 {
-  "electionId": "95692",
+  "electionId": "",
   "races": [
-    ["19da", "0111", "0111"]
+    ["23da", "x", "x"],
+    ["23exec", "x", "x"]
   ],
   "races_compared": [
-    ["1923da", "19da", 2, "19da", 2]
+    ["1923da", "19da", 2, "23da", x]
   ]
 }
