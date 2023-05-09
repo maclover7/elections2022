@@ -4,8 +4,19 @@ const fetchOptions = {
   }
 };
 
+function getMuniCenters(_) {
+  return Promise.resolve(require(`./input/map-racemc.json`));
+}
+
 function getPrecinctCenters(raceIdForResults) {
-  return Promise.resolve(require(`./output/map-racepc-${raceIdForResults}.json`));
+  return new Promise((resolve) => {
+    try {
+      const precinctCenters = require(`./output/map-racepc-${raceIdForResults}.json`);
+      resolve(precinctCenters);
+    } catch {
+      resolve({});
+    }
+  });
 }
 
 function loadCurrentVersion(baseUrl) {
@@ -21,4 +32,4 @@ function makeJSONRequest(baseUrl, path) {
     .catch(e => { throw(e); });
 }
 
-module.exports = { getPrecinctCenters, loadCurrentVersion, makeJSONRequest };
+module.exports = { getMuniCenters, getPrecinctCenters, loadCurrentVersion, makeJSONRequest };
