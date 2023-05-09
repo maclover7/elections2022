@@ -10,6 +10,10 @@ const groupBy = (xs, key) => {
   }, {});
 };
 
+const specialCandidateNames = {
+  'Jr.': 'Zappala'
+};
+
 const specialPrecinctNames = {
   'CASL SHANNON': 'CASTLE SHANNON',
   "OHARA": "O'HARA",
@@ -101,7 +105,7 @@ class RaceDownload {
 
   addResultsByPrecinct(candidates, precincts, precinctCenters) {
     const addedResults = precincts.map(([ precinctName, precinctCandidateVotes ]) => {
-      const precinctCenter = precinctCenters[precinctName];
+      const precinctCenter = precinctCenters[precinctName] || [];
 
       const precinctCandidateMaxVotes = Math.max(...precinctCandidateVotes);
       const precinctTotalVotes = precinctCandidateVotes.reduce((acc, val) => acc + val, 0);
@@ -142,7 +146,8 @@ class RaceDownload {
       .then(({ Contests }) => {
         return Promise.resolve(Contests
           .find(c => c.K === this.raceIdForResults)
-          .CH.map(c => c.split(' ').pop()));
+          .CH.map(c => c.split(' ').pop())
+          .map(c => specialCandidateNames[c] ? specialCandidateNames[c] : c));
       });
   }
 
