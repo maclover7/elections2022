@@ -82,6 +82,7 @@ class RaceDownload {
         muniCenter.center_lon,
         candidates[muniCandidateVotes.indexOf(muniCandidateMaxVotes)],
         muniCandidateMaxVotes - (muniTotalVotes - muniCandidateMaxVotes),
+        candidatePercentages[muniCandidateVotes.indexOf(muniCandidateMaxVotes)],
         ...muniCandidateVotes,
         muniTotalVotes,
         ...candidatePercentages
@@ -95,6 +96,7 @@ class RaceDownload {
         'muni_center_lon',
         'winner',
         'winner_net',
+        'winner_pct',
         ...candidates.map((c) => `${c}_total`),
         'muni_total',
         ...candidates.map((c) => `${c}_pct`)
@@ -120,6 +122,7 @@ class RaceDownload {
         precinctCenter[0],
         candidates[precinctCandidateVotes.indexOf(precinctCandidateMaxVotes)],
         precinctCandidateMaxVotes - (precinctTotalVotes - precinctCandidateMaxVotes),
+        candidatePercentages[precinctCandidateVotes.indexOf(precinctCandidateMaxVotes)],
         ...precinctCandidateVotes,
         precinctTotalVotes,
         ...candidatePercentages
@@ -133,6 +136,7 @@ class RaceDownload {
         'precinct_center_lon',
         'winner',
         'winner_net',
+        'winner_pct',
         ...candidates.map((c) => `${c}_total`),
         'precinct_total',
         ...candidates.map((c) => `${c}_pct`)
