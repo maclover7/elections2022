@@ -21,8 +21,10 @@ class RaceComparison {
           const newMuni = newResults.find((newMuni) => newMuni[0] === originalMuni[0]);
           originalMuni.push(...newMuni.slice(1));
 
-          const candidateDiff = originalMuni[3 + this.newResultsCandidateNumber] - originalMuni[this.originalResultsCandidateNumber];
-          originalMuni.splice(1, 0, candidateDiff)
+          const newPct = originalMuni[3 + this.newResultsCandidateNumber];
+          const oldPct = originalMuni[this.originalResultsCandidateNumber];
+          const pctDiff = 100 * (newPct - oldPct) / oldPct;
+          originalMuni.splice(1, 0, pctDiff)
 
           return Promise.resolve(originalMuni);
         }));
@@ -30,7 +32,7 @@ class RaceComparison {
       .then((comparedResults) => {
         comparedResults.shift();
         comparedResults.splice(0, 0, [
-          'muni_name', 'diff',
+          'muni_name', 'pctdiff',
           `${this.originalResults}_Cand1_pct`, `${this.originalResults}_Cand2_pct`, `${this.originalResults}_Write-in_pct`,
           `${this.newResults}_Cand1_pct`, `${this.newResults}_Cand2_pct`, `${this.newResults}_Write-in_pct`]);
 
