@@ -19,12 +19,13 @@ class RaceComparison {
       .then(([ originalResults, newResults ]) => {
         return Promise.all(originalResults.map((originalMuni) => {
           const newMuni = newResults.find((newMuni) => newMuni[0] === originalMuni[0]);
-          originalMuni.push(...newMuni.slice(1));
+          originalMuni.push(...newMuni.slice(3));
 
-          const newPct = originalMuni[3 + this.newResultsCandidateNumber];
-          const oldPct = originalMuni[this.originalResultsCandidateNumber];
+          const newPct = originalMuni[5 + this.newResultsCandidateNumber];
+          const oldPct = originalMuni[2 + this.originalResultsCandidateNumber];
           const pctDiff = 100 * (newPct - oldPct) / oldPct;
-          originalMuni.splice(1, 0, pctDiff)
+          originalMuni.splice(3, 0, pctDiff < 0 ? 'Dugan' : 'Zappala');
+          originalMuni.splice(3, 0, Math.round(Math.abs(pctDiff) * 100) / 100);
 
           return Promise.resolve(originalMuni);
         }));
@@ -32,7 +33,7 @@ class RaceComparison {
       .then((comparedResults) => {
         comparedResults.shift();
         comparedResults.splice(0, 0, [
-          'muni_name', 'pctdiff',
+          'muni_name', 'muni_center_lat', 'muni_center_lon', 'pctdiff', 'cand_towards',
           `${this.originalResults}_Cand1_pct`, `${this.originalResults}_Cand2_pct`, `${this.originalResults}_Write-in_pct`,
           `${this.newResults}_Cand1_pct`, `${this.newResults}_Cand2_pct`, `${this.newResults}_Write-in_pct`]);
 
@@ -47,6 +48,8 @@ class RaceComparison {
       .then((file) => file.split("\n").map((line) => line.split(",")))
       .then((munis) => munis.map((results) => [
         results[0],
+        results[1],
+        results[2],
         ...results.slice(1).slice(-3).map((r) => parseFloat(r))
       ]));
   }

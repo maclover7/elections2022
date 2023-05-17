@@ -69,7 +69,8 @@ class RaceDownload {
       const muniCandidateVotes = sumArrays(candidates.length, ...precinctCandidateVotes);
 
       const muniCenter = muniCenters[muni.toUpperCase()];
-      const muniCandidateMaxVotes = Math.max(...muniCandidateVotes);
+
+      const sortedMuniCandidateVotes = muniCandidateVotes.toSorted((a, b) =>  b - a);
       const muniTotalVotes = muniCandidateVotes.reduce((acc, val) => acc + val, 0);
       const candidatePercentages = muniCandidateVotes.map((candidateVote) => {
         if (muniTotalVotes === 0) return 0;
@@ -80,9 +81,9 @@ class RaceDownload {
         muni,
         muniCenter.center_lat,
         muniCenter.center_lon,
-        muniTotalVotes === 0 ? '' : candidates[muniCandidateVotes.indexOf(muniCandidateMaxVotes)],
-        muniCandidateMaxVotes - (muniTotalVotes - muniCandidateMaxVotes),
-        candidatePercentages[muniCandidateVotes.indexOf(muniCandidateMaxVotes)],
+        muniTotalVotes === 0 ? '' : candidates[muniCandidateVotes.indexOf(sortedMuniCandidateVotes[0])],
+        sortedMuniCandidateVotes[0] - sortedMuniCandidateVotes[1],
+        candidatePercentages[muniCandidateVotes.indexOf(sortedMuniCandidateVotes[0])],
         ...muniCandidateVotes,
         muniTotalVotes,
         ...candidatePercentages
@@ -109,7 +110,7 @@ class RaceDownload {
     const addedResults = precincts.map(([ precinctName, precinctCandidateVotes ]) => {
       const precinctCenter = precinctCenters[precinctName] || [];
 
-      const precinctCandidateMaxVotes = Math.max(...precinctCandidateVotes);
+      const sortedPrecinctCandidateVotes = precinctCandidateVotes.toSorted((a, b) =>  b - a);
       const precinctTotalVotes = precinctCandidateVotes.reduce((acc, val) => acc + val, 0);
       const candidatePercentages = precinctCandidateVotes.map((candidateVote) => {
         if (precinctTotalVotes === 0) return 0;
@@ -120,9 +121,9 @@ class RaceDownload {
         precinctName,
         precinctCenter[1],
         precinctCenter[0],
-        precinctTotalVotes === 0 ? '' :  candidates[precinctCandidateVotes.indexOf(precinctCandidateMaxVotes)],
-        precinctCandidateMaxVotes - (precinctTotalVotes - precinctCandidateMaxVotes),
-        candidatePercentages[precinctCandidateVotes.indexOf(precinctCandidateMaxVotes)],
+        precinctTotalVotes === 0 ? '' :  candidates[precinctCandidateVotes.indexOf(sortedPrecinctCandidateVotes[0])],
+        sortedPrecinctCandidateVotes[0] - sortedPrecinctCandidateVotes[1],
+        candidatePercentages[precinctCandidateVotes.indexOf(sortedPrecinctCandidateVotes[0])],
         ...precinctCandidateVotes,
         precinctTotalVotes,
         ...candidatePercentages
