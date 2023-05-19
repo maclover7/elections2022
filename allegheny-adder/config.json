@@ -5,6 +5,9 @@
     ["23da", "0016", "0016"],
     ["23exec", "0014", "0014"]
   ],
+  "races_common": [
+    ["23prog", [["23accd", "Hallam"], ["23da", "Dugan"], ["23exec", "Innamorato"]]]
+  ],
   "races_compared": [
     ["1923da", "19da", 2, "23da", 2]
   ]
