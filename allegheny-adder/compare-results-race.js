@@ -23,7 +23,7 @@ class RaceComparison {
 
           const newPct = originalMuni[5 + this.newResultsCandidateNumber];
           const oldPct = originalMuni[2 + this.originalResultsCandidateNumber];
-          const pctDiff = 100 * (newPct - oldPct) / oldPct;
+          const pctDiff = oldPct === 0 ? 0 : 100 * (newPct - oldPct) / oldPct;
           originalMuni.splice(3, 0, pctDiff < 0 ? 'Dugan' : 'Zappala');
           originalMuni.splice(3, 0, Math.round(Math.abs(pctDiff) * 100) / 100);
 
