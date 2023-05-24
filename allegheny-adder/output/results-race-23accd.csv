@@ -1,68 +1,68 @@
 precinct_name,precinct_center_lat,precinct_center_lon,winner,winner_net,winner_pct,Hallam_total,Doven_total,Write-in_total,precinct_total,Hallam_pct,Doven_pct,Write-in_pct
-Aleppo,,,Hallam,31,57.0,126,95,0,221,57.0,43.0,0.0
+Aleppo,,,Hallam,31,56.9,128,97,0,225,56.9,43.1,0.0
 Aspinwall Dist 1,,,Hallam,52,61.0,139,87,2,228,61.0,38.2,0.9
 Aspinwall Dist 2,,,Hallam,18,56.3,80,62,0,142,56.3,43.7,0.0
-Aspinwall Dist 3,,,Hallam,59,62.7,146,87,0,233,62.7,37.3,0.0
-Avalon Ward 1,,,Hallam,59,66.1,119,60,1,180,66.1,33.3,0.6
-Avalon Ward 2 Dist 1,,,Hallam,38,68.3,69,31,1,101,68.3,30.7,1.0
+Aspinwall Dist 3,,,Hallam,59,62.6,147,88,0,235,62.6,37.4,0.0
+Avalon Ward 1,,,Hallam,60,66.3,120,60,1,181,66.3,33.1,0.6
+Avalon Ward 2 Dist 1,,,Hallam,38,68.0,70,32,1,103,68.0,31.1,1.0
 Avalon Ward 2 Dist 2,,,Hallam,12,57.0,45,33,1,79,57.0,41.8,1.3
 Avalon Ward 3 Dist 1,,,Hallam,8,56.9,33,25,0,58,56.9,43.1,0.0
 Avalon Ward 3 Dist 2,,,Hallam,19,60.9,53,34,0,87,60.9,39.1,0.0
-Avalon Ward 3 Dist 3,,,Hallam,34,67.3,66,32,0,98,67.3,32.7,0.0
+Avalon Ward 3 Dist 3,,,Hallam,33,66.7,66,33,0,99,66.7,33.3,0.0
 Baldwin Br Dist 1,,,Doven,17,57.8,46,63,0,109,42.2,57.8,0.0
-Baldwin Br Dist 2,,,Hallam,47,60.1,134,87,2,223,60.1,39.0,0.9
-Baldwin Br Dist 3,,,Doven,25,60.0,50,75,0,125,40.0,60.0,0.0
+Baldwin Br Dist 2,,,Hallam,48,60.3,135,87,2,224,60.3,38.8,0.9
+Baldwin Br Dist 3,,,Doven,24,59.5,51,75,0,126,40.5,59.5,0.0
 Baldwin Br Dist 4,,,Hallam,5,52.1,61,56,0,117,52.1,47.9,0.0
 Baldwin Br Dist 5,,,Doven,7,53.3,50,57,0,107,46.7,53.3,0.0
-Baldwin Br Dist 6,,,Hallam,9,53.8,64,55,0,119,53.8,46.2,0.0
+Baldwin Br Dist 6,,,Hallam,8,53.3,65,57,0,122,53.3,46.7,0.0
 Baldwin Br Dist 7,,,Hallam,7,53.3,57,50,0,107,53.3,46.7,0.0
 Baldwin Br Dist 8,,,Hallam,0,50.0,67,67,0,134,50.0,50.0,0.0
-Baldwin Br Dist 9,,,Hallam,11,53.7,73,62,1,136,53.7,45.6,0.7
+Baldwin Br Dist 9,,,Hallam,10,53.3,73,63,1,137,53.3,46.0,0.7
 Baldwin Br Dist 10,,,Doven,11,57.0,34,45,0,79,43.0,57.0,0.0
 Baldwin Br Dist 11,,,Hallam,30,60.4,87,57,0,144,60.4,39.6,0.0
 Baldwin Br Dist 12,,,Hallam,13,56.0,61,48,0,109,56.0,44.0,0.0
 Baldwin Br Dist 13,,,Hallam,1,50.4,65,64,0,129,50.4,49.6,0.0
 Baldwin Br Dist 14,,,Doven,8,53.8,48,56,0,104,46.2,53.8,0.0
-Baldwin Br Dist 15,,,Hallam,0,50.0,73,73,0,146,50.0,50.0,0.0
+Baldwin Br Dist 15,,,Hallam,1,50.3,74,73,0,147,50.3,49.7,0.0
 Baldwin Br Dist 16,,,Hallam,4,51.0,76,72,1,149,51.0,48.3,0.7
 Baldwin Br Dist 17,,,Doven,3,51.3,58,61,0,119,48.7,51.3,0.0
-Baldwin Br Dist 18,,,Hallam,24,56.3,103,79,1,183,56.3,43.2,0.5
-Baldwin Tp Dist 1,,,Hallam,20,56.9,74,54,2,130,56.9,41.5,1.5
+Baldwin Br Dist 18,,,Hallam,23,56.0,103,80,1,184,56.0,43.5,0.5
+Baldwin Tp Dist 1,,,Hallam,21,57.3,75,54,2,131,57.3,41.2,1.5
 Baldwin Tp Dist 2,,,Hallam,13,54.4,74,61,1,136,54.4,44.9,0.7
 Bell Acres,,,Hallam,14,54.0,94,80,0,174,54.0,46.0,0.0
-Bellevue Ward 1 Dist 1,,,Hallam,46,65.1,99,53,0,152,65.1,34.9,0.0
-Bellevue Ward 1 Dist 2,,,Hallam,49,65.2,105,56,0,161,65.2,34.8,0.0
-Bellevue Ward 2 Dist 1,,,Hallam,42,64.4,94,52,0,146,64.4,35.6,0.0
+Bellevue Ward 1 Dist 1,,,Hallam,47,65.4,100,53,0,153,65.4,34.6,0.0
+Bellevue Ward 1 Dist 2,,,Hallam,50,65.4,106,56,0,162,65.4,34.6,0.0
+Bellevue Ward 2 Dist 1,,,Hallam,42,64.2,95,53,0,148,64.2,35.8,0.0
 Bellevue Ward 2 Dist 2,,,Hallam,29,60.3,85,56,0,141,60.3,39.7,0.0
 Bellevue Ward 3 Dist 1,,,Hallam,46,65.5,97,51,0,148,65.5,34.5,0.0
-Bellevue Ward 3 Dist 2,,,Hallam,29,58.9,96,67,0,163,58.9,41.1,0.0
+Bellevue Ward 3 Dist 2,,,Hallam,28,58.5,96,68,0,164,58.5,41.5,0.0
 Ben Avon Dist 1,,,Hallam,30,64.6,62,32,2,96,64.6,33.3,2.1
 Ben Avon Dist 2,,,Hallam,63,64.3,137,74,2,213,64.3,34.7,0.9
 Ben Avon Ht,,,Doven,8,55.4,33,41,0,74,44.6,55.4,0.0
 Bethel Park Ward 1 Dist 1,,,Hallam,3,51.3,60,57,0,117,51.3,48.7,0.0
 Bethel Park Ward 1 Dist 2,,,Hallam,19,57.0,73,54,1,128,57.0,42.2,0.8
 Bethel Park Ward 1 Dist 3,,,Hallam,0,50.0,75,75,0,150,50.0,50.0,0.0
-Bethel Park Ward 2 Dist 1,,,Hallam,21,58.5,72,51,0,123,58.5,41.5,0.0
-Bethel Park Ward 2 Dist 2,,,Hallam,12,54.3,70,58,1,129,54.3,45.0,0.8
+Bethel Park Ward 2 Dist 1,,,Hallam,23,59.2,74,51,0,125,59.2,40.8,0.0
+Bethel Park Ward 2 Dist 2,,,Hallam,11,53.8,70,59,1,130,53.8,45.4,0.8
 Bethel Park Ward 2 Dist 3,,,Hallam,44,63.5,101,57,1,159,63.5,35.8,0.6
-Bethel Park Ward 3 Dist 1,,,Doven,3,50.4,66,69,2,137,48.2,50.4,1.5
-Bethel Park Ward 3 Dist 2,,,Hallam,17,54.3,101,84,1,186,54.3,45.2,0.5
-Bethel Park Ward 3 Dist 3,,,Hallam,23,56.2,104,81,0,185,56.2,43.8,0.0
+Bethel Park Ward 3 Dist 1,,,Doven,4,50.7,66,70,2,138,47.8,50.7,1.4
+Bethel Park Ward 3 Dist 2,,,Hallam,16,54.0,101,85,1,187,54.0,45.5,0.5
+Bethel Park Ward 3 Dist 3,,,Hallam,22,55.9,104,82,0,186,55.9,44.1,0.0
 Bethel Park Ward 4 Dist 1,,,Hallam,12,52.2,118,106,2,226,52.2,46.9,0.9
 Bethel Park Ward 4 Dist 2,,,Hallam,5,51.6,79,74,0,153,51.6,48.4,0.0
-Bethel Park Ward 4 Dist 3,,,Doven,4,50.7,65,69,2,136,47.8,50.7,1.5
+Bethel Park Ward 4 Dist 3,,,Doven,2,50.0,68,70,2,140,48.6,50.0,1.4
 Bethel Park Ward 5 Dist 1,,,Doven,13,58.0,34,47,0,81,42.0,58.0,0.0
-Bethel Park Ward 5 Dist 2,,,Hallam,14,58.3,49,35,0,84,58.3,41.7,0.0
-Bethel Park Ward 5 Dist 3,,,Hallam,60,61.1,162,102,1,265,61.1,38.5,0.4
-Bethel Park Ward 6 Dist 1,,,Hallam,36,60.2,103,67,1,171,60.2,39.2,0.6
-Bethel Park Ward 6 Dist 2,,,Hallam,35,60.0,96,61,3,160,60.0,38.1,1.9
+Bethel Park Ward 5 Dist 2,,,Hallam,15,58.8,50,35,0,85,58.8,41.2,0.0
+Bethel Park Ward 5 Dist 3,,,Hallam,59,60.9,162,103,1,266,60.9,38.7,0.4
+Bethel Park Ward 6 Dist 1,,,Hallam,37,60.5,104,67,1,172,60.5,39.0,0.6
+Bethel Park Ward 6 Dist 2,,,Hallam,35,59.9,97,62,3,162,59.9,38.3,1.9
 Bethel Park Ward 6 Dist 3,,,Hallam,12,53.8,84,72,0,156,53.8,46.2,0.0
-Bethel Park Ward 7 Dist 1,,,Hallam,5,50.8,94,89,2,185,50.8,48.1,1.1
-Bethel Park Ward 7 Dist 2,,,Hallam,29,56.3,121,92,2,215,56.3,42.8,0.9
+Bethel Park Ward 7 Dist 1,,,Hallam,4,50.5,94,90,2,186,50.5,48.4,1.1
+Bethel Park Ward 7 Dist 2,,,Hallam,31,56.6,124,93,2,219,56.6,42.5,0.9
 Bethel Park Ward 7 Dist 3,,,Hallam,2,49.5,54,52,3,109,49.5,47.7,2.8
 Bethel Park Ward 8 Dist 1,,,Hallam,8,53.8,49,41,1,91,53.8,45.1,1.1
-Bethel Park Ward 8 Dist 2,,,Hallam,8,55.1,43,35,0,78,55.1,44.9,0.0
-Bethel Park Ward 8 Dist 3,,,Hallam,24,54.8,121,97,3,221,54.8,43.9,1.4
+Bethel Park Ward 8 Dist 2,,,Hallam,9,55.7,44,35,0,79,55.7,44.3,0.0
+Bethel Park Ward 8 Dist 3,,,Hallam,23,54.5,121,98,3,222,54.5,44.1,1.4
 Bethel Park Ward 8 Dist 4,,,Hallam,21,64.3,45,24,1,70,64.3,34.3,1.4
 Bethel Park Ward 9 Dist 1,,,Hallam,11,56.3,49,38,0,87,56.3,43.7,0.0
 Bethel Park Ward 9 Dist 2,,,Hallam,25,60.7,68,43,1,112,60.7,38.4,0.9
@@ -75,115 +75,115 @@ Braddock Ward 1,,,Hallam,14,60.6,40,26,0,66,60.6,39.4,0.0
 Braddock Ward 2,,,Doven,3,51.1,44,47,1,92,47.8,51.1,1.1
 Braddock Ward 3,,,Doven,7,56.6,23,30,0,53,43.4,56.6,0.0
 Braddock Hl Dist 1,,,Hallam,2,50.7,71,69,0,140,50.7,49.3,0.0
-Braddock Hl Dist 2,,,Hallam,12,53.6,82,70,1,153,53.6,45.8,0.7
-Bradford Woods,,,Hallam,35,60.4,99,64,1,164,60.4,39.0,0.6
-Brentwood Dist 1,,,Hallam,16,59.3,51,35,0,86,59.3,40.7,0.0
-Brentwood Dist 2,,,Hallam,28,62.1,72,44,0,116,62.1,37.9,0.0
+Braddock Hl Dist 2,,,Hallam,14,54.2,84,70,1,155,54.2,45.2,0.6
+Bradford Woods,,,Hallam,36,60.6,100,64,1,165,60.6,38.8,0.6
+Brentwood Dist 1,,,Hallam,16,59.1,52,36,0,88,59.1,40.9,0.0
+Brentwood Dist 2,,,Hallam,31,62.8,76,45,0,121,62.8,37.2,0.0
 Brentwood Dist 3,,,Hallam,21,61.5,56,35,0,91,61.5,38.5,0.0
 Brentwood Dist 4,,,Hallam,16,56.5,70,54,0,124,56.5,43.5,0.0
 Brentwood Dist 5,,,Hallam,26,64.4,58,32,0,90,64.4,35.6,0.0
-Brentwood Dist 6,,,Hallam,2,50.6,39,37,1,77,50.6,48.1,1.3
+Brentwood Dist 6,,,Hallam,2,50.6,40,38,1,79,50.6,48.1,1.3
 Brentwood Dist 7,,,Hallam,18,61.0,50,32,0,82,61.0,39.0,0.0
-Brentwood Dist 8,,,Hallam,6,51.4,71,65,2,138,51.4,47.1,1.4
+Brentwood Dist 8,,,Hallam,5,51.1,71,66,2,139,51.1,47.5,1.4
 Brentwood Dist 9,,,Hallam,42,69.4,75,33,0,108,69.4,30.6,0.0
 Brentwood Dist 10,,,Hallam,10,57.8,37,27,0,64,57.8,42.2,0.0
 Bridgeville Dist 1,,,Hallam,9,54.1,59,50,0,109,54.1,45.9,0.0
-Bridgeville Dist 2,,,Hallam,4,51.6,49,45,1,95,51.6,47.4,1.1
-Bridgeville Dist 3,,,Doven,18,57.7,46,64,1,111,41.4,57.7,0.9
-Bridgeville Dist 4,,,Hallam,2,50.7,75,73,0,148,50.7,49.3,0.0
+Bridgeville Dist 2,,,Hallam,3,51.0,49,46,1,96,51.0,47.9,1.0
+Bridgeville Dist 3,,,Doven,19,58.0,46,65,1,112,41.1,58.0,0.9
+Bridgeville Dist 4,,,Hallam,4,51.3,77,73,0,150,51.3,48.7,0.0
 Carnegie Ward 1 Dist 1,,,Hallam,12,58.6,41,29,0,70,58.6,41.4,0.0
-Carnegie Ward 1 Dist 2,,,Hallam,17,55.4,82,65,1,148,55.4,43.9,0.7
+Carnegie Ward 1 Dist 2,,,Hallam,18,55.7,83,65,1,149,55.7,43.6,0.7
 Carnegie Ward 1 Dist 3,,,Doven,2,50.7,67,69,0,136,49.3,50.7,0.0
 Carnegie Ward 1 Dist 4,,,Hallam,15,64.7,33,18,0,51,64.7,35.3,0.0
 Carnegie Ward 2 Dist 1,,,Hallam,16,59.1,52,36,0,88,59.1,40.9,0.0
-Carnegie Ward 2 Dist 2,,,Hallam,20,63.2,48,28,0,76,63.2,36.8,0.0
-Carnegie Ward 2 Dist 3,,,Hallam,4,52.0,52,48,0,100,52.0,48.0,0.0
+Carnegie Ward 2 Dist 2,,,Hallam,22,63.7,51,29,0,80,63.7,36.3,0.0
+Carnegie Ward 2 Dist 3,,,Hallam,5,52.5,53,48,0,101,52.5,47.5,0.0
 Carnegie Ward 2 Dist 4,,,Doven,2,50.9,54,56,0,110,49.1,50.9,0.0
-Casl Shannon Dist 1,,,Hallam,28,60.3,82,54,0,136,60.3,39.7,0.0
+Casl Shannon Dist 1,,,Hallam,28,60.1,83,55,0,138,60.1,39.9,0.0
 Casl Shannon Dist 2,,,Hallam,40,65.4,85,45,0,130,65.4,34.6,0.0
 Casl Shannon Dist 3,,,Hallam,12,54.8,69,57,0,126,54.8,45.2,0.0
-Casl Shannon Dist 4,,,Hallam,14,56.5,61,47,0,108,56.5,43.5,0.0
+Casl Shannon Dist 4,,,Hallam,15,56.8,63,48,0,111,56.8,43.2,0.0
 Casl Shannon Dist 5,,,Doven,2,50.4,65,67,1,133,48.9,50.4,0.8
-Casl Shannon Dist 6,,,Hallam,25,60.7,68,43,1,112,60.7,38.4,0.9
+Casl Shannon Dist 6,,,Hallam,26,61.1,69,43,1,113,61.1,38.1,0.9
 Casl Shannon Dist 7,,,Hallam,13,54.5,78,65,0,143,54.5,45.5,0.0
-Casl Shannon Dist 8,,,Hallam,6,53.1,52,46,0,98,53.1,46.9,0.0
+Casl Shannon Dist 8,,,Hallam,7,53.5,53,46,0,99,53.5,46.5,0.0
 Chalfant Dist 1,,,Hallam,2,51.0,52,50,0,102,51.0,49.0,0.0
-Cheswick Dist 1,,,Doven,17,56.2,60,77,0,137,43.8,56.2,0.0
+Cheswick Dist 1,,,Doven,18,56.4,61,79,0,140,43.6,56.4,0.0
 Cheswick Dist 2,,,Doven,6,52.1,68,74,0,142,47.9,52.1,0.0
 Churchill Dist 1,,,Hallam,62,65.2,129,67,2,198,65.2,33.8,1.0
-Churchill Dist 2,,,Hallam,34,58.2,117,83,1,201,58.2,41.3,0.5
-Churchill Dist 3,,,Doven,5,50.9,77,82,2,161,47.8,50.9,1.2
-Churchill Dist 4,,,Hallam,29,58.2,99,70,1,170,58.2,41.2,0.6
-Clairton Ward 1 Dist 1,,,Doven,5,54.7,24,29,0,53,45.3,54.7,0.0
+Churchill Dist 2,,,Hallam,35,58.3,119,84,1,204,58.3,41.2,0.5
+Churchill Dist 3,,,Doven,2,50.0,81,83,2,166,48.8,50.0,1.2
+Churchill Dist 4,,,Hallam,30,58.5,100,70,1,171,58.5,40.9,0.6
+Clairton Ward 1 Dist 1,,,Doven,6,55.6,24,30,0,54,44.4,55.6,0.0
 Clairton Ward 1 Dist 2,,,Hallam,2,51.0,25,23,1,49,51.0,46.9,2.0
-Clairton Ward 1 Dist 3,,,Doven,3,52.7,26,29,0,55,47.3,52.7,0.0
+Clairton Ward 1 Dist 3,,,Doven,2,51.8,27,29,0,56,48.2,51.8,0.0
 Clairton Ward 2 Dist 1,,,Doven,1,53.8,6,7,0,13,46.2,53.8,0.0
 Clairton Ward 2 Dist 2,,,Hallam,12,60.0,30,18,2,50,60.0,36.0,4.0
 Clairton Ward 2 Dist 3,,,Hallam,14,63.5,33,19,0,52,63.5,36.5,0.0
-Clairton Ward 3 Dist 1,,,Hallam,14,60.0,42,28,0,70,60.0,40.0,0.0
+Clairton Ward 3 Dist 1,,,Hallam,15,60.6,43,28,0,71,60.6,39.4,0.0
 Clairton Ward 3 Dist 2,,,Hallam,9,58.8,30,21,0,51,58.8,41.2,0.0
 Clairton Ward 3 Dist 3,,,Doven,8,61.8,13,21,0,34,38.2,61.8,0.0
 Clairton Ward 4 Dist 1,,,Doven,5,53.0,30,35,1,66,45.5,53.0,1.5
 Clairton Ward 4 Dist 2,,,Doven,5,54.1,28,33,0,61,45.9,54.1,0.0
-Clairton Ward 4 Dist 3,,,Doven,15,60.9,27,42,0,69,39.1,60.9,0.0
+Clairton Ward 4 Dist 3,,,Doven,16,61.4,27,43,0,70,38.6,61.4,0.0
 Collier Dist 1,,,Doven,10,52.3,105,115,0,220,47.7,52.3,0.0
 Collier Dist 2,,,Doven,4,50.9,108,112,0,220,49.1,50.9,0.0
 Collier Dist 3,,,Doven,9,51.6,120,129,1,250,48.0,51.6,0.4
-Collier Dist 4,,,Hallam,9,52.3,78,69,2,149,52.3,46.3,1.3
+Collier Dist 4,,,Hallam,9,52.0,78,69,3,150,52.0,46.0,2.0
 Collier Dist 5,,,Doven,22,63.6,27,49,1,77,35.1,63.6,1.3
 Collier Dist 6,,,Hallam,14,54.9,79,65,0,144,54.9,45.1,0.0
 Coraopolis Ward 1 Dist 1,,,Doven,2,51.4,35,37,0,72,48.6,51.4,0.0
-Coraopolis Ward 1 Dist 2,,,Hallam,5,52.7,48,43,0,91,52.7,47.3,0.0
+Coraopolis Ward 1 Dist 2,,,Hallam,7,53.8,50,43,0,93,53.8,46.2,0.0
 Coraopolis Ward 2,,,Doven,13,54.7,57,70,1,128,44.5,54.7,0.8
-Coraopolis Ward 3 Dist 1,,,Hallam,11,56.6,47,36,0,83,56.6,43.4,0.0
+Coraopolis Ward 3 Dist 1,,,Hallam,11,56.5,48,37,0,85,56.5,43.5,0.0
 Coraopolis Ward 3 Dist 2,,,Doven,8,55.4,33,41,0,74,44.6,55.4,0.0
 Coraopolis Ward 4 Dist 1,,,Doven,6,52.2,42,48,2,92,45.7,52.2,2.2
 Coraopolis Ward 4 Dist 2,,,Hallam,0,49.5,46,46,1,93,49.5,49.5,1.1
-Crafton Ward 1 Dist 1,,,Hallam,3,50.7,76,73,1,150,50.7,48.7,0.7
-Crafton Ward 1 Dist 2,,,Hallam,4,52.2,48,44,0,92,52.2,47.8,0.0
+Crafton Ward 1 Dist 1,,,Hallam,1,50.0,76,75,1,152,50.0,49.3,0.7
+Crafton Ward 1 Dist 2,,,Hallam,6,53.2,50,44,0,94,53.2,46.8,0.0
 Crafton Ward 2 Dist 1,,,Hallam,8,53.2,58,50,1,109,53.2,45.9,0.9
-Crafton Ward 2 Dist 2,,,Hallam,10,53.6,67,57,1,125,53.6,45.6,0.8
-Crafton Ward 3 Dist 1,,,Hallam,54,67.1,106,52,0,158,67.1,32.9,0.0
+Crafton Ward 2 Dist 2,,,Hallam,9,53.2,67,58,1,126,53.2,46.0,0.8
+Crafton Ward 3 Dist 1,,,Hallam,53,66.7,106,53,0,159,66.7,33.3,0.0
 Crafton Ward 3 Dist 2,,,Hallam,36,67.7,67,31,1,99,67.7,31.3,1.0
-Crescent Ward 1,,,Doven,12,54.3,63,75,0,138,45.7,54.3,0.0
+Crescent Ward 1,,,Doven,10,53.6,65,75,0,140,46.4,53.6,0.0
 Crescent Ward 2,,,Doven,14,58.3,35,49,0,84,41.7,58.3,0.0
 Dormont Dist 1,,,Hallam,17,57.3,63,46,1,110,57.3,41.8,0.9
-Dormont Dist 2,,,Hallam,41,69.2,74,33,0,107,69.2,30.8,0.0
-Dormont Dist 3,,,Hallam,59,68.6,109,50,0,159,68.6,31.4,0.0
-Dormont Dist 4,,,Hallam,51,74.8,77,26,0,103,74.8,25.2,0.0
-Dormont Dist 5,,,Hallam,72,66.8,143,71,0,214,66.8,33.2,0.0
-Dormont Dist 6,,,Hallam,31,64.0,71,40,0,111,64.0,36.0,0.0
-Dormont Dist 7,,,Hallam,25,60.3,73,48,0,121,60.3,39.7,0.0
-Dormont Dist 8,,,Hallam,14,57.1,56,42,0,98,57.1,42.9,0.0
+Dormont Dist 2,,,Hallam,42,69.4,75,33,0,108,69.4,30.6,0.0
+Dormont Dist 3,,,Hallam,59,68.3,110,51,0,161,68.3,31.7,0.0
+Dormont Dist 4,,,Hallam,52,75.0,78,26,0,104,75.0,25.0,0.0
+Dormont Dist 5,,,Hallam,70,66.2,143,73,0,216,66.2,33.8,0.0
+Dormont Dist 6,,,Hallam,32,64.3,72,40,0,112,64.3,35.7,0.0
+Dormont Dist 7,,,Hallam,25,60.2,74,49,0,123,60.2,39.8,0.0
+Dormont Dist 8,,,Hallam,15,57.6,57,42,0,99,57.6,42.4,0.0
 Dormont Dist 9,,,Hallam,16,56.9,62,46,1,109,56.9,42.2,0.9
-Dormont Dist 10,,,Hallam,50,67.9,93,43,1,137,67.9,31.4,0.7
+Dormont Dist 10,,,Hallam,49,67.4,93,44,1,138,67.4,31.9,0.7
 Dravosburg Dist 1,,,Doven,26,62.4,32,58,3,93,34.4,62.4,3.2
 Dravosburg Dist 2,,,Doven,14,63.5,19,33,0,52,36.5,63.5,0.0
 Dravosburg Dist 3,,,Hallam,11,58.7,37,26,0,63,58.7,41.3,0.0
 Duquesne Ward 1 Dist 1,,,Hallam,9,56.9,37,28,0,65,56.9,43.1,0.0
 Duquesne Ward 1 Dist 2,,,Hallam,2,50.8,33,31,1,65,50.8,47.7,1.5
 Duquesne Ward 1 Dist 3,,,Hallam,4,56.3,18,14,0,32,56.3,43.8,0.0
-Duquesne Ward 1 Dist 4,,,Hallam,1,54.5,6,5,0,11,54.5,45.5,0.0
+Duquesne Ward 1 Dist 4,,,Hallam,3,61.5,8,5,0,13,61.5,38.5,0.0
 Duquesne Ward 2 Dist 1,,,Hallam,21,69.1,38,17,0,55,69.1,30.9,0.0
 Duquesne Ward 2 Dist 2,,,Hallam,6,56.0,28,22,0,50,56.0,44.0,0.0
 Duquesne Ward 2 Dist 3,,,Doven,9,58.8,21,30,0,51,41.2,58.8,0.0
-Duquesne Ward 3 Dist 1,,,Hallam,7,65.2,15,8,0,23,65.2,34.8,0.0
+Duquesne Ward 3 Dist 1,,,Hallam,8,66.7,16,8,0,24,66.7,33.3,0.0
 Duquesne Ward 3 Dist 2,,,Hallam,1,53.3,8,7,0,15,53.3,46.7,0.0
-Duquesne Ward 3 Dist 3,,,Hallam,4,52.5,42,38,0,80,52.5,47.5,0.0
+Duquesne Ward 3 Dist 3,,,Hallam,1,50.6,42,41,0,83,50.6,49.4,0.0
 East Deer Ward 1,,,Doven,3,53.2,22,25,0,47,46.8,53.2,0.0
 East Deer Ward 2,,,Doven,6,52.3,39,45,2,86,45.3,52.3,2.3
 E McKeesport Dist 1,,,Hallam,10,56.4,44,34,0,78,56.4,43.6,0.0
-E McKeesport Dist 2,,,Doven,26,65.9,28,54,0,82,34.1,65.9,0.0
-E McKeesport Dist 3,,,Doven,1,50.0,33,34,1,68,48.5,50.0,1.5
+E McKeesport Dist 2,,,Doven,25,65.1,29,54,0,83,34.9,65.1,0.0
+E McKeesport Dist 3,,,Hallam,0,49.3,34,34,1,69,49.3,49.3,1.4
 E Pittsburgh Ward 1,,,Doven,4,53.7,18,22,1,41,43.9,53.7,2.4
-E Pittsburgh Ward 2,,,Doven,7,57.8,19,26,0,45,42.2,57.8,0.0
+E Pittsburgh Ward 2,,,Doven,8,58.7,19,27,0,46,41.3,58.7,0.0
 E Pittsburgh Ward 3,,,Doven,2,52.3,21,23,0,44,47.7,52.3,0.0
-Edgewood Dist 1,,,Hallam,115,69.9,200,85,1,286,69.9,29.7,0.3
-Edgewood Dist 2,,,Hallam,94,65.7,195,101,1,297,65.7,34.0,0.3
+Edgewood Dist 1,,,Hallam,116,69.9,202,86,1,289,69.9,29.8,0.3
+Edgewood Dist 2,,,Hallam,96,65.7,199,103,1,303,65.7,34.0,0.3
 Edgewood Dist 3,,,Hallam,108,70.8,184,76,0,260,70.8,29.2,0.0
 Edgeworth Dist 1,,,Hallam,23,62.9,56,33,0,89,62.9,37.1,0.0
-Edgeworth Dist 2,,,Hallam,15,55.5,71,56,1,128,55.5,43.8,0.8
-Elizabeth Br,,,Hallam,11,56.0,51,40,0,91,56.0,44.0,0.0
+Edgeworth Dist 2,,,Hallam,16,55.8,72,56,1,129,55.8,43.4,0.8
+Elizabeth Br,,,Hallam,10,55.2,53,43,0,96,55.2,44.8,0.0
 Elizabeth Tp Ward 1 Dist 1,,,Doven,11,56.5,37,48,0,85,43.5,56.5,0.0
 Elizabeth Tp Ward 1 Dist 2,,,Doven,9,53.7,57,66,0,123,46.3,53.7,0.0
 Elizabeth Tp Ward 2,,,Hallam,12,53.5,92,80,0,172,53.5,46.5,0.0
@@ -193,9 +193,9 @@ Elizabeth Tp Ward 4 Dist 2,,,Hallam,2,50.7,35,33,1,69,50.7,47.8,1.4
 Elizabeth Tp Ward 5 Dist 1,,,Doven,2,53.1,15,17,0,32,46.9,53.1,0.0
 Elizabeth Tp Ward 5 Dist 2,,,Hallam,5,51.5,52,47,2,101,51.5,46.5,2.0
 Elizabeth Tp Ward 6 Dist 1,,,Hallam,13,58.4,45,32,0,77,58.4,41.6,0.0
-Elizabeth Tp Ward 6 Dist 2,,,Hallam,11,56.9,41,30,1,72,56.9,41.7,1.4
+Elizabeth Tp Ward 6 Dist 2,,,Hallam,12,57.5,42,30,1,73,57.5,41.1,1.4
 Elizabeth Tp Ward 7,,,Doven,3,50.6,77,80,1,158,48.7,50.6,0.6
-Emsworth Dist 1,,,Hallam,16,56.2,73,57,0,130,56.2,43.8,0.0
+Emsworth Dist 1,,,Hallam,18,56.8,75,57,0,132,56.8,43.2,0.0
 Emsworth Dist 2,,,Hallam,13,55.1,70,57,0,127,55.1,44.9,0.0
 Etna Ward 1,,,Hallam,43,64.1,98,55,0,153,64.1,35.9,0.0
 Etna Ward 2,,,Hallam,9,54.1,59,50,0,109,54.1,45.9,0.0
@@ -203,56 +203,56 @@ Etna Ward 3,,,Hallam,21,58.7,71,50,0,121,58.7,41.3,0.0
 Fawn Dist 1,,,Hallam,12,62.5,30,18,0,48,62.5,37.5,0.0
 Fawn Dist 2,,,Hallam,0,50.0,62,62,0,124,50.0,50.0,0.0
 Findlay Dist 1,,,Hallam,28,60.3,82,54,0,136,60.3,39.7,0.0
-Findlay Dist 2,,,Hallam,39,58.2,139,100,0,239,58.2,41.8,0.0
-Findlay Dist 3,,,Hallam,21,56.1,97,76,0,173,56.1,43.9,0.0
+Findlay Dist 2,,,Hallam,40,58.3,140,100,0,240,58.3,41.7,0.0
+Findlay Dist 3,,,Hallam,20,55.7,97,77,0,174,55.7,44.3,0.0
 Forest Hills Dist 1,,,Hallam,75,65.8,152,77,2,231,65.8,33.3,0.9
-Forest Hills Dist 2,,,Hallam,50,64.4,112,62,0,174,64.4,35.6,0.0
-Forest Hills Dist 3,,,Hallam,27,58.6,92,65,0,157,58.6,41.4,0.0
+Forest Hills Dist 2,,,Hallam,49,64.0,112,63,0,175,64.0,36.0,0.0
+Forest Hills Dist 3,,,Hallam,26,58.2,92,66,0,158,58.2,41.8,0.0
 Forest Hills Dist 4,,,Hallam,20,56.3,90,70,0,160,56.3,43.8,0.0
 Forest Hills Dist 5,,,Hallam,29,57.4,112,83,0,195,57.4,42.6,0.0
 Forest Hills Dist 6,,,Hallam,57,65.4,119,62,1,182,65.4,34.1,0.5
 Forest Hills Dist 7,,,Hallam,40,66.7,80,40,0,120,66.7,33.3,0.0
-Forest Hills Dist 8,,,Hallam,35,59.0,111,76,1,188,59.0,40.4,0.5
+Forest Hills Dist 8,,,Hallam,36,59.3,112,76,1,189,59.3,40.2,0.5
 Forward Dist 1,,,Hallam,0,48.6,17,17,1,35,48.6,48.6,2.9
-Forward Dist 2,,,Doven,13,55.3,50,63,1,114,43.9,55.3,0.9
+Forward Dist 2,,,Doven,14,55.6,51,65,1,117,43.6,55.6,0.9
 Forward Dist 3,,,Hallam,18,65.5,36,18,1,55,65.5,32.7,1.8
 Forward Dist 4,,,Doven,13,58.7,31,44,0,75,41.3,58.7,0.0
-Fox Chapel Dist 1,,,Hallam,38,62.3,94,56,1,151,62.3,37.1,0.7
-Fox Chapel Dist 2,,,Hallam,1,49.7,91,90,2,183,49.7,49.2,1.1
+Fox Chapel Dist 1,,,Hallam,37,61.8,94,57,1,152,61.8,37.5,0.7
+Fox Chapel Dist 2,,,Hallam,2,50.0,92,90,2,184,50.0,48.9,1.1
 Fox Chapel Dist 3,,,Hallam,12,54.7,70,58,0,128,54.7,45.3,0.0
-Fox Chapel Dist 4,,,Hallam,44,59.7,132,88,1,221,59.7,39.8,0.5
-Fox Chapel Dist 5,,,Hallam,16,55.7,68,52,2,122,55.7,42.6,1.6
-Franklin Pk Ward 1 Dist 1,,,Hallam,55,68.8,99,44,1,144,68.8,30.6,0.7
+Fox Chapel Dist 4,,,Hallam,43,59.5,132,89,1,222,59.5,40.1,0.5
+Fox Chapel Dist 5,,,Hallam,17,56.1,69,52,2,123,56.1,42.3,1.6
+Franklin Pk Ward 1 Dist 1,,,Hallam,54,68.3,99,45,1,145,68.3,31.0,0.7
 Franklin Pk Ward 1 Dist 2,,,Hallam,30,60.1,89,59,0,148,60.1,39.9,0.0
-Franklin Pk Ward 1 Dist 3,,,Hallam,104,76.0,152,48,0,200,76.0,24.0,0.0
+Franklin Pk Ward 1 Dist 3,,,Hallam,106,76.2,154,48,0,202,76.2,23.8,0.0
 Franklin Pk Ward 2 Dist 1,,,Hallam,47,66.2,96,49,0,145,66.2,33.8,0.0
 Franklin Pk Ward 2 Dist 2,,,Hallam,35,58.8,117,82,0,199,58.8,41.2,0.0
 Franklin Pk Ward 2 Dist 3,,,Hallam,63,63.9,140,77,2,219,63.9,35.2,0.9
-Franklin Pk Ward 3 Dist 1,,,Hallam,8,51.9,80,72,2,154,51.9,46.8,1.3
-Franklin Pk Ward 3 Dist 2,,,Hallam,35,64.0,80,45,0,125,64.0,36.0,0.0
-Franklin Pk Ward 3 Dist 3,,,Hallam,51,61.9,133,82,0,215,61.9,38.1,0.0
+Franklin Pk Ward 3 Dist 1,,,Hallam,8,51.9,82,74,2,158,51.9,46.8,1.3
+Franklin Pk Ward 3 Dist 2,,,Hallam,35,63.8,81,46,0,127,63.8,36.2,0.0
+Franklin Pk Ward 3 Dist 3,,,Hallam,50,61.5,134,84,0,218,61.5,38.5,0.0
 Frazer,,,Doven,2,51.1,45,47,0,92,48.9,51.1,0.0
-Glassport Dist 1,,,Doven,15,58.4,37,52,0,89,41.6,58.4,0.0
+Glassport Dist 1,,,Doven,17,59.3,37,54,0,91,40.7,59.3,0.0
 Glassport Dist 2,,,Doven,7,59.5,15,22,0,37,40.5,59.5,0.0
 Glassport Dist 3,,,Doven,3,52.1,34,37,0,71,47.9,52.1,0.0
 Glassport Dist 4,,,Doven,12,80.0,4,16,0,20,20.0,80.0,0.0
 Glassport Dist 5,,,Doven,1,50.6,42,43,0,85,49.4,50.6,0.0
-Glassport Dist 6,,,Hallam,1,50.9,28,27,0,55,50.9,49.1,0.0
+Glassport Dist 6,,,Hallam,0,50.0,28,28,0,56,50.0,50.0,0.0
 Glenfield,,,Doven,4,58.3,10,14,0,24,41.7,58.3,0.0
-Green Tree Dist 1,,,Hallam,15,54.3,94,79,0,173,54.3,45.7,0.0
+Green Tree Dist 1,,,Hallam,14,54.0,94,80,0,174,54.0,46.0,0.0
 Green Tree Dist 2,,,Hallam,27,56.5,113,86,1,200,56.5,43.0,0.5
-Green Tree Dist 3,,,Hallam,34,58.8,107,73,2,182,58.8,40.1,1.1
+Green Tree Dist 3,,,Hallam,35,59.0,108,73,2,183,59.0,39.9,1.1
 Green Tree Dist 4,,,Hallam,38,62.3,96,58,0,154,62.3,37.7,0.0
-Hampton Dist 1,,,Hallam,40,61.1,107,67,1,175,61.1,38.3,0.6
-Hampton Dist 2,,,Hallam,4,50.0,84,80,4,168,50.0,47.6,2.4
-Hampton Dist 3,,,Hallam,28,57.5,100,72,2,174,57.5,41.4,1.1
+Hampton Dist 1,,,Hallam,39,60.8,107,68,1,176,60.8,38.6,0.6
+Hampton Dist 2,,,Hallam,3,49.7,85,82,4,171,49.7,48.0,2.3
+Hampton Dist 3,,,Hallam,29,57.7,101,72,2,175,57.7,41.1,1.1
 Hampton Dist 4,,,Hallam,10,55.4,46,36,1,83,55.4,43.4,1.2
-Hampton Dist 5,,,Doven,7,52.8,50,57,1,108,46.3,52.8,0.9
+Hampton Dist 5,,,Doven,6,52.3,51,57,1,109,46.8,52.3,0.9
 Hampton Dist 6,,,Hallam,7,53.8,43,36,1,80,53.8,45.0,1.3
 Hampton Dist 7,,,Hallam,54,62.8,123,69,4,196,62.8,35.2,2.0
-Hampton Dist 8,,,Hallam,53,66.7,104,51,1,156,66.7,32.7,0.6
+Hampton Dist 8,,,Hallam,52,66.2,104,52,1,157,66.2,33.1,0.6
 Hampton Dist 9,,,Hallam,39,58.9,126,87,1,214,58.9,40.7,0.5
-Hampton Dist 10,,,Doven,1,50.2,101,102,0,203,49.8,50.2,0.0
+Hampton Dist 10,,,Hallam,1,50.2,103,102,0,205,50.2,49.8,0.0
 Hampton Dist 11,,,Hallam,35,56.6,146,111,1,258,56.6,43.0,0.4
 Hampton Dist 12,,,Hallam,22,58.2,78,56,0,134,58.2,41.8,0.0
 Hampton Dist 13,,,Hallam,16,55.7,78,62,0,140,55.7,44.3,0.0
@@ -260,11 +260,11 @@ Harmar Dist 1,,,Doven,18,53.8,101,119,1,221,45.7,53.8,0.5
 Harmar Dist 2,,,Hallam,14,58.5,48,34,0,82,58.5,41.5,0.0
 Harmar Dist 3,,,Hallam,5,54.4,31,26,0,57,54.4,45.6,0.0
 Harrison Ward 1 Dist 1,,,Hallam,8,56.7,34,26,0,60,56.7,43.3,0.0
-Harrison Ward 1 Dist 2,,,Hallam,10,54.5,60,50,0,110,54.5,45.5,0.0
-Harrison Ward 1 Dist 3,,,Hallam,8,54.1,53,45,0,98,54.1,45.9,0.0
+Harrison Ward 1 Dist 2,,,Hallam,10,54.5,61,51,0,112,54.5,45.5,0.0
+Harrison Ward 1 Dist 3,,,Hallam,9,54.5,54,45,0,99,54.5,45.5,0.0
 Harrison Ward 2 Dist 1,,,Doven,1,50.7,33,34,0,67,49.3,50.7,0.0
 Harrison Ward 2 Dist 2,,,Doven,11,56.8,35,46,0,81,43.2,56.8,0.0
-Harrison Ward 3 Dist 1,,,Doven,9,50.9,109,118,5,232,47.0,50.9,2.2
+Harrison Ward 3 Dist 1,,,Doven,8,50.6,110,118,5,233,47.2,50.6,2.1
 Harrison Ward 3 Dist 2,,,Doven,1,50.4,65,66,0,131,49.6,50.4,0.0
 Harrison Ward 4 Dist 1,,,Doven,1,49.5,50,51,2,103,48.5,49.5,1.9
 Harrison Ward 4 Dist 2,,,Doven,2,51.1,43,45,0,88,48.9,51.1,0.0
@@ -280,203 +280,203 @@ Homestead Ward 3 Dist 1,,,Doven,2,50.8,28,30,1,59,47.5,50.8,1.7
 Homestead Ward 3 Dist 2,,,Hallam,1,51.9,14,13,0,27,51.9,48.1,0.0
 Indiana Dist 1,,,Doven,22,59.6,46,68,0,114,40.4,59.6,0.0
 Indiana Dist 2,,,Hallam,34,64.9,74,40,0,114,64.9,35.1,0.0
-Indiana Dist 3,,,Hallam,35,59.4,111,76,0,187,59.4,40.6,0.0
+Indiana Dist 3,,,Hallam,34,59.0,111,77,0,188,59.0,41.0,0.0
 Indiana Dist 4,,,Hallam,52,61.5,139,87,0,226,61.5,38.5,0.0
-Indiana Dist 5,,,Hallam,32,60.3,91,59,1,151,60.3,39.1,0.7
+Indiana Dist 5,,,Hallam,33,60.5,92,59,1,152,60.5,38.8,0.7
 Ingram Dist 1,,,Hallam,18,56.2,82,64,0,146,56.2,43.8,0.0
-Ingram Dist 2,,,Hallam,14,56.9,58,44,0,102,56.9,43.1,0.0
+Ingram Dist 2,,,Hallam,13,56.3,58,45,0,103,56.3,43.7,0.0
 Ingram Dist 3,,,Hallam,40,61.6,101,61,2,164,61.6,37.2,1.2
 Jefferson Hl Dist 1,,,Doven,7,52.0,70,77,1,148,47.3,52.0,0.7
 Jefferson Hl Dist 2,,,Doven,5,52.5,48,53,0,101,47.5,52.5,0.0
 Jefferson Hl Dist 3,,,Hallam,40,65.2,86,46,0,132,65.2,34.8,0.0
-Jefferson Hl Dist 4,,,Hallam,13,55.4,62,49,1,112,55.4,43.8,0.9
-Jefferson Hl Dist 5,,,Doven,10,54.2,55,65,0,120,45.8,54.2,0.0
+Jefferson Hl Dist 4,,,Hallam,15,56.1,64,49,1,114,56.1,43.0,0.9
+Jefferson Hl Dist 5,,,Doven,11,54.5,55,66,0,121,45.5,54.5,0.0
 Jefferson Hl Dist 6,,,Hallam,18,59.5,50,32,2,84,59.5,38.1,2.4
 Jefferson Hl Dist 7,,,Doven,15,57.8,33,48,2,83,39.8,57.8,2.4
 Jefferson Hl Dist 8,,,Hallam,10,52.9,73,63,2,138,52.9,45.7,1.4
-Jefferson Hl Dist 9,,,Hallam,23,56.0,102,79,1,182,56.0,43.4,0.5
-Kennedy Dist 1,,,Doven,77,60.2,144,221,2,367,39.2,60.2,0.5
+Jefferson Hl Dist 9,,,Hallam,21,55.4,102,81,1,184,55.4,44.0,0.5
+Kennedy Dist 1,,,Doven,78,60.3,144,222,2,368,39.1,60.3,0.5
 Kennedy Dist 2,,,Doven,42,61.8,65,107,1,173,37.6,61.8,0.6
-Kennedy Dist 3,,,Doven,54,60.7,94,148,2,244,38.5,60.7,0.8
+Kennedy Dist 3,,,Doven,55,60.8,94,149,2,245,38.4,60.8,0.8
 Kennedy Dist 4,,,Doven,49,69.0,40,89,0,129,31.0,69.0,0.0
-Kennedy Dist 5,,,Doven,52,59.1,114,166,1,281,40.6,59.1,0.4
-Kennedy Dist 6,,,Doven,35,60.1,69,104,0,173,39.9,60.1,0.0
+Kennedy Dist 5,,,Doven,54,59.4,114,168,1,283,40.3,59.4,0.4
+Kennedy Dist 6,,,Doven,34,59.8,70,104,0,174,40.2,59.8,0.0
 Kennedy Dist 7,,,Doven,22,57.6,58,80,1,139,41.7,57.6,0.7
-Kilbuck,,,Hallam,32,64.5,69,37,1,107,64.5,34.6,0.9
+Kilbuck,,,Hallam,33,64.8,70,37,1,108,64.8,34.3,0.9
 Leet Dist 1,,,Hallam,7,53.1,43,36,2,81,53.1,44.4,2.5
 Leet Dist 2,,,Hallam,32,62.1,82,50,0,132,62.1,37.9,0.0
 Leetsdale,,,Hallam,35,63.9,76,41,2,119,63.9,34.5,1.7
 Liberty Dist 1,,,Doven,6,52.7,52,58,0,110,47.3,52.7,0.0
 Liberty Dist 2,,,Doven,14,56.8,40,54,1,95,42.1,56.8,1.1
 Lincoln,,,Doven,24,62.6,33,57,1,91,36.3,62.6,1.1
-Marshall Dist 1,,,Doven,3,51.8,40,43,0,83,48.2,51.8,0.0
+Marshall Dist 1,,,Doven,2,51.2,41,43,0,84,48.8,51.2,0.0
 Marshall Dist 2,,,Hallam,12,55.0,66,54,0,120,55.0,45.0,0.0
 Marshall Dist 3,,,Hallam,17,57.8,63,46,0,109,57.8,42.2,0.0
-Marshall Dist 4,,,Hallam,39,60.6,103,64,3,170,60.6,37.6,1.8
+Marshall Dist 4,,,Hallam,40,60.8,104,64,3,171,60.8,37.4,1.8
 Marshall Dist 5,,,Hallam,18,62.5,45,27,0,72,62.5,37.5,0.0
 Marshall Dist 6,,,Hallam,2,51.0,53,51,0,104,51.0,49.0,0.0
 Marshall Dist 7,,,Hallam,18,56.4,79,61,0,140,56.4,43.6,0.0
 McCandless Ward 1 Dist 1,,,Hallam,49,63.9,108,59,2,169,63.9,34.9,1.2
 McCandless Ward 1 Dist 2,,,Hallam,14,55.5,71,57,0,128,55.5,44.5,0.0
 McCandless Ward 1 Dist 3,,,Hallam,20,57.0,77,57,1,135,57.0,42.2,0.7
-McCandless Ward 2 Dist 1,,,Hallam,33,57.1,124,91,2,217,57.1,41.9,0.9
+McCandless Ward 2 Dist 1,,,Hallam,33,57.1,125,92,2,219,57.1,42.0,0.9
 McCandless Ward 2 Dist 2,,,Hallam,30,59.9,85,55,2,142,59.9,38.7,1.4
 McCandless Ward 2 Dist 3,,,Hallam,7,53.0,62,55,0,117,53.0,47.0,0.0
-McCandless Ward 3 Dist 1,,,Hallam,14,53.4,102,88,1,191,53.4,46.1,0.5
+McCandless Ward 3 Dist 1,,,Hallam,15,53.6,103,88,1,192,53.6,45.8,0.5
 McCandless Ward 3 Dist 2,,,Hallam,33,59.7,95,62,2,159,59.7,39.0,1.3
 McCandless Ward 3 Dist 3,,,Hallam,26,57.3,94,68,2,164,57.3,41.5,1.2
-McCandless Ward 4 Dist 1,,,Hallam,45,59.2,141,96,1,238,59.2,40.3,0.4
+McCandless Ward 4 Dist 1,,,Hallam,46,59.4,142,96,1,239,59.4,40.2,0.4
 McCandless Ward 4 Dist 2,,,Hallam,23,56.8,84,61,3,148,56.8,41.2,2.0
-McCandless Ward 4 Dist 3,,,Hallam,36,63.4,85,49,0,134,63.4,36.6,0.0
-McCandless Ward 5 Dist 1,,,Hallam,11,54.9,62,51,0,113,54.9,45.1,0.0
-McCandless Ward 5 Dist 2,,,Hallam,26,55.1,129,103,2,234,55.1,44.0,0.9
-McCandless Ward 5 Dist 3,,,Hallam,69,67.3,132,63,1,196,67.3,32.1,0.5
+McCandless Ward 4 Dist 3,,,Hallam,38,64.0,87,49,0,136,64.0,36.0,0.0
+McCandless Ward 5 Dist 1,,,Hallam,12,55.3,63,51,0,114,55.3,44.7,0.0
+McCandless Ward 5 Dist 2,,,Hallam,27,55.3,130,103,2,235,55.3,43.8,0.9
+McCandless Ward 5 Dist 3,,,Hallam,72,67.8,135,63,1,199,67.8,31.7,0.5
 McCandless Ward 6 Dist 1,,,Doven,2,51.0,47,49,0,96,49.0,51.0,0.0
 McCandless Ward 6 Dist 2,,,Hallam,69,69.8,120,51,1,172,69.8,29.7,0.6
-McCandless Ward 6 Dist 3,,,Hallam,89,63.1,200,111,6,317,63.1,35.0,1.9
-McCandless Ward 7 Dist 1,,,Hallam,37,58.0,131,94,1,226,58.0,41.6,0.4
-McCandless Ward 7 Dist 2,,,Hallam,20,55.5,101,81,0,182,55.5,44.5,0.0
+McCandless Ward 6 Dist 3,,,Hallam,91,63.3,202,111,6,319,63.3,34.8,1.9
+McCandless Ward 7 Dist 1,,,Hallam,37,57.9,132,95,1,228,57.9,41.7,0.4
+McCandless Ward 7 Dist 2,,,Hallam,18,54.9,101,83,0,184,54.9,45.1,0.0
 McCandless Ward 7 Dist 3,,,Hallam,8,54.7,47,39,0,86,54.7,45.3,0.0
 McDonald,,,Doven,1,52.2,11,12,0,23,47.8,52.2,0.0
 McKeesport Ward 2,,,Hallam,1,53.3,8,7,0,15,53.3,46.7,0.0
 McKeesport Ward 3 Dist 1,,,Doven,14,69.4,11,25,0,36,30.6,69.4,0.0
 McKeesport Ward 3 Dist 2,,,Hallam,5,60.0,15,10,0,25,60.0,40.0,0.0
-McKeesport Ward 4,,,Hallam,3,55.2,16,13,0,29,55.2,44.8,0.0
-McKeesport Ward 5,,,Doven,9,57.1,23,32,1,56,41.1,57.1,1.8
+McKeesport Ward 4,,,Hallam,2,53.3,16,14,0,30,53.3,46.7,0.0
+McKeesport Ward 5,,,Doven,8,56.1,24,32,1,57,42.1,56.1,1.8
 McKeesport Ward 6 Dist 1,,,Hallam,4,55.2,16,12,1,29,55.2,41.4,3.4
 McKeesport Ward 6 Dist 2,,,Hallam,10,61.9,26,16,0,42,61.9,38.1,0.0
-McKeesport Ward 7 Dist 1,,,Hallam,10,54.8,57,47,0,104,54.8,45.2,0.0
-McKeesport Ward 7 Dist 2,,,Doven,7,56.4,24,31,0,55,43.6,56.4,0.0
+McKeesport Ward 7 Dist 1,,,Hallam,12,55.7,59,47,0,106,55.7,44.3,0.0
+McKeesport Ward 7 Dist 2,,,Doven,8,57.1,24,32,0,56,42.9,57.1,0.0
 McKeesport Ward 7 Dist 3,,,Hallam,14,67.5,27,13,0,40,67.5,32.5,0.0
 McKeesport Ward 7 Dist 4,,,Doven,6,56.3,21,27,0,48,43.8,56.3,0.0
 McKeesport Ward 7 Dist 5,,,Doven,11,58.1,25,36,1,62,40.3,58.1,1.6
-McKeesport Ward 7 Dist 6,,,Hallam,3,52.6,30,27,0,57,52.6,47.4,0.0
-McKeesport Ward 7 Dist 7,,,Doven,13,60.0,26,39,0,65,40.0,60.0,0.0
+McKeesport Ward 7 Dist 6,,,Hallam,2,51.7,30,28,0,58,51.7,48.3,0.0
+McKeesport Ward 7 Dist 7,,,Doven,12,59.1,27,39,0,66,40.9,59.1,0.0
 McKeesport Ward 8 Dist 1,,,Hallam,0,50.0,25,25,0,50,50.0,50.0,0.0
 McKeesport Ward 8 Dist 2,,,Doven,10,54.8,41,51,1,93,44.1,54.8,1.1
-McKeesport Ward 8 Dist 3,,,Doven,10,55.6,35,45,1,81,43.2,55.6,1.2
+McKeesport Ward 8 Dist 3,,,Doven,9,54.9,36,45,1,82,43.9,54.9,1.2
 McKeesport Ward 8 Dist 4,,,Doven,30,67.9,27,57,0,84,32.1,67.9,0.0
-McKeesport Ward 8 Dist 5,,,Doven,6,56.3,21,27,0,48,43.8,56.3,0.0
-McKeesport Ward 8 Dist 6,,,Hallam,0,50.0,14,14,0,28,50.0,50.0,0.0
+McKeesport Ward 8 Dist 5,,,Doven,5,55.1,22,27,0,49,44.9,55.1,0.0
+McKeesport Ward 8 Dist 6,,,Doven,1,51.7,14,15,0,29,48.3,51.7,0.0
 McKeesport Ward 9 Dist 1,,,Doven,4,52.1,34,38,1,73,46.6,52.1,1.4
 McKeesport Ward 9 Dist 2,,,Doven,5,52.1,44,49,1,94,46.8,52.1,1.1
 McKeesport Ward 9 Dist 3,,,Doven,9,57.6,25,34,0,59,42.4,57.6,0.0
 McKeesport Ward 10 Dist 1,,,Hallam,2,52.5,21,19,0,40,52.5,47.5,0.0
 McKeesport Ward 10 Dist 2,,,Doven,10,58.9,23,33,0,56,41.1,58.9,0.0
 McKeesport Ward 11 Dist 1,,,Doven,17,59.8,35,52,0,87,40.2,59.8,0.0
-McKeesport Ward 11 Dist 2,,,Hallam,2,51.5,35,33,0,68,51.5,48.5,0.0
-McKeesport Ward 11 Dist 3,,,Doven,9,57.1,27,36,0,63,42.9,57.1,0.0
-McKeesport Ward 12 Dist 1,,,Doven,12,62.0,19,31,0,50,38.0,62.0,0.0
+McKeesport Ward 11 Dist 2,,,Hallam,3,52.2,36,33,0,69,52.2,47.8,0.0
+McKeesport Ward 11 Dist 3,,,Doven,10,57.8,27,37,0,64,42.2,57.8,0.0
+McKeesport Ward 12 Dist 1,,,Doven,11,60.8,20,31,0,51,39.2,60.8,0.0
 McKeesport Ward 12 Dist 2,,,Doven,12,58.3,30,42,0,72,41.7,58.3,0.0
 McKeesport Ward 12 Dist 3,,,Doven,35,59.7,73,108,0,181,40.3,59.7,0.0
-McKees Rocks Ward 1 Dist 1,,,Doven,2,60.0,4,6,0,10,40.0,60.0,0.0
-McKees Rocks Ward 1 Dist 2,,,Doven,3,52.5,29,32,0,61,47.5,52.5,0.0
-McKees Rocks Ward 2 Dist 1,,,Hallam,0,49.3,33,33,1,67,49.3,49.3,1.5
+McKees Rocks Ward 1 Dist 1,,,Doven,3,63.6,4,7,0,11,36.4,63.6,0.0
+McKees Rocks Ward 1 Dist 2,,,Doven,4,53.2,29,33,0,62,46.8,53.2,0.0
+McKees Rocks Ward 2 Dist 1,,,Doven,1,50.0,33,34,1,68,48.5,50.0,1.5
 McKees Rocks Ward 2 Dist 2,,,Doven,6,55.8,18,24,1,43,41.9,55.8,2.3
-McKees Rocks Ward 3 Dist 1,,,Hallam,0,50.0,53,53,0,106,50.0,50.0,0.0
+McKees Rocks Ward 3 Dist 1,,,Hallam,1,50.5,54,53,0,107,50.5,49.5,0.0
 McKees Rocks Ward 3 Dist 2,,,Hallam,3,52.2,24,21,1,46,52.2,45.7,2.2
 McKees Rocks Ward 3 Dist 3,,,Hallam,14,59.7,40,26,1,67,59.7,38.8,1.5
-Millvale Dist 1,,,Hallam,25,66.7,50,25,0,75,66.7,33.3,0.0
+Millvale Dist 1,,,Hallam,24,65.8,50,26,0,76,65.8,34.2,0.0
 Millvale Dist 2,,,Doven,11,60.4,21,32,0,53,39.6,60.4,0.0
-Millvale Dist 3,,,Hallam,9,55.6,45,36,0,81,55.6,44.4,0.0
-Millvale Dist 4,,,Hallam,26,67.6,48,22,1,71,67.6,31.0,1.4
+Millvale Dist 3,,,Hallam,8,54.9,45,37,0,82,54.9,45.1,0.0
+Millvale Dist 4,,,Hallam,27,68.1,49,22,1,72,68.1,30.6,1.4
 Millvale Dist 5,,,Hallam,6,52.8,56,50,0,106,52.8,47.2,0.0
 Monroeville Ward 1 Dist 1,,,Doven,2,51.0,47,49,0,96,49.0,51.0,0.0
-Monroeville Ward 1 Dist 2,,,Hallam,33,64.0,73,40,1,114,64.0,35.1,0.9
+Monroeville Ward 1 Dist 2,,,Hallam,32,63.5,73,41,1,115,63.5,35.7,0.9
 Monroeville Ward 1 Dist 3,,,Hallam,1,50.3,72,71,0,143,50.3,49.7,0.0
-Monroeville Ward 1 Dist 4,,,Doven,9,55.2,39,48,0,87,44.8,55.2,0.0
+Monroeville Ward 1 Dist 4,,,Doven,8,54.5,40,48,0,88,45.5,54.5,0.0
 Monroeville Ward 2 Dist 1,,,Hallam,32,58.3,105,73,2,180,58.3,40.6,1.1
-Monroeville Ward 2 Dist 2,,,Hallam,39,60.6,109,70,1,180,60.6,38.9,0.6
-Monroeville Ward 2 Dist 3,,,Hallam,43,61.1,116,73,1,190,61.1,38.4,0.5
+Monroeville Ward 2 Dist 2,,,Hallam,39,60.4,110,71,1,182,60.4,39.0,0.5
+Monroeville Ward 2 Dist 3,,,Hallam,43,60.9,117,74,1,192,60.9,38.5,0.5
 Monroeville Ward 3 Dist 1,,,Hallam,37,60.0,108,71,1,180,60.0,39.4,0.6
 Monroeville Ward 3 Dist 2,,,Doven,6,53.3,43,49,0,92,46.7,53.3,0.0
 Monroeville Ward 3 Dist 3,,,Hallam,6,50.8,93,87,3,183,50.8,47.5,1.6
 Monroeville Ward 3 Dist 4,,,Doven,2,51.4,35,37,0,72,48.6,51.4,0.0
-Monroeville Ward 4 Dist 1,,,Doven,4,51.4,51,55,1,107,47.7,51.4,0.9
+Monroeville Ward 4 Dist 1,,,Doven,4,51.4,52,56,1,109,47.7,51.4,0.9
 Monroeville Ward 4 Dist 2,,,Hallam,18,55.8,86,68,0,154,55.8,44.2,0.0
 Monroeville Ward 4 Dist 3,,,Doven,6,51.7,83,89,0,172,48.3,51.7,0.0
 Monroeville Ward 5 Dist 1,,,Doven,16,58.5,39,55,0,94,41.5,58.5,0.0
 Monroeville Ward 5 Dist 2,,,Hallam,5,51.9,55,50,1,106,51.9,47.2,0.9
 Monroeville Ward 5 Dist 3,,,Hallam,0,49.6,67,67,1,135,49.6,49.6,0.7
 Monroeville Ward 5 Dist 4,,,Hallam,24,66.2,49,25,0,74,66.2,33.8,0.0
-Monroeville Ward 6 Dist 1,,,Hallam,27,57.6,98,71,1,170,57.6,41.8,0.6
+Monroeville Ward 6 Dist 1,,,Hallam,26,57.3,98,72,1,171,57.3,42.1,0.6
 Monroeville Ward 6 Dist 2,,,Hallam,2,50.3,75,73,1,149,50.3,49.0,0.7
 Monroeville Ward 6 Dist 3,,,Doven,6,52.9,48,54,0,102,47.1,52.9,0.0
-Monroeville Ward 6 Dist 4,,,Doven,12,59.4,26,38,0,64,40.6,59.4,0.0
+Monroeville Ward 6 Dist 4,,,Doven,11,58.5,27,38,0,65,41.5,58.5,0.0
 Monroeville Ward 7 Dist 1,,,Hallam,18,53.3,130,112,2,244,53.3,45.9,0.8
 Monroeville Ward 7 Dist 2,,,Hallam,14,55.5,71,57,0,128,55.5,44.5,0.0
-Monroeville Ward 7 Dist 3,,,Hallam,11,54.7,64,53,0,117,54.7,45.3,0.0
+Monroeville Ward 7 Dist 3,,,Hallam,12,55.1,65,53,0,118,55.1,44.9,0.0
 Moon Dist 1,,,Hallam,28,62.1,72,44,0,116,62.1,37.9,0.0
 Moon Dist 2,,,Hallam,45,58.2,160,115,0,275,58.2,41.8,0.0
-Moon Dist 3,,,Hallam,27,57.3,102,75,1,178,57.3,42.1,0.6
+Moon Dist 3,,,Hallam,28,57.5,103,75,1,179,57.5,41.9,0.6
 Moon Dist 4,,,Hallam,14,56.9,58,44,0,102,56.9,43.1,0.0
 Moon Dist 5,,,Hallam,33,56.0,149,116,1,266,56.0,43.6,0.4
-Moon Dist 6,,,Hallam,53,59.0,170,117,1,288,59.0,40.6,0.3
-Moon Dist 7,,,Hallam,24,56.0,108,84,1,193,56.0,43.5,0.5
+Moon Dist 6,,,Hallam,52,58.8,170,118,1,289,58.8,40.8,0.3
+Moon Dist 7,,,Hallam,25,56.1,110,85,1,196,56.1,43.4,0.5
 Moon Dist 8,,,Hallam,5,51.4,89,84,0,173,51.4,48.6,0.0
-Moon Dist 9,,,Doven,23,55.3,82,105,3,190,43.2,55.3,1.6
-Moon Dist 10,,,Hallam,19,58.7,61,42,1,104,58.7,40.4,1.0
-Moon Dist 11,,,Hallam,26,56.4,110,84,1,195,56.4,43.1,0.5
+Moon Dist 9,,,Doven,24,55.5,82,106,3,191,42.9,55.5,1.6
+Moon Dist 10,,,Hallam,22,59.8,64,42,1,107,59.8,39.3,0.9
+Moon Dist 11,,,Hallam,25,56.1,110,85,1,196,56.1,43.4,0.5
 Moon Dist 12,,,Hallam,0,49.7,87,87,1,175,49.7,49.7,0.6
-Moon Dist 13,,,Hallam,33,69.4,59,26,0,85,69.4,30.6,0.0
-Mt Lebanon Ward 1 Dist 1,,,Hallam,32,59.3,99,67,1,167,59.3,40.1,0.6
-Mt Lebanon Ward 1 Dist 2,,,Hallam,48,67.7,90,42,1,133,67.7,31.6,0.8
+Moon Dist 13,,,Hallam,36,70.5,62,26,0,88,70.5,29.5,0.0
+Mt Lebanon Ward 1 Dist 1,,,Hallam,31,58.9,99,68,1,168,58.9,40.5,0.6
+Mt Lebanon Ward 1 Dist 2,,,Hallam,49,67.9,91,42,1,134,67.9,31.3,0.7
 Mt Lebanon Ward 1 Dist 3,,,Hallam,35,61.3,95,60,0,155,61.3,38.7,0.0
-Mt Lebanon Ward 1 Dist 4,,,Hallam,40,60.8,110,70,1,181,60.8,38.7,0.6
-Mt Lebanon Ward 1 Dist 5,,,Hallam,36,61.1,91,55,3,149,61.1,36.9,2.0
-Mt Lebanon Ward 1 Dist 6,,,Hallam,20,54.4,118,98,1,217,54.4,45.2,0.5
+Mt Lebanon Ward 1 Dist 4,,,Hallam,37,59.6,112,75,1,188,59.6,39.9,0.5
+Mt Lebanon Ward 1 Dist 5,,,Hallam,34,60.3,91,57,3,151,60.3,37.7,2.0
+Mt Lebanon Ward 1 Dist 6,,,Hallam,19,54.0,121,102,1,224,54.0,45.5,0.4
 Mt Lebanon Ward 1 Dist 7,,,Hallam,36,60.7,99,63,1,163,60.7,38.7,0.6
-Mt Lebanon Ward 2 Dist 1,,,Hallam,63,64.5,140,77,0,217,64.5,35.5,0.0
+Mt Lebanon Ward 2 Dist 1,,,Hallam,63,64.4,141,78,0,219,64.4,35.6,0.0
 Mt Lebanon Ward 2 Dist 2,,,Hallam,18,56.0,79,61,1,141,56.0,43.3,0.7
-Mt Lebanon Ward 2 Dist 3,,,Hallam,36,60.4,99,63,2,164,60.4,38.4,1.2
-Mt Lebanon Ward 2 Dist 4,,,Hallam,25,59.8,73,48,1,122,59.8,39.3,0.8
-Mt Lebanon Ward 2 Dist 5,,,Hallam,12,54.5,72,60,0,132,54.5,45.5,0.0
+Mt Lebanon Ward 2 Dist 3,,,Hallam,37,60.6,100,63,2,165,60.6,38.2,1.2
+Mt Lebanon Ward 2 Dist 4,,,Hallam,26,60.0,75,49,1,125,60.0,39.2,0.8
+Mt Lebanon Ward 2 Dist 5,,,Hallam,9,53.3,72,63,0,135,53.3,46.7,0.0
 Mt Lebanon Ward 2 Dist 6,,,Hallam,31,61.4,81,50,1,132,61.4,37.9,0.8
 Mt Lebanon Ward 2 Dist 7,,,Hallam,23,57.2,91,68,0,159,57.2,42.8,0.0
-Mt Lebanon Ward 2 Dist 8,,,Hallam,16,53.1,119,103,2,224,53.1,46.0,0.9
+Mt Lebanon Ward 2 Dist 8,,,Hallam,17,53.3,120,103,2,225,53.3,45.8,0.9
 Mt Lebanon Ward 3 Dist 1,,,Hallam,12,53.5,84,72,1,157,53.5,45.9,0.6
-Mt Lebanon Ward 3 Dist 2,,,Hallam,42,61.5,112,70,0,182,61.5,38.5,0.0
-Mt Lebanon Ward 3 Dist 3,,,Hallam,32,61.8,84,52,0,136,61.8,38.2,0.0
+Mt Lebanon Ward 3 Dist 2,,,Hallam,43,61.6,114,71,0,185,61.6,38.4,0.0
+Mt Lebanon Ward 3 Dist 3,,,Hallam,35,62.6,87,52,0,139,62.6,37.4,0.0
 Mt Lebanon Ward 3 Dist 4,,,Hallam,1,50.4,59,58,0,117,50.4,49.6,0.0
-Mt Lebanon Ward 3 Dist 5,,,Hallam,44,62.7,101,57,3,161,62.7,35.4,1.9
-Mt Lebanon Ward 3 Dist 6,,,Hallam,38,69.8,67,29,0,96,69.8,30.2,0.0
+Mt Lebanon Ward 3 Dist 5,,,Hallam,42,61.8,102,60,3,165,61.8,36.4,1.8
+Mt Lebanon Ward 3 Dist 6,,,Hallam,37,69.1,67,30,0,97,69.1,30.9,0.0
 Mt Lebanon Ward 3 Dist 7,,,Hallam,32,57.9,110,78,2,190,57.9,41.1,1.1
 Mt Lebanon Ward 3 Dist 8,,,Hallam,13,61.5,32,19,1,52,61.5,36.5,1.9
-Mt Lebanon Ward 4 Dist 1,,,Hallam,54,68.5,100,46,0,146,68.5,31.5,0.0
-Mt Lebanon Ward 4 Dist 2,,,Hallam,60,67.3,115,55,1,171,67.3,32.2,0.6
-Mt Lebanon Ward 4 Dist 3,,,Hallam,20,58.6,68,48,0,116,58.6,41.4,0.0
+Mt Lebanon Ward 4 Dist 1,,,Hallam,55,68.7,101,46,0,147,68.7,31.3,0.0
+Mt Lebanon Ward 4 Dist 2,,,Hallam,61,67.4,116,55,1,172,67.4,32.0,0.6
+Mt Lebanon Ward 4 Dist 3,,,Hallam,19,58.1,68,49,0,117,58.1,41.9,0.0
 Mt Lebanon Ward 4 Dist 4,,,Hallam,46,65.7,92,46,2,140,65.7,32.9,1.4
-Mt Lebanon Ward 4 Dist 5,,,Hallam,35,64.4,76,41,1,118,64.4,34.7,0.8
-Mt Lebanon Ward 4 Dist 6,,,Hallam,52,66.0,101,49,3,153,66.0,32.0,2.0
-Mt Lebanon Ward 4 Dist 7,,,Hallam,36,59.4,111,75,1,187,59.4,40.1,0.5
-Mt Lebanon Ward 5 Dist 1,,,Hallam,31,61.4,81,50,1,132,61.4,37.9,0.8
+Mt Lebanon Ward 4 Dist 5,,,Hallam,36,64.7,77,41,1,119,64.7,34.5,0.8
+Mt Lebanon Ward 4 Dist 6,,,Hallam,52,65.8,102,50,3,155,65.8,32.3,1.9
+Mt Lebanon Ward 4 Dist 7,,,Hallam,35,59.0,111,76,1,188,59.0,40.4,0.5
+Mt Lebanon Ward 5 Dist 1,,,Hallam,31,61.2,82,51,1,134,61.2,38.1,0.7
 Mt Lebanon Ward 5 Dist 2,,,Hallam,16,61.1,44,28,0,72,61.1,38.9,0.0
 Mt Lebanon Ward 5 Dist 3,,,Hallam,41,66.9,79,38,1,118,66.9,32.2,0.8
 Mt Lebanon Ward 5 Dist 4,,,Hallam,39,63.6,91,52,0,143,63.6,36.4,0.0
-Mt Lebanon Ward 5 Dist 5,,,Hallam,20,55.3,105,85,0,190,55.3,44.7,0.0
+Mt Lebanon Ward 5 Dist 5,,,Hallam,21,55.5,106,85,0,191,55.5,44.5,0.0
 Mt Lebanon Ward 5 Dist 6,,,Hallam,52,70.8,85,33,2,120,70.8,27.5,1.7
 Mt Lebanon Ward 5 Dist 7,,,Hallam,57,65.2,116,59,3,178,65.2,33.1,1.7
-Mt Lebanon Ward 5 Dist 8,,,Hallam,61,66.3,120,59,2,181,66.3,32.6,1.1
+Mt Lebanon Ward 5 Dist 8,,,Hallam,61,66.1,121,60,2,183,66.1,32.8,1.1
 Mt Oliver Dist 1,,,Hallam,0,48.5,32,32,2,66,48.5,48.5,3.0
 Mt Oliver Dist 2,,,Doven,1,50.6,43,44,0,87,49.4,50.6,0.0
 Mt Oliver Dist 3,,,Hallam,9,59.6,28,19,0,47,59.6,40.4,0.0
-Mt Oliver Dist 4,,,Hallam,2,52.3,23,21,0,44,52.3,47.7,0.0
+Mt Oliver Dist 4,,,Hallam,2,52.2,24,22,0,46,52.2,47.8,0.0
 Munhall Dist 1,,,Doven,5,57.1,15,20,0,35,42.9,57.1,0.0
 Munhall Dist 2,,,Hallam,6,54.7,29,23,1,53,54.7,43.4,1.9
 Munhall Dist 3,,,Doven,6,52.9,40,46,1,87,46.0,52.9,1.1
 Munhall Dist 4,,,Hallam,4,52.5,31,27,1,59,52.5,45.8,1.7
-Munhall Dist 5,,,Hallam,33,61.0,83,50,3,136,61.0,36.8,2.2
+Munhall Dist 5,,,Hallam,34,61.3,84,50,3,137,61.3,36.5,2.2
 Munhall Dist 6,,,Doven,10,53.4,68,78,0,146,46.6,53.4,0.0
 Munhall Dist 7,,,Doven,24,55.2,104,128,0,232,44.8,55.2,0.0
-Munhall Dist 8,,,Doven,12,53.7,67,79,1,147,45.6,53.7,0.7
-Munhall Dist 9,,,Doven,5,52.2,54,59,0,113,47.8,52.2,0.0
+Munhall Dist 8,,,Doven,13,54.1,67,80,1,148,45.3,54.1,0.7
+Munhall Dist 9,,,Doven,6,52.6,54,60,0,114,47.4,52.6,0.0
 Munhall Dist 10,,,Hallam,0,48.0,61,61,5,127,48.0,48.0,3.9
 Munhall Dist 11,,,Hallam,10,52.5,106,96,0,202,52.5,47.5,0.0
 Munhall Dist 12,,,Hallam,5,51.7,74,69,0,143,51.7,48.3,0.0
 Neville Ward 1,,,Hallam,0,50.0,21,21,0,42,50.0,50.0,0.0
 Neville Ward 2,,,Doven,3,56.0,11,14,0,25,44.0,56.0,0.0
 Neville Ward 3,,,Hallam,9,57.4,31,22,1,54,57.4,40.7,1.9
-N Braddock Ward 1 Dist 1,,,Doven,12,58.8,28,40,0,68,41.2,58.8,0.0
+N Braddock Ward 1 Dist 1,,,Doven,14,60.0,28,42,0,70,40.0,60.0,0.0
 N Braddock Ward 1 Dist 2,,,Doven,12,58.8,28,40,0,68,41.2,58.8,0.0
 N Braddock Ward 1 Dist 3,,,Doven,5,52.9,31,36,1,68,45.6,52.9,1.5
 N Braddock Ward 2 Dist 1,,,Hallam,1,51.1,24,23,0,47,51.1,48.9,0.0
@@ -484,230 +484,230 @@ N Braddock Ward 2 Dist 2,,,Doven,2,50.9,54,56,0,110,49.1,50.9,0.0
 N Braddock Ward 3 Dist 1,,,Doven,12,60.0,21,33,1,55,38.2,60.0,1.8
 N Braddock Ward 3 Dist 2,,,Hallam,7,56.6,30,23,0,53,56.6,43.4,0.0
 N Fayette Dist 1,,,Hallam,27,54.3,146,119,4,269,54.3,44.2,1.5
-N Fayette Dist 2,,,Hallam,14,52.4,140,126,1,267,52.4,47.2,0.4
-N Fayette Dist 3,,,Hallam,38,56.3,160,122,2,284,56.3,43.0,0.7
+N Fayette Dist 2,,,Hallam,14,52.4,141,127,1,269,52.4,47.2,0.4
+N Fayette Dist 3,,,Hallam,37,56.1,161,124,2,287,56.1,43.2,0.7
 N Fayette Dist 4,,,Hallam,4,51.8,57,53,0,110,51.8,48.2,0.0
-N Fayette Dist 5,,,Hallam,15,52.2,169,154,1,324,52.2,47.5,0.3
+N Fayette Dist 5,,,Hallam,15,52.1,170,155,1,326,52.1,47.5,0.3
 N Versailles Ward 1 Dist 1,,,Doven,18,59.0,41,59,0,100,41.0,59.0,0.0
-N Versailles Ward 1 Dist 2,,,Doven,5,52.0,59,64,0,123,48.0,52.0,0.0
+N Versailles Ward 1 Dist 2,,,Doven,6,52.4,59,65,0,124,47.6,52.4,0.0
 N Versailles Ward 2 Dist 1,,,Doven,11,55.1,48,59,0,107,44.9,55.1,0.0
 N Versailles Ward 2 Dist 2,,,Doven,5,57.6,14,19,0,33,42.4,57.6,0.0
 N Versailles Ward 3 Dist 1,,,Doven,22,58.9,51,73,0,124,41.1,58.9,0.0
-N Versailles Ward 3 Dist 2,,,Doven,13,55.5,53,66,0,119,44.5,55.5,0.0
+N Versailles Ward 3 Dist 2,,,Doven,14,55.8,53,67,0,120,44.2,55.8,0.0
 N Versailles Ward 4 Dist 1,,,Doven,11,58.0,29,40,0,69,42.0,58.0,0.0
 N Versailles Ward 4 Dist 2,,,Hallam,2,50.9,28,26,1,55,50.9,47.3,1.8
 N Versailles Ward 5 Dist 1,,,Hallam,0,50.0,27,27,0,54,50.0,50.0,0.0
-N Versailles Ward 5 Dist 2,,,Doven,12,65.0,14,26,0,40,35.0,65.0,0.0
+N Versailles Ward 5 Dist 2,,,Doven,13,65.9,14,27,0,41,34.1,65.9,0.0
 N Versailles Ward 6 Dist 1,,,Hallam,9,54.6,53,44,0,97,54.6,45.4,0.0
-N Versailles Ward 6 Dist 2,,,Doven,25,62.1,39,64,0,103,37.9,62.1,0.0
-N Versailles Ward 7,,,Hallam,8,53.4,62,54,0,116,53.4,46.6,0.0
-Oakdale Dist 1,,,Hallam,24,64.3,54,30,0,84,64.3,35.7,0.0
+N Versailles Ward 6 Dist 2,,,Doven,24,61.5,40,64,0,104,38.5,61.5,0.0
+N Versailles Ward 7,,,Hallam,8,53.4,63,55,0,118,53.4,46.6,0.0
+Oakdale Dist 1,,,Hallam,25,64.7,55,30,0,85,64.7,35.3,0.0
 Oakdale Dist 2,,,Hallam,12,56.7,51,39,0,90,56.7,43.3,0.0
 Oakmont Dist 1,,,Hallam,46,62.6,114,68,0,182,62.6,37.4,0.0
-Oakmont Dist 2,,,Hallam,15,53.9,103,88,0,191,53.9,46.1,0.0
+Oakmont Dist 2,,,Hallam,15,53.9,104,89,0,193,53.9,46.1,0.0
 Oakmont Dist 3,,,Hallam,43,64.8,92,49,1,142,64.8,34.5,0.7
-Oakmont Dist 4,,,Hallam,9,52.6,71,62,2,135,52.6,45.9,1.5
-Oakmont Dist 5,,,Hallam,32,62.8,76,44,1,121,62.8,36.4,0.8
+Oakmont Dist 4,,,Hallam,10,52.9,72,62,2,136,52.9,45.6,1.5
+Oakmont Dist 5,,,Hallam,32,62.6,77,45,1,123,62.6,36.6,0.8
 Oakmont Dist 6,,,Hallam,28,55.6,140,112,0,252,55.6,44.4,0.0
-O'Hara Ward 1 Dist 1,,,Hallam,30,57.4,108,78,2,188,57.4,41.5,1.1
-O'Hara Ward 1 Dist 2,,,Hallam,7,52.6,60,53,1,114,52.6,46.5,0.9
+O'Hara Ward 1 Dist 1,,,Hallam,32,57.9,110,78,2,190,57.9,41.1,1.1
+O'Hara Ward 1 Dist 2,,,Hallam,8,53.0,61,53,1,115,53.0,46.1,0.9
 O'Hara Ward 2 Dist 1,,,Hallam,33,61.8,84,51,1,136,61.8,37.5,0.7
-O'Hara Ward 2 Dist 2,,,Hallam,24,57.0,98,74,0,172,57.0,43.0,0.0
+O'Hara Ward 2 Dist 2,,,Hallam,25,57.1,100,75,0,175,57.1,42.9,0.0
 O'Hara Ward 3 Dist 1,,,Hallam,12,53.5,77,65,2,144,53.5,45.1,1.4
-O'Hara Ward 3 Dist 2,,,Hallam,0,50.0,48,48,0,96,50.0,50.0,0.0
-O'Hara Ward 4 Dist 1,,,Doven,11,53.0,78,89,1,168,46.4,53.0,0.6
-O'Hara Ward 4 Dist 2,,,Hallam,32,56.8,130,98,1,229,56.8,42.8,0.4
-O'Hara Ward 5 Dist 1,,,Hallam,8,52.7,78,70,0,148,52.7,47.3,0.0
-O'Hara Ward 5 Dist 2,,,Hallam,39,59.6,109,70,4,183,59.6,38.3,2.2
-Ohio Dist 1,,,Hallam,27,56.7,115,88,0,203,56.7,43.3,0.0
-Ohio Dist 2,,,Hallam,43,55.8,206,163,0,369,55.8,44.2,0.0
-Ohio Dist 3,,,Hallam,41,57.0,167,126,0,293,57.0,43.0,0.0
-Glen Osborne,,,Doven,8,54.0,39,47,1,87,44.8,54.0,1.1
+O'Hara Ward 3 Dist 2,,,Hallam,0,50.0,49,49,0,98,50.0,50.0,0.0
+O'Hara Ward 4 Dist 1,,,Doven,12,53.2,79,91,1,171,46.2,53.2,0.6
+O'Hara Ward 4 Dist 2,,,Hallam,33,57.0,131,98,1,230,57.0,42.6,0.4
+O'Hara Ward 5 Dist 1,,,Hallam,11,53.6,82,71,0,153,53.6,46.4,0.0
+O'Hara Ward 5 Dist 2,,,Hallam,39,59.5,110,71,4,185,59.5,38.4,2.2
+Ohio Dist 1,,,Hallam,28,56.9,116,88,0,204,56.9,43.1,0.0
+Ohio Dist 2,,,Hallam,42,55.6,207,165,0,372,55.6,44.4,0.0
+Ohio Dist 3,,,Hallam,42,57.1,168,126,0,294,57.1,42.9,0.0
+Glen Osborne,,,Doven,9,54.5,39,48,1,88,44.3,54.5,1.1
 Penn Hills Ward 1 Dist 1,,,Doven,10,52.5,73,83,2,158,46.2,52.5,1.3
 Penn Hills Ward 1 Dist 2,,,Doven,1,50.3,75,76,0,151,49.7,50.3,0.0
 Penn Hills Ward 1 Dist 3,,,Hallam,6,54.2,39,33,0,72,54.2,45.8,0.0
-Penn Hills Ward 1 Dist 4,,,Hallam,20,65.1,41,21,1,63,65.1,33.3,1.6
+Penn Hills Ward 1 Dist 4,,,Hallam,21,65.6,42,21,1,64,65.6,32.8,1.6
 Penn Hills Ward 1 Dist 5,,,Hallam,10,61.5,24,14,1,39,61.5,35.9,2.6
-Penn Hills Ward 2 Dist 1,,,Doven,5,51.5,64,69,1,134,47.8,51.5,0.7
+Penn Hills Ward 2 Dist 1,,,Doven,8,52.6,64,72,1,137,46.7,52.6,0.7
 Penn Hills Ward 2 Dist 2,,,Hallam,9,53.1,69,60,1,130,53.1,46.2,0.8
-Penn Hills Ward 2 Dist 3,,,Doven,16,55.1,65,81,1,147,44.2,55.1,0.7
+Penn Hills Ward 2 Dist 3,,,Doven,15,54.7,66,81,1,148,44.6,54.7,0.7
 Penn Hills Ward 2 Dist 4,,,Hallam,27,57.2,99,72,2,173,57.2,41.6,1.2
 Penn Hills Ward 3 Dist 1,,,Hallam,37,60.8,104,67,0,171,60.8,39.2,0.0
 Penn Hills Ward 3 Dist 2,,,Hallam,22,62.0,57,35,0,92,62.0,38.0,0.0
-Penn Hills Ward 3 Dist 3,,,Hallam,12,55.1,65,53,0,118,55.1,44.9,0.0
+Penn Hills Ward 3 Dist 3,,,Hallam,13,55.5,66,53,0,119,55.5,44.5,0.0
 Penn Hills Ward 3 Dist 4,,,Hallam,14,55.3,73,59,0,132,55.3,44.7,0.0
 Penn Hills Ward 3 Dist 5,,,Doven,4,53.5,19,23,1,43,44.2,53.5,2.3
-Penn Hills Ward 3 Dist 6,,,Hallam,12,56.6,47,35,1,83,56.6,42.2,1.2
-Penn Hills Ward 4 Dist 1,,,Hallam,37,65.8,77,40,0,117,65.8,34.2,0.0
-Penn Hills Ward 4 Dist 2,,,Doven,4,51.4,51,55,1,107,47.7,51.4,0.9
+Penn Hills Ward 3 Dist 6,,,Hallam,10,55.3,47,37,1,85,55.3,43.5,1.2
+Penn Hills Ward 4 Dist 1,,,Hallam,38,66.1,78,40,0,118,66.1,33.9,0.0
+Penn Hills Ward 4 Dist 2,,,Doven,5,51.9,51,56,1,108,47.2,51.9,0.9
 Penn Hills Ward 4 Dist 3,,,Hallam,10,53.9,69,59,0,128,53.9,46.1,0.0
 Penn Hills Ward 4 Dist 4,,,Hallam,0,50.0,51,51,0,102,50.0,50.0,0.0
 Penn Hills Ward 4 Dist 5,,,Hallam,13,56.1,60,47,0,107,56.1,43.9,0.0
 Penn Hills Ward 5 Dist 1,,,Doven,13,55.4,54,67,0,121,44.6,55.4,0.0
-Penn Hills Ward 5 Dist 2,,,Hallam,0,50.0,34,34,0,68,50.0,50.0,0.0
+Penn Hills Ward 5 Dist 2,,,Doven,1,50.7,34,35,0,69,49.3,50.7,0.0
 Penn Hills Ward 5 Dist 3,,,Hallam,14,55.0,71,57,1,129,55.0,44.2,0.8
-Penn Hills Ward 5 Dist 4,,,Hallam,28,60.8,79,51,0,130,60.8,39.2,0.0
-Penn Hills Ward 5 Dist 5,,,Hallam,21,58.2,71,50,1,122,58.2,41.0,0.8
+Penn Hills Ward 5 Dist 4,,,Hallam,25,59.4,79,54,0,133,59.4,40.6,0.0
+Penn Hills Ward 5 Dist 5,,,Hallam,20,57.7,71,51,1,123,57.7,41.5,0.8
 Penn Hills Ward 5 Dist 6,,,Doven,7,53.2,52,59,0,111,46.8,53.2,0.0
 Penn Hills Ward 6 Dist 1,,,Hallam,1,50.0,38,37,1,76,50.0,48.7,1.3
 Penn Hills Ward 6 Dist 2,,,Hallam,12,55.0,61,49,1,111,55.0,44.1,0.9
 Penn Hills Ward 6 Dist 3,,,Hallam,18,58.7,61,43,0,104,58.7,41.3,0.0
-Penn Hills Ward 6 Dist 4,,,Hallam,5,52.4,43,38,1,82,52.4,46.3,1.2
-Penn Hills Ward 6 Dist 5,,,Doven,8,53.5,45,53,1,99,45.5,53.5,1.0
+Penn Hills Ward 6 Dist 4,,,Hallam,6,52.9,45,39,1,85,52.9,45.9,1.2
+Penn Hills Ward 6 Dist 5,,,Doven,9,54.0,45,54,1,100,45.0,54.0,1.0
 Penn Hills Ward 6 Dist 6,,,Hallam,12,55.8,58,46,0,104,55.8,44.2,0.0
-Penn Hills Ward 7 Dist 1,,,Hallam,10,53.5,68,58,1,127,53.5,45.7,0.8
+Penn Hills Ward 7 Dist 1,,,Hallam,10,53.5,69,59,1,129,53.5,45.7,0.8
 Penn Hills Ward 7 Dist 2,,,Hallam,3,51.2,44,41,1,86,51.2,47.7,1.2
 Penn Hills Ward 7 Dist 3,,,Hallam,23,56.5,87,64,3,154,56.5,41.6,1.9
 Penn Hills Ward 7 Dist 4,,,Doven,1,50.4,58,59,0,117,49.6,50.4,0.0
-Penn Hills Ward 7 Dist 5,,,Hallam,23,60.4,67,44,0,111,60.4,39.6,0.0
-Penn Hills Ward 7 Dist 6,,,Hallam,9,54.1,59,50,0,109,54.1,45.9,0.0
+Penn Hills Ward 7 Dist 5,,,Hallam,21,59.3,67,46,0,113,59.3,40.7,0.0
+Penn Hills Ward 7 Dist 6,,,Hallam,9,54.1,60,51,0,111,54.1,45.9,0.0
 Penn Hills Ward 7 Dist 7,,,Doven,9,56.3,31,40,0,71,43.7,56.3,0.0
 Penn Hills Ward 8 Dist 1,,,Hallam,9,54.0,61,52,0,113,54.0,46.0,0.0
 Penn Hills Ward 8 Dist 2,,,Hallam,17,58.9,56,39,0,95,58.9,41.1,0.0
 Penn Hills Ward 8 Dist 3,,,Hallam,1,50.0,37,36,1,74,50.0,48.6,1.4
 Penn Hills Ward 8 Dist 4,,,Hallam,3,50.4,57,54,2,113,50.4,47.8,1.8
 Penn Hills Ward 8 Dist 5,,,Hallam,9,53.0,80,71,0,151,53.0,47.0,0.0
-Penn Hills Ward 8 Dist 6,,,Doven,3,51.4,34,37,1,72,47.2,51.4,1.4
+Penn Hills Ward 8 Dist 6,,,Doven,2,50.7,35,37,1,73,47.9,50.7,1.4
 Penn Hills Ward 9 Dist 1,,,Hallam,16,58.8,50,34,1,85,58.8,40.0,1.2
 Penn Hills Ward 9 Dist 2,,,Hallam,0,50.0,42,42,0,84,50.0,50.0,0.0
-Penn Hills Ward 9 Dist 3,,,Hallam,5,51.3,79,74,1,154,51.3,48.1,0.6
+Penn Hills Ward 9 Dist 3,,,Hallam,7,51.9,81,74,1,156,51.9,47.4,0.6
 Penn Hills Ward 9 Dist 4,,,Hallam,14,56.0,65,51,0,116,56.0,44.0,0.0
-Penn Hills Ward 9 Dist 5,,,Hallam,15,61.2,41,26,0,67,61.2,38.8,0.0
-Pine Dist 1,,,Hallam,59,69.3,106,47,0,153,69.3,30.7,0.0
-Pine Dist 2,,,Hallam,43,58.7,142,99,1,242,58.7,40.9,0.4
-Pine Dist 3,,,Hallam,14,61.4,35,21,1,57,61.4,36.8,1.8
-Pine Dist 4,,,Hallam,38,61.4,102,64,0,166,61.4,38.6,0.0
-Pine Dist 5,,,Hallam,24,57.2,95,71,0,166,57.2,42.8,0.0
-Pine Dist 6,,,Hallam,27,65.2,58,31,0,89,65.2,34.8,0.0
+Penn Hills Ward 9 Dist 5,,,Hallam,15,60.9,42,27,0,69,60.9,39.1,0.0
+Pine Dist 1,,,Hallam,60,69.2,108,48,0,156,69.2,30.8,0.0
+Pine Dist 2,,,Hallam,44,58.8,144,100,1,245,58.8,40.8,0.4
+Pine Dist 3,,,Hallam,15,62.1,36,21,1,58,62.1,36.2,1.7
+Pine Dist 4,,,Hallam,37,61.1,102,65,0,167,61.1,38.9,0.0
+Pine Dist 5,,,Hallam,22,56.5,95,73,0,168,56.5,43.5,0.0
+Pine Dist 6,,,Hallam,26,64.4,58,32,0,90,64.4,35.6,0.0
 Pine Dist 7,,,Hallam,28,58.0,102,74,0,176,58.0,42.0,0.0
 Pine Dist 8,,,Doven,7,53.4,40,47,1,88,45.5,53.4,1.1
-Pitcairn Dist 1,,,Hallam,11,54.5,55,44,2,101,54.5,43.6,2.0
+Pitcairn Dist 1,,,Hallam,9,53.4,55,46,2,103,53.4,44.7,1.9
 Pitcairn Dist 2,,,Hallam,6,58.1,18,12,1,31,58.1,38.7,3.2
 Pitcairn Dist 3,,,Hallam,19,60.4,55,36,0,91,60.4,39.6,0.0
-Pittsburgh Ward 1 Dist 1,,,Hallam,22,59.0,69,47,1,117,59.0,40.2,0.9
-Pittsburgh Ward 1 Dist 2,,,Hallam,61,84.9,73,12,1,86,84.9,14.0,1.2
-Pittsburgh Ward 2 Dist 1,,,Hallam,66,61.3,179,113,0,292,61.3,38.7,0.0
-Pittsburgh Ward 2 Dist 2,,,Hallam,55,61.3,146,91,1,238,61.3,38.2,0.4
-Pittsburgh Ward 3 Dist 1,,,Doven,13,62.7,19,32,0,51,37.3,62.7,0.0
-Pittsburgh Ward 3 Dist 2,,,Doven,2,50.3,82,84,1,167,49.1,50.3,0.6
-Pittsburgh Ward 3 Dist 3,,,Doven,9,55.1,34,43,1,78,43.6,55.1,1.3
-Pittsburgh Ward 3 Dist 4,,,Hallam,18,68.8,33,15,0,48,68.8,31.3,0.0
+Pittsburgh Ward 1 Dist 1,,,Hallam,23,59.3,70,47,1,118,59.3,39.8,0.8
+Pittsburgh Ward 1 Dist 2,,,Hallam,61,84.1,74,13,1,88,84.1,14.8,1.1
+Pittsburgh Ward 2 Dist 1,,,Hallam,67,61.4,181,114,0,295,61.4,38.6,0.0
+Pittsburgh Ward 2 Dist 2,,,Hallam,58,61.8,149,91,1,241,61.8,37.8,0.4
+Pittsburgh Ward 3 Dist 1,,,Doven,14,63.5,19,33,0,52,36.5,63.5,0.0
+Pittsburgh Ward 3 Dist 2,,,Doven,2,50.3,83,85,1,169,49.1,50.3,0.6
+Pittsburgh Ward 3 Dist 3,,,Doven,10,55.7,34,44,1,79,43.0,55.7,1.3
+Pittsburgh Ward 3 Dist 4,,,Hallam,17,67.3,33,16,0,49,67.3,32.7,0.0
 Pittsburgh Ward 3 Dist 5,,,Hallam,13,58.0,47,34,0,81,58.0,42.0,0.0
 Pittsburgh Ward 4 Dist 1,,,Doven,2,60.0,4,6,0,10,40.0,60.0,0.0
-Pittsburgh Ward 4 Dist 2,,,Hallam,37,73.4,58,21,0,79,73.4,26.6,0.0
-Pittsburgh Ward 4 Dist 3,,,Hallam,10,60.0,30,20,0,50,60.0,40.0,0.0
+Pittsburgh Ward 4 Dist 2,,,Hallam,39,74.1,60,21,0,81,74.1,25.9,0.0
+Pittsburgh Ward 4 Dist 3,,,Hallam,11,60.8,31,20,0,51,60.8,39.2,0.0
 Pittsburgh Ward 4 Dist 4,,,Doven,16,83.3,4,20,0,24,16.7,83.3,0.0
 Pittsburgh Ward 4 Dist 5,,,Doven,5,57.1,15,20,0,35,42.9,57.1,0.0
 Pittsburgh Ward 4 Dist 6,,,Hallam,2,52.1,25,23,0,48,52.1,47.9,0.0
 Pittsburgh Ward 4 Dist 7,,,Hallam,30,64.6,62,32,2,96,64.6,33.3,2.1
-Pittsburgh Ward 4 Dist 8,,,Hallam,13,81.0,17,4,0,21,81.0,19.0,0.0
-Pittsburgh Ward 4 Dist 9,,,Hallam,12,54.0,81,69,0,150,54.0,46.0,0.0
-Pittsburgh Ward 4 Dist 10,,,Hallam,26,72.4,42,16,0,58,72.4,27.6,0.0
-Pittsburgh Ward 4 Dist 11,,,Hallam,38,58.9,123,85,1,209,58.9,40.7,0.5
-Pittsburgh Ward 4 Dist 12,,,Hallam,11,55.1,59,48,0,107,55.1,44.9,0.0
+Pittsburgh Ward 4 Dist 8,,,Hallam,14,81.8,18,4,0,22,81.8,18.2,0.0
+Pittsburgh Ward 4 Dist 9,,,Hallam,11,53.6,82,71,0,153,53.6,46.4,0.0
+Pittsburgh Ward 4 Dist 10,,,Hallam,25,71.2,42,17,0,59,71.2,28.8,0.0
+Pittsburgh Ward 4 Dist 11,,,Hallam,40,59.2,125,85,1,211,59.2,40.3,0.5
+Pittsburgh Ward 4 Dist 12,,,Hallam,11,55.0,60,49,0,109,55.0,45.0,0.0
 Pittsburgh Ward 4 Dist 13,,,Doven,1,50.0,32,33,1,66,48.5,50.0,1.5
 Pittsburgh Ward 4 Dist 14,,,Hallam,8,64.3,18,10,0,28,64.3,35.7,0.0
-Pittsburgh Ward 4 Dist 15,,,Hallam,10,57.8,37,27,0,64,57.8,42.2,0.0
-Pittsburgh Ward 4 Dist 16,,,Hallam,39,79.1,53,14,0,67,79.1,20.9,0.0
+Pittsburgh Ward 4 Dist 15,,,Hallam,8,56.1,37,29,0,66,56.1,43.9,0.0
+Pittsburgh Ward 4 Dist 16,,,Hallam,41,79.7,55,14,0,69,79.7,20.3,0.0
 Pittsburgh Ward 4 Dist 17,,,Hallam,18,59.2,58,40,0,98,59.2,40.8,0.0
-Pittsburgh Ward 4 Dist 18,,,Hallam,10,58.3,35,25,0,60,58.3,41.7,0.0
+Pittsburgh Ward 4 Dist 18,,,Hallam,11,59.0,36,25,0,61,59.0,41.0,0.0
 Pittsburgh Ward 4 Dist 19,,,Hallam,4,62.5,10,6,0,16,62.5,37.5,0.0
 Pittsburgh Ward 5 Dist 1,,,Doven,19,72.5,10,29,1,40,25.0,72.5,2.5
-Pittsburgh Ward 5 Dist 2,,,Doven,4,53.8,24,28,0,52,46.2,53.8,0.0
-Pittsburgh Ward 5 Dist 3,,,Hallam,6,58.8,20,14,0,34,58.8,41.2,0.0
+Pittsburgh Ward 5 Dist 2,,,Doven,3,52.8,25,28,0,53,47.2,52.8,0.0
+Pittsburgh Ward 5 Dist 3,,,Hallam,8,61.1,22,14,0,36,61.1,38.9,0.0
 Pittsburgh Ward 5 Dist 4,,,Hallam,7,59.5,22,15,0,37,59.5,40.5,0.0
 Pittsburgh Ward 5 Dist 5,,,Hallam,1,51.5,17,16,0,33,51.5,48.5,0.0
 Pittsburgh Ward 5 Dist 6,,,Hallam,0,50.0,26,26,0,52,50.0,50.0,0.0
 Pittsburgh Ward 5 Dist 7,,,Doven,14,60.0,28,42,0,70,40.0,60.0,0.0
-Pittsburgh Ward 5 Dist 8,,,Doven,13,57.5,37,50,0,87,42.5,57.5,0.0
-Pittsburgh Ward 5 Dist 9,,,Hallam,34,64.2,77,43,0,120,64.2,35.8,0.0
-Pittsburgh Ward 5 Dist 10,,,Doven,6,53.8,36,42,0,78,46.2,53.8,0.0
+Pittsburgh Ward 5 Dist 8,,,Doven,12,56.8,38,50,0,88,43.2,56.8,0.0
+Pittsburgh Ward 5 Dist 9,,,Hallam,33,63.2,79,46,0,125,63.2,36.8,0.0
+Pittsburgh Ward 5 Dist 10,,,Doven,5,53.2,37,42,0,79,46.8,53.2,0.0
 Pittsburgh Ward 5 Dist 11,,,Doven,9,58.5,22,31,0,53,41.5,58.5,0.0
-Pittsburgh Ward 5 Dist 12,,,Doven,2,52.3,21,23,0,44,47.7,52.3,0.0
+Pittsburgh Ward 5 Dist 12,,,Doven,1,51.1,22,23,0,45,48.9,51.1,0.0
 Pittsburgh Ward 5 Dist 13,,,Hallam,2,52.2,24,22,0,46,52.2,47.8,0.0
 Pittsburgh Ward 5 Dist 14,,,Hallam,7,57.1,28,21,0,49,57.1,42.9,0.0
 Pittsburgh Ward 5 Dist 15,,,Doven,2,54.2,11,13,0,24,45.8,54.2,0.0
 Pittsburgh Ward 5 Dist 16,,,Hallam,0,50.0,5,5,0,10,50.0,50.0,0.0
-Pittsburgh Ward 5 Dist 17,,,Doven,2,52.6,18,20,0,38,47.4,52.6,0.0
-Pittsburgh Ward 5 Dist 18,,,Hallam,1,60.0,3,2,0,5,60.0,40.0,0.0
-Pittsburgh Ward 6 Dist 1,,,Hallam,47,60.4,134,87,1,222,60.4,39.2,0.5
-Pittsburgh Ward 6 Dist 2,,,Hallam,64,73.9,99,35,0,134,73.9,26.1,0.0
+Pittsburgh Ward 5 Dist 17,,,Doven,3,53.8,18,21,0,39,46.2,53.8,0.0
+Pittsburgh Ward 5 Dist 18,,,Hallam,0,50.0,3,3,0,6,50.0,50.0,0.0
+Pittsburgh Ward 6 Dist 1,,,Hallam,45,59.8,134,89,1,224,59.8,39.7,0.4
+Pittsburgh Ward 6 Dist 2,,,Hallam,66,73.6,103,37,0,140,73.6,26.4,0.0
 Pittsburgh Ward 6 Dist 3,,,Hallam,75,74.3,113,38,1,152,74.3,25.0,0.7
 Pittsburgh Ward 6 Dist 4,,,Hallam,30,58.6,99,69,1,169,58.6,40.8,0.6
-Pittsburgh Ward 6 Dist 5,,,Hallam,47,72.8,75,28,0,103,72.8,27.2,0.0
-Pittsburgh Ward 7 Dist 1,,,Doven,5,46.0,41,46,13,100,41.0,46.0,13.0
-Pittsburgh Ward 7 Dist 2,,,Hallam,15,45.5,105,90,36,231,45.5,39.0,15.6
-Pittsburgh Ward 7 Dist 3,,,Hallam,40,63.6,91,51,1,143,63.6,35.7,0.7
-Pittsburgh Ward 7 Dist 4,,,Hallam,73,71.6,116,43,3,162,71.6,26.5,1.9
-Pittsburgh Ward 7 Dist 5,,,Hallam,8,50.0,46,38,8,92,50.0,41.3,8.7
+Pittsburgh Ward 6 Dist 5,,,Hallam,50,73.6,78,28,0,106,73.6,26.4,0.0
+Pittsburgh Ward 7 Dist 1,,,Doven,5,45.6,42,47,14,103,40.8,45.6,13.6
+Pittsburgh Ward 7 Dist 2,,,Hallam,15,45.5,106,91,36,233,45.5,39.1,15.5
+Pittsburgh Ward 7 Dist 3,,,Hallam,39,63.2,91,52,1,144,63.2,36.1,0.7
+Pittsburgh Ward 7 Dist 4,,,Hallam,72,71.2,116,44,3,163,71.2,27.0,1.8
+Pittsburgh Ward 7 Dist 5,,,Hallam,8,50.0,47,39,8,94,50.0,41.5,8.5
 Pittsburgh Ward 7 Dist 6,,,Hallam,40,66.1,72,32,5,109,66.1,29.4,4.6
 Pittsburgh Ward 7 Dist 7,,,Hallam,27,59.2,84,57,1,142,59.2,40.1,0.7
 Pittsburgh Ward 7 Dist 8,,,Hallam,66,76.9,93,27,1,121,76.9,22.3,0.8
-Pittsburgh Ward 7 Dist 9,,,Hallam,88,81.0,111,23,3,137,81.0,16.8,2.2
-Pittsburgh Ward 7 Dist 10,,,Hallam,61,64.5,131,70,2,203,64.5,34.5,1.0
-Pittsburgh Ward 7 Dist 11,,,Hallam,87,70.0,149,62,2,213,70.0,29.1,0.9
-Pittsburgh Ward 7 Dist 12,,,Hallam,84,69.1,150,66,1,217,69.1,30.4,0.5
-Pittsburgh Ward 7 Dist 13,,,Hallam,20,65.6,42,22,0,64,65.6,34.4,0.0
+Pittsburgh Ward 7 Dist 9,,,Hallam,91,81.4,114,23,3,140,81.4,16.4,2.1
+Pittsburgh Ward 7 Dist 10,,,Hallam,63,64.9,133,70,2,205,64.9,34.1,1.0
+Pittsburgh Ward 7 Dist 11,,,Hallam,88,70.1,150,62,2,214,70.1,29.0,0.9
+Pittsburgh Ward 7 Dist 12,,,Hallam,83,68.6,151,68,1,220,68.6,30.9,0.5
+Pittsburgh Ward 7 Dist 13,,,Hallam,21,66.2,43,22,0,65,66.2,33.8,0.0
 Pittsburgh Ward 7 Dist 14,,,Hallam,22,61.3,57,35,1,93,61.3,37.6,1.1
-Pittsburgh Ward 8 Dist 1,,,Hallam,34,66.0,66,32,2,100,66.0,32.0,2.0
+Pittsburgh Ward 8 Dist 1,,,Hallam,33,65.3,66,33,2,101,65.3,32.7,2.0
 Pittsburgh Ward 8 Dist 2,,,Hallam,61,67.8,116,55,0,171,67.8,32.2,0.0
-Pittsburgh Ward 8 Dist 3,,,Hallam,24,58.3,84,60,0,144,58.3,41.7,0.0
+Pittsburgh Ward 8 Dist 3,,,Hallam,24,58.2,85,61,0,146,58.2,41.8,0.0
 Pittsburgh Ward 8 Dist 4,,,Hallam,20,58.7,64,44,1,109,58.7,40.4,0.9
-Pittsburgh Ward 8 Dist 5,,,Hallam,72,68.6,131,59,1,191,68.6,30.9,0.5
+Pittsburgh Ward 8 Dist 5,,,Hallam,72,68.4,132,60,1,193,68.4,31.1,0.5
 Pittsburgh Ward 8 Dist 6,,,Hallam,32,65.1,69,37,0,106,65.1,34.9,0.0
-Pittsburgh Ward 8 Dist 7,,,Hallam,100,75.9,145,45,1,191,75.9,23.6,0.5
-Pittsburgh Ward 8 Dist 8,,,Hallam,64,67.8,118,54,2,174,67.8,31.0,1.1
-Pittsburgh Ward 8 Dist 9,,,Hallam,77,80.8,101,24,0,125,80.8,19.2,0.0
+Pittsburgh Ward 8 Dist 7,,,Hallam,101,75.8,147,46,1,194,75.8,23.7,0.5
+Pittsburgh Ward 8 Dist 8,,,Hallam,63,67.4,118,55,2,175,67.4,31.4,1.1
+Pittsburgh Ward 8 Dist 9,,,Hallam,78,81.0,102,24,0,126,81.0,19.0,0.0
 Pittsburgh Ward 8 Dist 10,,,Hallam,58,71.0,98,40,0,138,71.0,29.0,0.0
-Pittsburgh Ward 8 Dist 11,,,Hallam,52,70.1,89,37,1,127,70.1,29.1,0.8
-Pittsburgh Ward 8 Dist 12,,,Hallam,79,74.1,120,41,1,162,74.1,25.3,0.6
-Pittsburgh Ward 8 Dist 13,,,Hallam,29,69.3,52,23,0,75,69.3,30.7,0.0
-Pittsburgh Ward 9 Dist 1,,,Hallam,42,69.1,76,34,0,110,69.1,30.9,0.0
-Pittsburgh Ward 9 Dist 2,,,Hallam,57,70.6,96,39,1,136,70.6,28.7,0.7
-Pittsburgh Ward 9 Dist 3,,,Hallam,53,66.0,99,46,5,150,66.0,30.7,3.3
-Pittsburgh Ward 9 Dist 4,,,Hallam,56,71.5,93,37,0,130,71.5,28.5,0.0
+Pittsburgh Ward 8 Dist 11,,,Hallam,53,70.3,90,37,1,128,70.3,28.9,0.8
+Pittsburgh Ward 8 Dist 12,,,Hallam,80,74.2,121,41,1,163,74.2,25.2,0.6
+Pittsburgh Ward 8 Dist 13,,,Hallam,28,68.4,52,24,0,76,68.4,31.6,0.0
+Pittsburgh Ward 9 Dist 1,,,Hallam,43,69.4,77,34,0,111,69.4,30.6,0.0
+Pittsburgh Ward 9 Dist 2,,,Hallam,55,69.6,96,41,1,138,69.6,29.7,0.7
+Pittsburgh Ward 9 Dist 3,,,Hallam,54,66.2,100,46,5,151,66.2,30.5,3.3
+Pittsburgh Ward 9 Dist 4,,,Hallam,57,71.8,94,37,0,131,71.8,28.2,0.0
 Pittsburgh Ward 9 Dist 5,,,Hallam,43,61.9,109,66,1,176,61.9,37.5,0.6
-Pittsburgh Ward 9 Dist 6,,,Hallam,64,67.4,122,58,1,181,67.4,32.0,0.6
+Pittsburgh Ward 9 Dist 6,,,Hallam,64,67.2,123,59,1,183,67.2,32.2,0.5
 Pittsburgh Ward 9 Dist 7,,,Hallam,46,71.7,76,30,0,106,71.7,28.3,0.0
-Pittsburgh Ward 9 Dist 8,,,Hallam,59,67.9,112,53,0,165,67.9,32.1,0.0
-Pittsburgh Ward 9 Dist 9,,,Hallam,69,78.0,96,27,0,123,78.0,22.0,0.0
-Pittsburgh Ward 10 Dist 1,,,Hallam,75,72.5,121,46,0,167,72.5,27.5,0.0
+Pittsburgh Ward 9 Dist 8,,,Hallam,58,67.3,113,55,0,168,67.3,32.7,0.0
+Pittsburgh Ward 9 Dist 9,,,Hallam,68,77.4,96,28,0,124,77.4,22.6,0.0
+Pittsburgh Ward 10 Dist 1,,,Hallam,76,72.1,124,48,0,172,72.1,27.9,0.0
 Pittsburgh Ward 10 Dist 2,,,Hallam,64,68.4,119,55,0,174,68.4,31.6,0.0
-Pittsburgh Ward 10 Dist 3,,,Hallam,41,61.0,111,70,1,182,61.0,38.5,0.5
-Pittsburgh Ward 10 Dist 4,,,Hallam,24,55.0,126,102,1,229,55.0,44.5,0.4
+Pittsburgh Ward 10 Dist 3,,,Hallam,43,61.4,113,70,1,184,61.4,38.0,0.5
+Pittsburgh Ward 10 Dist 4,,,Hallam,24,54.9,128,104,1,233,54.9,44.6,0.4
 Pittsburgh Ward 10 Dist 5,,,Hallam,21,56.6,90,69,0,159,56.6,43.4,0.0
 Pittsburgh Ward 10 Dist 6,,,Hallam,44,63.9,101,57,0,158,63.9,36.1,0.0
-Pittsburgh Ward 10 Dist 7,,,Hallam,51,63.8,118,67,0,185,63.8,36.2,0.0
-Pittsburgh Ward 10 Dist 8,,,Hallam,38,58.3,130,92,1,223,58.3,41.3,0.4
+Pittsburgh Ward 10 Dist 7,,,Hallam,52,64.0,119,67,0,186,64.0,36.0,0.0
+Pittsburgh Ward 10 Dist 8,,,Hallam,39,58.5,131,92,1,224,58.5,41.1,0.4
 Pittsburgh Ward 10 Dist 9,,,Hallam,15,54.8,86,71,0,157,54.8,45.2,0.0
-Pittsburgh Ward 10 Dist 10,,,Hallam,27,55.3,135,108,1,244,55.3,44.3,0.4
-Pittsburgh Ward 10 Dist 11,,,Hallam,43,61.5,112,69,1,182,61.5,37.9,0.5
-Pittsburgh Ward 10 Dist 12,,,Hallam,21,56.2,95,74,0,169,56.2,43.8,0.0
-Pittsburgh Ward 10 Dist 13,,,Hallam,3,50.6,81,78,1,160,50.6,48.8,0.6
-Pittsburgh Ward 10 Dist 14,,,Hallam,29,58.4,101,72,0,173,58.4,41.6,0.0
+Pittsburgh Ward 10 Dist 10,,,Hallam,28,55.5,137,109,1,247,55.5,44.1,0.4
+Pittsburgh Ward 10 Dist 11,,,Hallam,46,62.2,115,69,1,185,62.2,37.3,0.5
+Pittsburgh Ward 10 Dist 12,,,Hallam,21,56.1,96,75,0,171,56.1,43.9,0.0
+Pittsburgh Ward 10 Dist 13,,,Hallam,5,51.2,83,78,1,162,51.2,48.1,0.6
+Pittsburgh Ward 10 Dist 14,,,Hallam,30,58.6,102,72,0,174,58.6,41.4,0.0
 Pittsburgh Ward 10 Dist 15,,,Doven,7,54.7,34,41,0,75,45.3,54.7,0.0
-Pittsburgh Ward 10 Dist 16,,,Doven,3,52.9,24,27,0,51,47.1,52.9,0.0
+Pittsburgh Ward 10 Dist 16,,,Doven,1,50.9,27,28,0,55,49.1,50.9,0.0
 Pittsburgh Ward 10 Dist 17,,,Hallam,10,55.4,51,41,0,92,55.4,44.6,0.0
-Pittsburgh Ward 10 Dist 18,,,Hallam,27,61.7,71,44,0,115,61.7,38.3,0.0
-Pittsburgh Ward 10 Dist 19,,,Hallam,26,61.6,61,35,3,99,61.6,35.4,3.0
-Pittsburgh Ward 11 Dist 1,,,Hallam,66,70.1,115,49,0,164,70.1,29.9,0.0
-Pittsburgh Ward 11 Dist 2,,,Hallam,17,57.3,67,50,0,117,57.3,42.7,0.0
-Pittsburgh Ward 11 Dist 3,,,Doven,17,60.8,31,48,0,79,39.2,60.8,0.0
-Pittsburgh Ward 11 Dist 4,,,Hallam,29,65.3,62,33,0,95,65.3,34.7,0.0
+Pittsburgh Ward 10 Dist 18,,,Hallam,25,60.7,71,46,0,117,60.7,39.3,0.0
+Pittsburgh Ward 10 Dist 19,,,Hallam,27,62.0,62,35,3,100,62.0,35.0,3.0
+Pittsburgh Ward 11 Dist 1,,,Hallam,67,70.1,117,50,0,167,70.1,29.9,0.0
+Pittsburgh Ward 11 Dist 2,,,Hallam,17,57.1,68,51,0,119,57.1,42.9,0.0
+Pittsburgh Ward 11 Dist 3,,,Doven,16,60.0,32,48,0,80,40.0,60.0,0.0
+Pittsburgh Ward 11 Dist 4,,,Hallam,28,64.6,62,34,0,96,64.6,35.4,0.0
 Pittsburgh Ward 11 Dist 5,,,Hallam,40,67.9,74,34,1,109,67.9,31.2,0.9
-Pittsburgh Ward 11 Dist 6,,,Hallam,86,72.6,138,52,0,190,72.6,27.4,0.0
-Pittsburgh Ward 11 Dist 7,,,Hallam,68,66.0,138,70,1,209,66.0,33.5,0.5
+Pittsburgh Ward 11 Dist 6,,,Hallam,88,72.4,142,54,0,196,72.4,27.6,0.0
+Pittsburgh Ward 11 Dist 7,,,Hallam,66,65.1,140,74,1,215,65.1,34.4,0.5
 Pittsburgh Ward 11 Dist 8,,,Hallam,58,69.9,102,44,0,146,69.9,30.1,0.0
-Pittsburgh Ward 11 Dist 9,,,Hallam,61,65.1,127,66,2,195,65.1,33.8,1.0
+Pittsburgh Ward 11 Dist 9,,,Hallam,61,65.0,128,67,2,197,65.0,34.0,1.0
 Pittsburgh Ward 11 Dist 10,,,Hallam,49,58.9,155,106,2,263,58.9,40.3,0.8
-Pittsburgh Ward 11 Dist 11,,,Hallam,75,70.8,126,51,1,178,70.8,28.7,0.6
+Pittsburgh Ward 11 Dist 11,,,Hallam,76,70.7,128,52,1,181,70.7,28.7,0.6
 Pittsburgh Ward 11 Dist 12,,,Hallam,71,64.4,150,79,4,233,64.4,33.9,1.7
-Pittsburgh Ward 11 Dist 13,,,Hallam,87,66.3,175,88,1,264,66.3,33.3,0.4
-Pittsburgh Ward 11 Dist 14,,,Hallam,12,54.5,60,48,2,110,54.5,43.6,1.8
-Pittsburgh Ward 11 Dist 15,,,Doven,10,60.9,18,28,0,46,39.1,60.9,0.0
+Pittsburgh Ward 11 Dist 13,,,Hallam,87,65.9,178,91,1,270,65.9,33.7,0.4
+Pittsburgh Ward 11 Dist 14,,,Hallam,14,55.3,63,49,2,114,55.3,43.0,1.8
+Pittsburgh Ward 11 Dist 15,,,Doven,9,59.6,19,28,0,47,40.4,59.6,0.0
 Pittsburgh Ward 11 Dist 16,,,Hallam,49,73.5,75,26,1,102,73.5,25.5,1.0
-Pittsburgh Ward 11 Dist 17,,,Hallam,50,67.4,97,47,0,144,67.4,32.6,0.0
-Pittsburgh Ward 11 Dist 18,,,Hallam,26,65.1,56,30,0,86,65.1,34.9,0.0
+Pittsburgh Ward 11 Dist 17,,,Hallam,49,66.9,97,48,0,145,66.9,33.1,0.0
+Pittsburgh Ward 11 Dist 18,,,Hallam,27,65.5,57,30,0,87,65.5,34.5,0.0
 Pittsburgh Ward 12 Dist 1,,,Doven,6,61.5,10,16,0,26,38.5,61.5,0.0
 Pittsburgh Ward 12 Dist 2,,,Hallam,0,48.3,14,14,1,29,48.3,48.3,3.4
 Pittsburgh Ward 12 Dist 3,,,Hallam,2,51.7,15,13,1,29,51.7,44.8,3.4
@@ -716,96 +716,96 @@ Pittsburgh Ward 12 Dist 5,,,Doven,7,70.6,5,12,0,17,29.4,70.6,0.0
 Pittsburgh Ward 12 Dist 6,,,Doven,2,52.9,16,18,0,34,47.1,52.9,0.0
 Pittsburgh Ward 12 Dist 7,,,Doven,7,57.9,15,22,1,38,39.5,57.9,2.6
 Pittsburgh Ward 12 Dist 8,,,Doven,5,57.6,14,19,0,33,42.4,57.6,0.0
-Pittsburgh Ward 12 Dist 9,,,Doven,19,72.1,12,31,0,43,27.9,72.1,0.0
-Pittsburgh Ward 12 Dist 10,,,Doven,7,53.7,44,51,0,95,46.3,53.7,0.0
-Pittsburgh Ward 12 Dist 11,,,Doven,20,59.8,32,52,3,87,36.8,59.8,3.4
+Pittsburgh Ward 12 Dist 9,,,Doven,20,72.7,12,32,0,44,27.3,72.7,0.0
+Pittsburgh Ward 12 Dist 10,,,Doven,7,53.6,45,52,0,97,46.4,53.6,0.0
+Pittsburgh Ward 12 Dist 11,,,Doven,19,59.1,33,52,3,88,37.5,59.1,3.4
 Pittsburgh Ward 12 Dist 12,,,Doven,15,56.7,44,59,1,104,42.3,56.7,1.0
-Pittsburgh Ward 12 Dist 13,,,Doven,11,57.5,31,42,0,73,42.5,57.5,0.0
-Pittsburgh Ward 12 Dist 14,,,Hallam,0,50.0,29,29,0,58,50.0,50.0,0.0
-Pittsburgh Ward 12 Dist 15,,,Hallam,21,58.3,70,49,1,120,58.3,40.8,0.8
+Pittsburgh Ward 12 Dist 13,,,Doven,10,56.8,32,42,0,74,43.2,56.8,0.0
+Pittsburgh Ward 12 Dist 14,,,Hallam,1,50.8,30,29,0,59,50.8,49.2,0.0
+Pittsburgh Ward 12 Dist 15,,,Hallam,20,57.9,70,50,1,121,57.9,41.3,0.8
 Pittsburgh Ward 12 Dist 16,,,Doven,8,54.5,34,42,1,77,44.2,54.5,1.3
-Pittsburgh Ward 13 Dist 1,,,Doven,8,56.5,27,35,0,62,43.5,56.5,0.0
-Pittsburgh Ward 13 Dist 2,,,Doven,6,54.1,27,33,1,61,44.3,54.1,1.6
+Pittsburgh Ward 13 Dist 1,,,Doven,7,55.6,28,35,0,63,44.4,55.6,0.0
+Pittsburgh Ward 13 Dist 2,,,Doven,7,54.8,27,34,1,62,43.5,54.8,1.6
 Pittsburgh Ward 13 Dist 3,,,Hallam,5,55.6,25,20,0,45,55.6,44.4,0.0
 Pittsburgh Ward 13 Dist 4,,,Hallam,3,54.1,20,17,0,37,54.1,45.9,0.0
-Pittsburgh Ward 13 Dist 5,,,Doven,11,61.2,19,30,0,49,38.8,61.2,0.0
-Pittsburgh Ward 13 Dist 6,,,Doven,7,55.6,28,35,0,63,44.4,55.6,0.0
-Pittsburgh Ward 13 Dist 7,,,Hallam,2,51.0,25,23,1,49,51.0,46.9,2.0
-Pittsburgh Ward 13 Dist 8,,,Hallam,7,57.1,28,21,0,49,57.1,42.9,0.0
+Pittsburgh Ward 13 Dist 5,,,Doven,10,59.6,21,31,0,52,40.4,59.6,0.0
+Pittsburgh Ward 13 Dist 6,,,Doven,6,54.7,29,35,0,64,45.3,54.7,0.0
+Pittsburgh Ward 13 Dist 7,,,Hallam,3,52.0,26,23,1,50,52.0,46.0,2.0
+Pittsburgh Ward 13 Dist 8,,,Hallam,8,58.0,29,21,0,50,58.0,42.0,0.0
 Pittsburgh Ward 13 Dist 9,,,Doven,2,52.9,16,18,0,34,47.1,52.9,0.0
 Pittsburgh Ward 13 Dist 10,,,Hallam,0,50.0,11,11,0,22,50.0,50.0,0.0
 Pittsburgh Ward 13 Dist 11,,,Doven,3,54.3,16,19,0,35,45.7,54.3,0.0
-Pittsburgh Ward 13 Dist 12,,,Doven,31,71.2,21,52,0,73,28.8,71.2,0.0
+Pittsburgh Ward 13 Dist 12,,,Doven,32,71.6,21,53,0,74,28.4,71.6,0.0
 Pittsburgh Ward 13 Dist 13,,,Doven,7,60.6,13,20,0,33,39.4,60.6,0.0
 Pittsburgh Ward 13 Dist 14,,,Doven,11,62.8,16,27,0,43,37.2,62.8,0.0
 Pittsburgh Ward 13 Dist 15,,,Hallam,21,68.4,39,18,0,57,68.4,31.6,0.0
-Pittsburgh Ward 13 Dist 16,,,Doven,10,61.0,15,25,1,41,36.6,61.0,2.4
+Pittsburgh Ward 13 Dist 16,,,Doven,11,61.9,15,26,1,42,35.7,61.9,2.4
 Pittsburgh Ward 13 Dist 17,,,Doven,8,54.2,44,52,0,96,45.8,54.2,0.0
 Pittsburgh Ward 13 Dist 18,,,Doven,2,62.5,3,5,0,8,37.5,62.5,0.0
 Pittsburgh Ward 13 Dist 19,,,Doven,23,58.3,54,77,1,132,40.9,58.3,0.8
-Pittsburgh Ward 14 Dist 1,,,Hallam,31,67.0,61,30,0,91,67.0,33.0,0.0
-Pittsburgh Ward 14 Dist 2,,,Doven,22,60.6,38,60,1,99,38.4,60.6,1.0
-Pittsburgh Ward 14 Dist 3,,,Hallam,77,62.9,173,96,6,275,62.9,34.9,2.2
-Pittsburgh Ward 14 Dist 4,,,Hallam,81,65.1,170,89,2,261,65.1,34.1,0.8
-Pittsburgh Ward 14 Dist 5,,,Hallam,44,57.7,146,102,5,253,57.7,40.3,2.0
+Pittsburgh Ward 14 Dist 1,,,Hallam,33,67.7,63,30,0,93,67.7,32.3,0.0
+Pittsburgh Ward 14 Dist 2,,,Doven,21,59.6,41,62,1,104,39.4,59.6,1.0
+Pittsburgh Ward 14 Dist 3,,,Hallam,74,62.2,173,99,6,278,62.2,35.6,2.2
+Pittsburgh Ward 14 Dist 4,,,Hallam,81,65.0,171,90,2,263,65.0,34.2,0.8
+Pittsburgh Ward 14 Dist 5,,,Hallam,43,57.4,147,104,5,256,57.4,40.6,2.0
 Pittsburgh Ward 14 Dist 6,,,Doven,1,50.4,57,58,0,115,49.6,50.4,0.0
-Pittsburgh Ward 14 Dist 7,,,Hallam,19,60.9,53,34,0,87,60.9,39.1,0.0
-Pittsburgh Ward 14 Dist 8,,,Hallam,42,57.3,122,80,11,213,57.3,37.6,5.2
-Pittsburgh Ward 14 Dist 9,,,Doven,2,48.1,138,140,13,291,47.4,48.1,4.5
-Pittsburgh Ward 14 Dist 10,,,Hallam,56,59.6,149,93,8,250,59.6,37.2,3.2
-Pittsburgh Ward 14 Dist 11,,,Hallam,71,61.6,172,101,6,279,61.6,36.2,2.2
-Pittsburgh Ward 14 Dist 12,,,Hallam,70,69.1,125,55,1,181,69.1,30.4,0.6
-Pittsburgh Ward 14 Dist 13,,,Hallam,83,65.6,172,89,1,262,65.6,34.0,0.4
-Pittsburgh Ward 14 Dist 14,,,Hallam,78,63.6,178,100,2,280,63.6,35.7,0.7
-Pittsburgh Ward 14 Dist 15,,,Hallam,105,74.2,161,56,0,217,74.2,25.8,0.0
-Pittsburgh Ward 14 Dist 16,,,Hallam,45,62.9,107,62,1,170,62.9,36.5,0.6
-Pittsburgh Ward 14 Dist 17,,,Hallam,95,75.1,136,41,4,181,75.1,22.7,2.2
+Pittsburgh Ward 14 Dist 7,,,Hallam,18,60.2,53,35,0,88,60.2,39.8,0.0
+Pittsburgh Ward 14 Dist 8,,,Hallam,43,57.5,123,80,11,214,57.5,37.4,5.1
+Pittsburgh Ward 14 Dist 9,,,Doven,3,48.3,138,141,13,292,47.3,48.3,4.5
+Pittsburgh Ward 14 Dist 10,,,Hallam,58,59.9,151,93,8,252,59.9,36.9,3.2
+Pittsburgh Ward 14 Dist 11,,,Hallam,70,61.4,172,102,6,280,61.4,36.4,2.1
+Pittsburgh Ward 14 Dist 12,,,Hallam,70,68.9,126,56,1,183,68.9,30.6,0.5
+Pittsburgh Ward 14 Dist 13,,,Hallam,86,66.0,175,89,1,265,66.0,33.6,0.4
+Pittsburgh Ward 14 Dist 14,,,Hallam,78,63.3,181,103,2,286,63.3,36.0,0.7
+Pittsburgh Ward 14 Dist 15,,,Hallam,107,74.4,163,56,0,219,74.4,25.6,0.0
+Pittsburgh Ward 14 Dist 16,,,Hallam,43,62.2,107,64,1,172,62.2,37.2,0.6
+Pittsburgh Ward 14 Dist 17,,,Hallam,98,75.5,139,41,4,184,75.5,22.3,2.2
 Pittsburgh Ward 14 Dist 18,,,Hallam,105,70.5,179,74,1,254,70.5,29.1,0.4
-Pittsburgh Ward 14 Dist 19,,,Hallam,74,62.5,172,98,5,275,62.5,35.6,1.8
-Pittsburgh Ward 14 Dist 20,,,Hallam,57,64.1,125,68,2,195,64.1,34.9,1.0
-Pittsburgh Ward 14 Dist 21,,,Hallam,78,64.4,150,72,11,233,64.4,30.9,4.7
-Pittsburgh Ward 14 Dist 22,,,Hallam,117,74.7,177,60,0,237,74.7,25.3,0.0
-Pittsburgh Ward 14 Dist 23,,,Hallam,58,59.8,150,92,9,251,59.8,36.7,3.6
+Pittsburgh Ward 14 Dist 19,,,Hallam,73,62.3,172,99,5,276,62.3,35.9,1.8
+Pittsburgh Ward 14 Dist 20,,,Hallam,54,63.1,125,71,2,198,63.1,35.9,1.0
+Pittsburgh Ward 14 Dist 21,,,Hallam,80,64.6,153,73,11,237,64.6,30.8,4.6
+Pittsburgh Ward 14 Dist 22,,,Hallam,119,74.9,179,60,0,239,74.9,25.1,0.0
+Pittsburgh Ward 14 Dist 23,,,Hallam,59,59.8,152,93,9,254,59.8,36.6,3.5
 Pittsburgh Ward 14 Dist 24,,,Hallam,40,51.2,85,45,36,166,51.2,27.1,21.7
-Pittsburgh Ward 14 Dist 25,,,Hallam,32,54.5,170,138,4,312,54.5,44.2,1.3
+Pittsburgh Ward 14 Dist 25,,,Hallam,31,54.2,174,143,4,321,54.2,44.5,1.2
 Pittsburgh Ward 14 Dist 26,,,Hallam,74,66.2,139,65,6,210,66.2,31.0,2.9
-Pittsburgh Ward 14 Dist 27,,,Hallam,37,58.4,115,78,4,197,58.4,39.6,2.0
-Pittsburgh Ward 14 Dist 28,,,Hallam,19,55.4,98,79,0,177,55.4,44.6,0.0
-Pittsburgh Ward 14 Dist 29,,,Hallam,59,62.2,143,84,3,230,62.2,36.5,1.3
-Pittsburgh Ward 14 Dist 30,,,Hallam,56,61.8,141,85,2,228,61.8,37.3,0.9
-Pittsburgh Ward 14 Dist 31,,,Hallam,51,55.9,224,173,4,401,55.9,43.1,1.0
-Pittsburgh Ward 14 Dist 32,,,Hallam,81,76.1,118,37,0,155,76.1,23.9,0.0
-Pittsburgh Ward 14 Dist 33,,,Hallam,60,67.5,112,52,2,166,67.5,31.3,1.2
-Pittsburgh Ward 14 Dist 34,,,Hallam,50,63.4,111,61,3,175,63.4,34.9,1.7
+Pittsburgh Ward 14 Dist 27,,,Hallam,37,58.3,116,79,4,199,58.3,39.7,2.0
+Pittsburgh Ward 14 Dist 28,,,Hallam,18,55.1,98,80,0,178,55.1,44.9,0.0
+Pittsburgh Ward 14 Dist 29,,,Hallam,60,62.2,145,85,3,233,62.2,36.5,1.3
+Pittsburgh Ward 14 Dist 30,,,Hallam,55,61.5,142,87,2,231,61.5,37.7,0.9
+Pittsburgh Ward 14 Dist 31,,,Hallam,49,55.6,225,176,4,405,55.6,43.5,1.0
+Pittsburgh Ward 14 Dist 32,,,Hallam,82,76.3,119,37,0,156,76.3,23.7,0.0
+Pittsburgh Ward 14 Dist 33,,,Hallam,62,67.9,114,52,2,168,67.9,31.0,1.2
+Pittsburgh Ward 14 Dist 34,,,Hallam,51,63.6,112,61,3,176,63.6,34.7,1.7
 Pittsburgh Ward 14 Dist 35,,,Hallam,54,62.8,125,71,3,199,62.8,35.7,1.5
-Pittsburgh Ward 14 Dist 36,,,Hallam,72,69.4,129,57,0,186,69.4,30.6,0.0
+Pittsburgh Ward 14 Dist 36,,,Hallam,73,69.5,130,57,0,187,69.5,30.5,0.0
 Pittsburgh Ward 14 Dist 37,,,Hallam,9,53.5,68,59,0,127,53.5,46.5,0.0
-Pittsburgh Ward 14 Dist 38,,,Hallam,60,65.9,118,58,3,179,65.9,32.4,1.7
-Pittsburgh Ward 14 Dist 39,,,Hallam,77,73.2,120,43,1,164,73.2,26.2,0.6
-Pittsburgh Ward 14 Dist 40,,,Hallam,44,69.4,77,33,1,111,69.4,29.7,0.9
+Pittsburgh Ward 14 Dist 38,,,Hallam,59,65.6,118,59,3,180,65.6,32.8,1.7
+Pittsburgh Ward 14 Dist 39,,,Hallam,75,72.3,120,45,1,166,72.3,27.1,0.6
+Pittsburgh Ward 14 Dist 40,,,Hallam,43,68.8,77,34,1,112,68.8,30.4,0.9
 Pittsburgh Ward 14 Dist 41,,,Doven,10,75.0,5,15,0,20,25.0,75.0,0.0
-Pittsburgh Ward 15 Dist 1,,,Hallam,34,62.1,87,53,0,140,62.1,37.9,0.0
-Pittsburgh Ward 15 Dist 2,,,Hallam,40,61.5,104,64,1,169,61.5,37.9,0.6
-Pittsburgh Ward 15 Dist 3,,,Hallam,40,61.9,99,59,2,160,61.9,36.9,1.3
-Pittsburgh Ward 15 Dist 4,,,Hallam,62,65.8,129,67,0,196,65.8,34.2,0.0
-Pittsburgh Ward 15 Dist 5,,,Hallam,41,64.5,91,50,0,141,64.5,35.5,0.0
+Pittsburgh Ward 15 Dist 1,,,Hallam,36,62.7,89,53,0,142,62.7,37.3,0.0
+Pittsburgh Ward 15 Dist 2,,,Hallam,41,61.8,105,64,1,170,61.8,37.6,0.6
+Pittsburgh Ward 15 Dist 3,,,Hallam,38,61.1,99,61,2,162,61.1,37.7,1.2
+Pittsburgh Ward 15 Dist 4,,,Hallam,61,65.5,129,68,0,197,65.5,34.5,0.0
+Pittsburgh Ward 15 Dist 5,,,Hallam,40,64.1,91,51,0,142,64.1,35.9,0.0
 Pittsburgh Ward 15 Dist 6,,,Hallam,40,60.9,112,72,0,184,60.9,39.1,0.0
-Pittsburgh Ward 15 Dist 7,,,Hallam,13,53.2,107,94,0,201,53.2,46.8,0.0
-Pittsburgh Ward 15 Dist 8,,,Hallam,26,58.2,92,66,0,158,58.2,41.8,0.0
-Pittsburgh Ward 15 Dist 9,,,Hallam,9,60.0,27,18,0,45,60.0,40.0,0.0
+Pittsburgh Ward 15 Dist 7,,,Hallam,14,53.5,108,94,0,202,53.5,46.5,0.0
+Pittsburgh Ward 15 Dist 8,,,Hallam,29,59.0,95,66,0,161,59.0,41.0,0.0
+Pittsburgh Ward 15 Dist 9,,,Hallam,10,60.9,28,18,0,46,60.9,39.1,0.0
 Pittsburgh Ward 15 Dist 10,,,Hallam,21,55.9,100,79,0,179,55.9,44.1,0.0
-Pittsburgh Ward 15 Dist 11,,,Hallam,14,54.9,79,65,0,144,54.9,45.1,0.0
-Pittsburgh Ward 15 Dist 12,,,Doven,6,51.6,58,64,2,124,46.8,51.6,1.6
+Pittsburgh Ward 15 Dist 11,,,Hallam,14,54.8,80,66,0,146,54.8,45.2,0.0
+Pittsburgh Ward 15 Dist 12,,,Doven,8,52.4,58,66,2,126,46.0,52.4,1.6
 Pittsburgh Ward 15 Dist 13,,,Hallam,10,56.8,42,32,0,74,56.8,43.2,0.0
 Pittsburgh Ward 15 Dist 14,,,Doven,9,61.5,15,24,0,39,38.5,61.5,0.0
 Pittsburgh Ward 15 Dist 15,,,Hallam,0,50.0,17,17,0,34,50.0,50.0,0.0
-Pittsburgh Ward 15 Dist 16,,,Hallam,5,52.7,49,44,0,93,52.7,47.3,0.0
+Pittsburgh Ward 15 Dist 16,,,Hallam,5,52.6,50,45,0,95,52.6,47.4,0.0
 Pittsburgh Ward 15 Dist 17,,,Hallam,0,50.0,3,3,0,6,50.0,50.0,0.0
 Pittsburgh Ward 15 Dist 18,,,Doven,25,65.4,26,51,1,78,33.3,65.4,1.3
-Pittsburgh Ward 15 Dist 19,,,Doven,23,70.9,16,39,0,55,29.1,70.9,0.0
-Pittsburgh Ward 16 Dist 1,,,Hallam,39,61.9,99,60,1,160,61.9,37.5,0.6
-Pittsburgh Ward 16 Dist 2,,,Hallam,67,71.3,112,45,0,157,71.3,28.7,0.0
-Pittsburgh Ward 16 Dist 3,,,Hallam,34,61.4,89,55,1,145,61.4,37.9,0.7
+Pittsburgh Ward 15 Dist 19,,,Doven,22,69.0,18,40,0,58,31.0,69.0,0.0
+Pittsburgh Ward 16 Dist 1,,,Hallam,41,62.3,101,60,1,162,62.3,37.0,0.6
+Pittsburgh Ward 16 Dist 2,,,Hallam,70,71.6,116,46,0,162,71.6,28.4,0.0
+Pittsburgh Ward 16 Dist 3,,,Hallam,36,61.9,91,55,1,147,61.9,37.4,0.7
 Pittsburgh Ward 16 Dist 4,,,Hallam,23,69.5,41,18,0,59,69.5,30.5,0.0
 Pittsburgh Ward 16 Dist 5,,,Hallam,28,63.2,67,39,0,106,63.2,36.8,0.0
 Pittsburgh Ward 16 Dist 6,,,Hallam,22,62.5,55,33,0,88,62.5,37.5,0.0
@@ -816,130 +816,130 @@ Pittsburgh Ward 16 Dist 10,,,Hallam,12,58.8,40,28,0,68,58.8,41.2,0.0
 Pittsburgh Ward 16 Dist 11,,,Hallam,6,55.0,33,27,0,60,55.0,45.0,0.0
 Pittsburgh Ward 17 Dist 1,,,Hallam,11,73.9,17,6,0,23,73.9,26.1,0.0
 Pittsburgh Ward 17 Dist 2,,,Hallam,28,61.3,73,45,1,119,61.3,37.8,0.8
-Pittsburgh Ward 17 Dist 3,,,Hallam,26,62.0,67,41,0,108,62.0,38.0,0.0
+Pittsburgh Ward 17 Dist 3,,,Hallam,27,62.4,68,41,0,109,62.4,37.6,0.0
 Pittsburgh Ward 17 Dist 4,,,Hallam,50,66.0,99,49,2,150,66.0,32.7,1.3
 Pittsburgh Ward 17 Dist 5,,,Hallam,12,55.9,57,45,0,102,55.9,44.1,0.0
 Pittsburgh Ward 17 Dist 6,,,Hallam,11,60.8,31,20,0,51,60.8,39.2,0.0
 Pittsburgh Ward 17 Dist 7,,,Hallam,28,68.0,51,23,1,75,68.0,30.7,1.3
-Pittsburgh Ward 17 Dist 8,,,Hallam,14,59.0,46,32,0,78,59.0,41.0,0.0
-Pittsburgh Ward 18 Dist 1,,,Doven,11,53.9,65,76,0,141,46.1,53.9,0.0
-Pittsburgh Ward 18 Dist 2,,,Doven,18,59.3,30,48,3,81,37.0,59.3,3.7
+Pittsburgh Ward 17 Dist 8,,,Hallam,16,60.0,48,32,0,80,60.0,40.0,0.0
+Pittsburgh Ward 18 Dist 1,,,Doven,10,53.5,66,76,0,142,46.5,53.5,0.0
+Pittsburgh Ward 18 Dist 2,,,Doven,16,57.8,32,48,3,83,38.6,57.8,3.6
 Pittsburgh Ward 18 Dist 3,,,Doven,7,54.8,27,34,1,62,43.5,54.8,1.6
-Pittsburgh Ward 18 Dist 4,,,Hallam,4,52.5,42,38,0,80,52.5,47.5,0.0
-Pittsburgh Ward 18 Dist 5,,,Hallam,43,63.6,98,55,1,154,63.6,35.7,0.6
+Pittsburgh Ward 18 Dist 4,,,Hallam,5,53.0,44,39,0,83,53.0,47.0,0.0
+Pittsburgh Ward 18 Dist 5,,,Hallam,44,63.9,99,55,1,155,63.9,35.5,0.6
 Pittsburgh Ward 18 Dist 6,,,Hallam,4,52.9,27,23,1,51,52.9,45.1,2.0
 Pittsburgh Ward 18 Dist 7,,,Hallam,18,65.5,36,18,1,55,65.5,32.7,1.8
 Pittsburgh Ward 18 Dist 8,,,Hallam,3,55.6,15,12,0,27,55.6,44.4,0.0
 Pittsburgh Ward 18 Dist 9,,,Doven,5,52.4,38,43,1,82,46.3,52.4,1.2
-Pittsburgh Ward 18 Dist 10,,,Doven,2,66.7,2,4,0,6,33.3,66.7,0.0
+Pittsburgh Ward 18 Dist 10,,,Doven,1,57.1,3,4,0,7,42.9,57.1,0.0
 Pittsburgh Ward 18 Dist 11,,,Hallam,0,50.0,26,26,0,52,50.0,50.0,0.0
-Pittsburgh Ward 19 Dist 1,,,Doven,34,63.0,46,80,1,127,36.2,63.0,0.8
-Pittsburgh Ward 19 Dist 2,,,Hallam,24,59.8,70,46,1,117,59.8,39.3,0.9
-Pittsburgh Ward 19 Dist 3,,,Hallam,3,51.4,57,54,0,111,51.4,48.6,0.0
-Pittsburgh Ward 19 Dist 4,,,Doven,12,55.0,43,55,2,100,43.0,55.0,2.0
-Pittsburgh Ward 19 Dist 5,,,Hallam,4,53.7,29,25,0,54,53.7,46.3,0.0
-Pittsburgh Ward 19 Dist 6,,,Hallam,3,50.6,42,39,2,83,50.6,47.0,2.4
-Pittsburgh Ward 19 Dist 7,,,Hallam,14,75.0,21,7,0,28,75.0,25.0,0.0
+Pittsburgh Ward 19 Dist 1,,,Doven,34,62.8,47,81,1,129,36.4,62.8,0.8
+Pittsburgh Ward 19 Dist 2,,,Hallam,25,60.2,71,46,1,118,60.2,39.0,0.8
+Pittsburgh Ward 19 Dist 3,,,Hallam,2,50.9,57,55,0,112,50.9,49.1,0.0
+Pittsburgh Ward 19 Dist 4,,,Doven,12,54.9,44,56,2,102,43.1,54.9,2.0
+Pittsburgh Ward 19 Dist 5,,,Hallam,5,54.5,30,25,0,55,54.5,45.5,0.0
+Pittsburgh Ward 19 Dist 6,,,Hallam,4,51.2,43,39,2,84,51.2,46.4,2.4
+Pittsburgh Ward 19 Dist 7,,,Hallam,15,75.9,22,7,0,29,75.9,24.1,0.0
 Pittsburgh Ward 19 Dist 8,,,Hallam,26,67.6,50,24,0,74,67.6,32.4,0.0
 Pittsburgh Ward 19 Dist 9,,,Hallam,12,58.6,41,29,0,70,58.6,41.4,0.0
-Pittsburgh Ward 19 Dist 10,,,Hallam,12,57.0,49,37,0,86,57.0,43.0,0.0
+Pittsburgh Ward 19 Dist 10,,,Hallam,12,56.8,50,38,0,88,56.8,43.2,0.0
 Pittsburgh Ward 19 Dist 11,,,Doven,2,52.1,23,25,0,48,47.9,52.1,0.0
-Pittsburgh Ward 19 Dist 12,,,Hallam,6,52.4,66,60,0,126,52.4,47.6,0.0
+Pittsburgh Ward 19 Dist 12,,,Hallam,5,52.0,66,61,0,127,52.0,48.0,0.0
 Pittsburgh Ward 19 Dist 13,,,Hallam,20,67.9,38,18,0,56,67.9,32.1,0.0
-Pittsburgh Ward 19 Dist 14,,,Doven,7,54.8,33,40,0,73,45.2,54.8,0.0
+Pittsburgh Ward 19 Dist 14,,,Doven,8,55.4,33,41,0,74,44.6,55.4,0.0
 Pittsburgh Ward 19 Dist 15,,,Hallam,27,61.1,69,42,2,113,61.1,37.2,1.8
-Pittsburgh Ward 19 Dist 16,,,Hallam,33,65.1,71,38,0,109,65.1,34.9,0.0
-Pittsburgh Ward 19 Dist 17,,,Hallam,26,60.2,77,51,0,128,60.2,39.8,0.0
+Pittsburgh Ward 19 Dist 16,,,Hallam,32,64.5,71,39,0,110,64.5,35.5,0.0
+Pittsburgh Ward 19 Dist 17,,,Hallam,27,60.5,78,51,0,129,60.5,39.5,0.0
 Pittsburgh Ward 19 Dist 18,,,Doven,6,53.2,44,50,0,94,46.8,53.2,0.0
-Pittsburgh Ward 19 Dist 19,,,Hallam,12,56.4,53,41,0,94,56.4,43.6,0.0
+Pittsburgh Ward 19 Dist 19,,,Hallam,14,57.3,55,41,0,96,57.3,42.7,0.0
 Pittsburgh Ward 19 Dist 20,,,Hallam,21,59.6,62,41,1,104,59.6,39.4,1.0
-Pittsburgh Ward 19 Dist 21,,,Hallam,6,51.5,70,64,2,136,51.5,47.1,1.5
-Pittsburgh Ward 19 Dist 22,,,Hallam,20,58.6,65,45,1,111,58.6,40.5,0.9
-Pittsburgh Ward 19 Dist 23,,,Hallam,9,55.1,49,40,0,89,55.1,44.9,0.0
+Pittsburgh Ward 19 Dist 21,,,Hallam,7,51.8,71,64,2,137,51.8,46.7,1.5
+Pittsburgh Ward 19 Dist 22,,,Hallam,21,58.9,66,45,1,112,58.9,40.2,0.9
+Pittsburgh Ward 19 Dist 23,,,Hallam,10,55.6,50,40,0,90,55.6,44.4,0.0
 Pittsburgh Ward 19 Dist 24,,,Hallam,22,61.3,57,35,1,93,61.3,37.6,1.1
 Pittsburgh Ward 19 Dist 25,,,Hallam,40,64.2,88,48,1,137,64.2,35.0,0.7
 Pittsburgh Ward 19 Dist 26,,,Hallam,39,67.6,71,32,2,105,67.6,30.5,1.9
 Pittsburgh Ward 19 Dist 27,,,Doven,5,52.5,47,52,0,99,47.5,52.5,0.0
 Pittsburgh Ward 19 Dist 28,,,Hallam,19,54.1,113,94,2,209,54.1,45.0,1.0
 Pittsburgh Ward 19 Dist 29,,,Hallam,29,65.6,61,32,0,93,65.6,34.4,0.0
-Pittsburgh Ward 19 Dist 30,,,Hallam,30,61.9,78,48,0,126,61.9,38.1,0.0
-Pittsburgh Ward 19 Dist 31,,,Hallam,7,52.6,61,54,1,116,52.6,46.6,0.9
+Pittsburgh Ward 19 Dist 30,,,Hallam,29,61.4,78,49,0,127,61.4,38.6,0.0
+Pittsburgh Ward 19 Dist 31,,,Hallam,6,52.1,61,55,1,117,52.1,47.0,0.9
 Pittsburgh Ward 19 Dist 32,,,Hallam,27,61.2,74,47,0,121,61.2,38.8,0.0
 Pittsburgh Ward 19 Dist 33,,,Doven,11,56.2,39,50,0,89,43.8,56.2,0.0
-Pittsburgh Ward 19 Dist 34,,,Hallam,16,55.4,62,46,4,112,55.4,41.1,3.6
+Pittsburgh Ward 19 Dist 34,,,Hallam,17,55.8,63,46,4,113,55.8,40.7,3.5
 Pittsburgh Ward 19 Dist 35,,,Hallam,13,56.6,56,43,0,99,56.6,43.4,0.0
 Pittsburgh Ward 19 Dist 36,,,Doven,6,52.1,70,76,0,146,47.9,52.1,0.0
 Pittsburgh Ward 19 Dist 37,,,Doven,9,54.9,41,50,0,91,45.1,54.9,0.0
 Pittsburgh Ward 19 Dist 38,,,Hallam,39,68.9,71,32,0,103,68.9,31.1,0.0
 Pittsburgh Ward 20 Dist 1,,,Doven,8,53.2,58,66,0,124,46.8,53.2,0.0
 Pittsburgh Ward 20 Dist 2,,,Hallam,7,58.8,20,13,1,34,58.8,38.2,2.9
-Pittsburgh Ward 20 Dist 3,,,Hallam,17,55.4,77,60,2,139,55.4,43.2,1.4
+Pittsburgh Ward 20 Dist 3,,,Hallam,16,55.0,77,61,2,140,55.0,43.6,1.4
 Pittsburgh Ward 20 Dist 4,,,Hallam,4,60.0,12,8,0,20,60.0,40.0,0.0
 Pittsburgh Ward 20 Dist 5,,,Hallam,16,58.3,56,40,0,96,58.3,41.7,0.0
 Pittsburgh Ward 20 Dist 6,,,Hallam,0,50.0,33,33,0,66,50.0,50.0,0.0
-Pittsburgh Ward 20 Dist 7,,,Hallam,3,51.9,40,37,0,77,51.9,48.1,0.0
-Pittsburgh Ward 20 Dist 8,,,Hallam,17,58.1,61,44,0,105,58.1,41.9,0.0
+Pittsburgh Ward 20 Dist 7,,,Hallam,4,52.6,41,37,0,78,52.6,47.4,0.0
+Pittsburgh Ward 20 Dist 8,,,Hallam,16,57.4,62,46,0,108,57.4,42.6,0.0
 Pittsburgh Ward 20 Dist 9,,,Hallam,14,75.0,18,4,2,24,75.0,16.7,8.3
 Pittsburgh Ward 20 Dist 10,,,Doven,8,54.5,34,42,1,77,44.2,54.5,1.3
-Pittsburgh Ward 20 Dist 11,,,Hallam,8,56.3,36,28,0,64,56.3,43.8,0.0
+Pittsburgh Ward 20 Dist 11,,,Hallam,9,56.9,37,28,0,65,56.9,43.1,0.0
 Pittsburgh Ward 20 Dist 12,,,Hallam,21,56.9,87,66,0,153,56.9,43.1,0.0
 Pittsburgh Ward 20 Dist 13,,,Hallam,5,52.9,45,40,0,85,52.9,47.1,0.0
-Pittsburgh Ward 20 Dist 14,,,Hallam,4,51.2,84,80,0,164,51.2,48.8,0.0
-Pittsburgh Ward 20 Dist 15,,,Doven,3,51.4,51,54,0,105,48.6,51.4,0.0
+Pittsburgh Ward 20 Dist 14,,,Hallam,2,50.6,84,82,0,166,50.6,49.4,0.0
+Pittsburgh Ward 20 Dist 15,,,Doven,5,52.3,51,56,0,107,47.7,52.3,0.0
 Pittsburgh Ward 20 Dist 16,,,Doven,17,56.5,48,65,2,115,41.7,56.5,1.7
 Pittsburgh Ward 20 Dist 17,,,Doven,10,54.5,44,54,1,99,44.4,54.5,1.0
 Pittsburgh Ward 20 Dist 18,,,Doven,34,67.0,33,67,0,100,33.0,67.0,0.0
 Pittsburgh Ward 21 Dist 1,,,Hallam,19,60.5,49,30,2,81,60.5,37.0,2.5
 Pittsburgh Ward 21 Dist 2,,,Hallam,33,66.3,67,34,0,101,66.3,33.7,0.0
 Pittsburgh Ward 21 Dist 3,,,Hallam,40,64.3,83,43,3,129,64.3,33.3,2.3
-Pittsburgh Ward 21 Dist 4,,,Hallam,21,59.4,60,39,2,101,59.4,38.6,2.0
+Pittsburgh Ward 21 Dist 4,,,Hallam,20,58.8,60,40,2,102,58.8,39.2,2.0
 Pittsburgh Ward 22 Dist 1,,,Hallam,50,63.5,113,63,2,178,63.5,35.4,1.1
-Pittsburgh Ward 22 Dist 2,,,Hallam,98,78.0,135,37,1,173,78.0,21.4,0.6
+Pittsburgh Ward 22 Dist 2,,,Hallam,97,77.3,136,39,1,176,77.3,22.2,0.6
 Pittsburgh Ward 22 Dist 3,,,Hallam,45,64.1,100,55,1,156,64.1,35.3,0.6
-Pittsburgh Ward 22 Dist 4,,,Hallam,39,74.4,58,19,1,78,74.4,24.4,1.3
-Pittsburgh Ward 23 Dist 1,,,Hallam,41,62.2,102,61,1,164,62.2,37.2,0.6
-Pittsburgh Ward 23 Dist 2,,,Hallam,83,75.3,122,39,1,162,75.3,24.1,0.6
+Pittsburgh Ward 22 Dist 4,,,Hallam,40,74.7,59,19,1,79,74.7,24.1,1.3
+Pittsburgh Ward 23 Dist 1,,,Hallam,41,62.0,103,62,1,166,62.0,37.3,0.6
+Pittsburgh Ward 23 Dist 2,,,Hallam,82,74.8,122,40,1,163,74.8,24.5,0.6
 Pittsburgh Ward 23 Dist 3,,,Hallam,26,73.2,41,15,0,56,73.2,26.8,0.0
 Pittsburgh Ward 24 Dist 1,,,Hallam,31,66.7,60,29,1,90,66.7,32.2,1.1
-Pittsburgh Ward 24 Dist 2,,,Hallam,8,54.1,53,45,0,98,54.1,45.9,0.0
+Pittsburgh Ward 24 Dist 2,,,Hallam,9,54.5,54,45,0,99,54.5,45.5,0.0
 Pittsburgh Ward 24 Dist 3,,,Hallam,13,60.0,39,26,0,65,60.0,40.0,0.0
 Pittsburgh Ward 24 Dist 4,,,Hallam,48,65.6,101,53,0,154,65.6,34.4,0.0
-Pittsburgh Ward 24 Dist 5,,,Hallam,21,60.6,60,39,0,99,60.6,39.4,0.0
-Pittsburgh Ward 24 Dist 6,,,Hallam,20,57.9,73,53,0,126,57.9,42.1,0.0
+Pittsburgh Ward 24 Dist 5,,,Hallam,21,60.4,61,40,0,101,60.4,39.6,0.0
+Pittsburgh Ward 24 Dist 6,,,Hallam,21,58.3,74,53,0,127,58.3,41.7,0.0
 Pittsburgh Ward 25 Dist 1,,,Hallam,39,67.3,76,37,0,113,67.3,32.7,0.0
-Pittsburgh Ward 25 Dist 2,,,Hallam,36,70.0,63,27,0,90,70.0,30.0,0.0
-Pittsburgh Ward 25 Dist 3,,,Hallam,37,68.0,70,33,0,103,68.0,32.0,0.0
+Pittsburgh Ward 25 Dist 2,,,Hallam,37,69.9,65,28,0,93,69.9,30.1,0.0
+Pittsburgh Ward 25 Dist 3,,,Hallam,38,68.3,71,33,0,104,68.3,31.7,0.0
 Pittsburgh Ward 25 Dist 4,,,Hallam,18,70.5,31,13,0,44,70.5,29.5,0.0
 Pittsburgh Ward 25 Dist 5,,,Hallam,17,61.5,40,23,2,65,61.5,35.4,3.1
 Pittsburgh Ward 25 Dist 6,,,Hallam,12,62.5,30,18,0,48,62.5,37.5,0.0
 Pittsburgh Ward 25 Dist 7,,,Hallam,49,78.3,65,16,2,83,78.3,19.3,2.4
 Pittsburgh Ward 26 Dist 1,,,Hallam,22,63.0,51,29,1,81,63.0,35.8,1.2
 Pittsburgh Ward 26 Dist 2,,,Hallam,28,70.6,48,20,0,68,70.6,29.4,0.0
-Pittsburgh Ward 26 Dist 3,,,Hallam,18,61.0,50,32,0,82,61.0,39.0,0.0
+Pittsburgh Ward 26 Dist 3,,,Hallam,18,60.7,51,33,0,84,60.7,39.3,0.0
 Pittsburgh Ward 26 Dist 4,,,Hallam,20,69.2,36,16,0,52,69.2,30.8,0.0
 Pittsburgh Ward 26 Dist 5,,,Doven,7,64.0,9,16,0,25,36.0,64.0,0.0
 Pittsburgh Ward 26 Dist 6,,,Hallam,2,54.2,13,11,0,24,54.2,45.8,0.0
 Pittsburgh Ward 26 Dist 7,,,Hallam,17,67.3,33,16,0,49,67.3,32.7,0.0
-Pittsburgh Ward 26 Dist 8,,,Hallam,4,52.8,28,24,1,53,52.8,45.3,1.9
-Pittsburgh Ward 26 Dist 9,,,Hallam,21,62.1,54,33,0,87,62.1,37.9,0.0
-Pittsburgh Ward 26 Dist 10,,,Hallam,67,72.7,104,37,2,143,72.7,25.9,1.4
-Pittsburgh Ward 26 Dist 11,,,Hallam,68,71.5,113,45,0,158,71.5,28.5,0.0
+Pittsburgh Ward 26 Dist 8,,,Hallam,5,53.7,29,24,1,54,53.7,44.4,1.9
+Pittsburgh Ward 26 Dist 9,,,Hallam,22,62.5,55,33,0,88,62.5,37.5,0.0
+Pittsburgh Ward 26 Dist 10,,,Hallam,67,72.4,105,38,2,145,72.4,26.2,1.4
+Pittsburgh Ward 26 Dist 11,,,Hallam,72,72.2,117,45,0,162,72.2,27.8,0.0
 Pittsburgh Ward 26 Dist 12,,,Hallam,24,64.0,55,31,0,86,64.0,36.0,0.0
-Pittsburgh Ward 26 Dist 13,,,Hallam,32,65.1,69,37,0,106,65.1,34.9,0.0
+Pittsburgh Ward 26 Dist 13,,,Hallam,33,65.4,70,37,0,107,65.4,34.6,0.0
 Pittsburgh Ward 26 Dist 14,,,Hallam,16,54.8,80,64,2,146,54.8,43.8,1.4
-Pittsburgh Ward 26 Dist 15,,,Hallam,17,59.5,50,33,1,84,59.5,39.3,1.2
+Pittsburgh Ward 26 Dist 15,,,Hallam,19,60.5,52,33,1,86,60.5,38.4,1.2
 Pittsburgh Ward 26 Dist 16,,,Hallam,29,59.7,89,60,0,149,59.7,40.3,0.0
 Pittsburgh Ward 26 Dist 17,,,Hallam,4,55.6,20,16,0,36,55.6,44.4,0.0
-Pittsburgh Ward 27 Dist 1,,,Hallam,97,71.9,159,62,0,221,71.9,28.1,0.0
-Pittsburgh Ward 27 Dist 2,,,Hallam,42,61.2,115,73,0,188,61.2,38.8,0.0
-Pittsburgh Ward 27 Dist 3,,,Hallam,37,64.3,83,46,0,129,64.3,35.7,0.0
+Pittsburgh Ward 27 Dist 1,,,Hallam,99,72.2,161,62,0,223,72.2,27.8,0.0
+Pittsburgh Ward 27 Dist 2,,,Hallam,41,60.8,115,74,0,189,60.8,39.2,0.0
+Pittsburgh Ward 27 Dist 3,,,Hallam,38,64.6,84,46,0,130,64.6,35.4,0.0
 Pittsburgh Ward 27 Dist 4,,,Hallam,57,66.5,111,54,2,167,66.5,32.3,1.2
-Pittsburgh Ward 27 Dist 5,,,Hallam,80,68.9,142,62,2,206,68.9,30.1,1.0
-Pittsburgh Ward 27 Dist 6,,,Hallam,25,60.5,72,47,0,119,60.5,39.5,0.0
+Pittsburgh Ward 27 Dist 5,,,Hallam,81,69.1,143,62,2,207,69.1,30.0,1.0
+Pittsburgh Ward 27 Dist 6,,,Hallam,26,60.8,73,47,0,120,60.8,39.2,0.0
 Pittsburgh Ward 27 Dist 7,,,Hallam,87,73.0,138,51,0,189,73.0,27.0,0.0
-Pittsburgh Ward 27 Dist 8,,,Hallam,9,53.4,62,53,1,116,53.4,45.7,0.9
+Pittsburgh Ward 27 Dist 8,,,Hallam,8,52.9,64,56,1,121,52.9,46.3,0.8
 Pittsburgh Ward 27 Dist 9,,,Hallam,45,75.6,65,20,1,86,75.6,23.3,1.2
-Pittsburgh Ward 27 Dist 10,,,Hallam,34,67.3,66,32,0,98,67.3,32.7,0.0
+Pittsburgh Ward 27 Dist 10,,,Hallam,34,67.0,67,33,0,100,67.0,33.0,0.0
 Pittsburgh Ward 27 Dist 11,,,Hallam,28,66.7,54,26,1,81,66.7,32.1,1.2
 Pittsburgh Ward 27 Dist 12,,,Hallam,24,64.2,52,28,1,81,64.2,34.6,1.2
 Pittsburgh Ward 27 Dist 13,,,Hallam,31,65.0,67,36,0,103,65.0,35.0,0.0
@@ -949,144 +949,144 @@ Pittsburgh Ward 28 Dist 3,,,Hallam,22,56.4,97,75,0,172,56.4,43.6,0.0
 Pittsburgh Ward 28 Dist 4,,,Hallam,19,57.3,71,52,1,124,57.3,41.9,0.8
 Pittsburgh Ward 28 Dist 5,,,Hallam,27,62.3,66,39,1,106,62.3,36.8,0.9
 Pittsburgh Ward 28 Dist 6,,,Hallam,29,61.8,76,47,0,123,61.8,38.2,0.0
-Pittsburgh Ward 28 Dist 7,,,Hallam,12,59.0,36,24,1,61,59.0,39.3,1.6
-Pittsburgh Ward 28 Dist 8,,,Doven,9,51.8,105,114,1,220,47.7,51.8,0.5
-Pittsburgh Ward 28 Dist 9,,,Hallam,35,63.6,82,47,0,129,63.6,36.4,0.0
+Pittsburgh Ward 28 Dist 7,,,Hallam,14,60.3,38,24,1,63,60.3,38.1,1.6
+Pittsburgh Ward 28 Dist 8,,,Doven,10,52.0,105,115,1,221,47.5,52.0,0.5
+Pittsburgh Ward 28 Dist 9,,,Hallam,36,63.8,83,47,0,130,63.8,36.2,0.0
 Pittsburgh Ward 28 Dist 10,,,Hallam,6,58.3,21,15,0,36,58.3,41.7,0.0
 Pittsburgh Ward 28 Dist 11,,,Hallam,15,80.0,20,5,0,25,80.0,20.0,0.0
 Pittsburgh Ward 29 Dist 1,,,Hallam,8,56.7,34,26,0,60,56.7,43.3,0.0
-Pittsburgh Ward 29 Dist 2,,,Hallam,31,65.0,67,36,0,103,65.0,35.0,0.0
+Pittsburgh Ward 29 Dist 2,,,Hallam,30,64.2,68,38,0,106,64.2,35.8,0.0
 Pittsburgh Ward 29 Dist 3,,,Hallam,13,58.0,47,34,0,81,58.0,42.0,0.0
-Pittsburgh Ward 29 Dist 4,,,Hallam,14,59.5,44,30,0,74,59.5,40.5,0.0
-Pittsburgh Ward 29 Dist 5,,,Hallam,17,62.7,42,25,0,67,62.7,37.3,0.0
+Pittsburgh Ward 29 Dist 4,,,Hallam,15,60.0,45,30,0,75,60.0,40.0,0.0
+Pittsburgh Ward 29 Dist 5,,,Hallam,18,63.2,43,25,0,68,63.2,36.8,0.0
 Pittsburgh Ward 29 Dist 6,,,Hallam,28,64.6,62,34,0,96,64.6,35.4,0.0
-Pittsburgh Ward 29 Dist 7,,,Hallam,39,64.6,84,45,1,130,64.6,34.6,0.8
+Pittsburgh Ward 29 Dist 7,,,Hallam,40,64.9,85,45,1,131,64.9,34.4,0.8
 Pittsburgh Ward 29 Dist 8,,,Hallam,10,58.6,34,24,0,58,58.6,41.4,0.0
-Pittsburgh Ward 29 Dist 9,,,Hallam,13,62.7,32,19,0,51,62.7,37.3,0.0
-Pittsburgh Ward 29 Dist 10,,,Hallam,17,58.9,56,39,0,95,58.9,41.1,0.0
+Pittsburgh Ward 29 Dist 9,,,Hallam,14,63.0,34,20,0,54,63.0,37.0,0.0
+Pittsburgh Ward 29 Dist 10,,,Hallam,15,57.7,56,41,0,97,57.7,42.3,0.0
 Pittsburgh Ward 29 Dist 11,,,Hallam,23,60.8,62,39,1,102,60.8,38.2,1.0
-Pittsburgh Ward 29 Dist 12,,,Hallam,19,63.0,46,27,0,73,63.0,37.0,0.0
+Pittsburgh Ward 29 Dist 12,,,Hallam,18,62.2,46,28,0,74,62.2,37.8,0.0
 Pittsburgh Ward 30 Dist 1,,,Hallam,8,58.3,28,20,0,48,58.3,41.7,0.0
 Pittsburgh Ward 30 Dist 2,,,Hallam,11,58.5,38,27,0,65,58.5,41.5,0.0
-Pittsburgh Ward 30 Dist 3,,,Hallam,3,56.0,14,11,0,25,56.0,44.0,0.0
-Pittsburgh Ward 30 Dist 4,,,Hallam,13,58.9,43,30,0,73,58.9,41.1,0.0
-Pittsburgh Ward 30 Dist 5,,,Hallam,6,54.2,32,26,1,59,54.2,44.1,1.7
+Pittsburgh Ward 30 Dist 3,,,Hallam,2,53.8,14,12,0,26,53.8,46.2,0.0
+Pittsburgh Ward 30 Dist 4,,,Hallam,15,60.0,45,30,0,75,60.0,40.0,0.0
+Pittsburgh Ward 30 Dist 5,,,Hallam,8,55.7,34,26,1,61,55.7,42.6,1.6
 Pittsburgh Ward 31 Dist 1,,,Doven,2,53.1,15,17,0,32,46.9,53.1,0.0
 Pittsburgh Ward 31 Dist 2,,,Doven,24,62.5,36,60,0,96,37.5,62.5,0.0
 Pittsburgh Ward 31 Dist 3,,,Hallam,6,53.1,52,46,0,98,53.1,46.9,0.0
 Pittsburgh Ward 31 Dist 4,,,Doven,13,56.2,37,50,2,89,41.6,56.2,2.2
-Pittsburgh Ward 31 Dist 5,,,Doven,6,51.9,74,80,0,154,48.1,51.9,0.0
+Pittsburgh Ward 31 Dist 5,,,Doven,5,51.6,75,80,0,155,48.4,51.6,0.0
 Pittsburgh Ward 31 Dist 6,,,Hallam,12,55.8,53,41,1,95,55.8,43.2,1.1
 Pittsburgh Ward 31 Dist 7,,,Doven,7,60.6,13,20,0,33,39.4,60.6,0.0
-Pittsburgh Ward 32 Dist 1,,,Hallam,11,56.1,46,35,1,82,56.1,42.7,1.2
+Pittsburgh Ward 32 Dist 1,,,Hallam,11,56.0,47,36,1,84,56.0,42.9,1.2
 Pittsburgh Ward 32 Dist 2,,,Hallam,34,67.7,63,29,1,93,67.7,31.2,1.1
-Pittsburgh Ward 32 Dist 3,,,Hallam,14,55.8,58,44,2,104,55.8,42.3,1.9
-Pittsburgh Ward 32 Dist 4,,,Hallam,5,55.1,27,22,0,49,55.1,44.9,0.0
-Pittsburgh Ward 32 Dist 5,,,Hallam,37,65.3,77,40,1,118,65.3,33.9,0.8
-Pittsburgh Ward 32 Dist 6,,,Hallam,22,60.2,62,40,1,103,60.2,38.8,1.0
+Pittsburgh Ward 32 Dist 3,,,Hallam,15,56.2,59,44,2,105,56.2,41.9,1.9
+Pittsburgh Ward 32 Dist 4,,,Hallam,6,56.0,28,22,0,50,56.0,44.0,0.0
+Pittsburgh Ward 32 Dist 5,,,Hallam,36,64.7,77,41,1,119,64.7,34.5,0.8
+Pittsburgh Ward 32 Dist 6,,,Hallam,21,59.6,62,41,1,104,59.6,39.4,1.0
 Pittsburgh Ward 32 Dist 7,,,Hallam,31,60.9,78,47,3,128,60.9,36.7,2.3
-Pittsburgh Ward 32 Dist 8,,,Hallam,6,51.8,72,66,1,139,51.8,47.5,0.7
-Pleasant Hl Dist 1,,,Hallam,14,57.8,52,38,0,90,57.8,42.2,0.0
+Pittsburgh Ward 32 Dist 8,,,Hallam,5,51.4,72,67,1,140,51.4,47.9,0.7
+Pleasant Hl Dist 1,,,Hallam,15,58.2,53,38,0,91,58.2,41.8,0.0
 Pleasant Hl Dist 2,,,Hallam,12,57.5,46,34,0,80,57.5,42.5,0.0
-Pleasant Hl Dist 3,,,Hallam,29,63.5,66,37,1,104,63.5,35.6,1.0
+Pleasant Hl Dist 3,,,Hallam,27,62.3,66,39,1,106,62.3,36.8,0.9
 Pleasant Hl Dist 4,,,Hallam,20,61.1,55,35,0,90,61.1,38.9,0.0
 Pleasant Hl Dist 5,,,Doven,5,52.0,61,66,0,127,48.0,52.0,0.0
-Pleasant Hl Dist 6,,,Doven,12,54.0,63,75,1,139,45.3,54.0,0.7
+Pleasant Hl Dist 6,,,Doven,9,52.8,66,75,1,142,46.5,52.8,0.7
 Pleasant Hl Dist 7,,,Hallam,10,55.8,48,38,0,86,55.8,44.2,0.0
 Pleasant Hl Dist 8,,,Hallam,15,60.3,44,29,0,73,60.3,39.7,0.0
 Pleasant Hl Dist 9,,,Hallam,7,52.3,57,50,2,109,52.3,45.9,1.8
-Pleasant Hl Dist 10,,,Hallam,9,54.7,41,32,2,75,54.7,42.7,2.7
-Plum Dist 1,,,Hallam,21,55.1,114,93,0,207,55.1,44.9,0.0
+Pleasant Hl Dist 10,,,Hallam,8,53.9,41,33,2,76,53.9,43.4,2.6
+Plum Dist 1,,,Hallam,23,55.5,116,93,0,209,55.5,44.5,0.0
 Plum Dist 2,,,Doven,6,54.2,33,39,0,72,45.8,54.2,0.0
-Plum Dist 3,,,Hallam,6,51.6,97,91,0,188,51.6,48.4,0.0
+Plum Dist 3,,,Hallam,5,51.3,97,92,0,189,51.3,48.7,0.0
 Plum Dist 4,,,Hallam,32,63.1,77,45,0,122,63.1,36.9,0.0
-Plum Dist 5,,,Hallam,17,56.3,76,59,0,135,56.3,43.7,0.0
+Plum Dist 5,,,Hallam,18,56.6,77,59,0,136,56.6,43.4,0.0
 Plum Dist 6,,,Hallam,15,54.1,93,78,1,172,54.1,45.3,0.6
 Plum Dist 7,,,Hallam,18,54.5,91,73,3,167,54.5,43.7,1.8
-Plum Dist 8,,,Doven,4,52.3,42,46,0,88,47.7,52.3,0.0
-Plum Dist 9,,,Doven,1,50.0,113,114,1,228,49.6,50.0,0.4
+Plum Dist 8,,,Doven,5,52.8,42,47,0,89,47.2,52.8,0.0
+Plum Dist 9,,,Doven,1,50.0,115,116,1,232,49.6,50.0,0.4
 Plum Dist 10,,,Hallam,24,66.7,46,22,1,69,66.7,31.9,1.4
 Plum Dist 11,,,Hallam,1,50.0,59,58,1,118,50.0,49.2,0.8
 Plum Dist 12,,,Hallam,10,52.5,104,94,0,198,52.5,47.5,0.0
 Plum Dist 13,,,Hallam,8,54.8,46,38,0,84,54.8,45.2,0.0
-Plum Dist 14,,,Hallam,7,53.5,46,39,1,86,53.5,45.3,1.2
+Plum Dist 14,,,Hallam,9,54.5,48,39,1,88,54.5,44.3,1.1
 Plum Dist 15,,,Hallam,22,64.1,50,28,0,78,64.1,35.9,0.0
 Plum Dist 16,,,Hallam,15,57.9,55,40,0,95,57.9,42.1,0.0
 Plum Dist 17,,,Hallam,5,52.9,45,40,0,85,52.9,47.1,0.0
 Plum Dist 18,,,Hallam,14,55.1,70,56,1,127,55.1,44.1,0.8
-Plum Dist 19,,,Doven,7,51.3,128,135,0,263,48.7,51.3,0.0
-Plum Dist 20,,,Hallam,21,58.3,67,46,2,115,58.3,40.0,1.7
-Plum Dist 21,,,Doven,1,51.2,21,22,0,43,48.8,51.2,0.0
-Port Vue Dist 1,,,Doven,3,52.5,29,32,0,61,47.5,52.5,0.0
+Plum Dist 19,,,Doven,8,51.5,128,136,0,264,48.5,51.5,0.0
+Plum Dist 20,,,Hallam,22,58.6,68,46,2,116,58.6,39.7,1.7
+Plum Dist 21,,,Doven,2,52.3,21,23,0,44,47.7,52.3,0.0
+Port Vue Dist 1,,,Doven,2,51.6,30,32,0,62,48.4,51.6,0.0
 Port Vue Dist 2,,,Doven,8,55.7,31,39,0,70,44.3,55.7,0.0
 Port Vue Dist 3,,,Doven,15,57.3,40,55,1,96,41.7,57.3,1.0
-Port Vue Dist 4,,,Hallam,13,56.8,50,37,1,88,56.8,42.0,1.1
+Port Vue Dist 4,,,Hallam,15,57.8,52,37,1,90,57.8,41.1,1.1
 Rankin Ward 1,,,Hallam,4,53.6,30,26,0,56,53.6,46.4,0.0
 Rankin Ward 2,,,Hallam,0,50.0,45,45,0,90,50.0,50.0,0.0
 Rankin Ward 3,,,Hallam,3,52.8,28,25,0,53,52.8,47.2,0.0
 Reserve Ward 1,,,Hallam,22,58.9,73,51,0,124,58.9,41.1,0.0
 Reserve Ward 2,,,Hallam,23,60.4,67,44,0,111,60.4,39.6,0.0
-Reserve Ward 3,,,Hallam,19,60.2,53,34,1,88,60.2,38.6,1.1
+Reserve Ward 3,,,Hallam,20,60.7,54,34,1,89,60.7,38.2,1.1
 Reserve Ward 4,,,Doven,11,52.8,91,102,0,193,47.2,52.8,0.0
-Richland Dist 1,,,Hallam,1,50.3,76,75,0,151,50.3,49.7,0.0
+Richland Dist 1,,,Hallam,1,50.3,77,76,0,153,50.3,49.7,0.0
 Richland Dist 2,,,Hallam,5,51.9,70,65,0,135,51.9,48.1,0.0
 Richland Dist 3,,,Doven,2,50.0,62,64,2,128,48.4,50.0,1.6
-Richland Dist 4,,,Doven,23,58.8,54,77,0,131,41.2,58.8,0.0
-Richland Dist 5,,,Hallam,35,64.5,78,43,0,121,64.5,35.5,0.0
+Richland Dist 4,,,Doven,22,58.3,55,77,0,132,41.7,58.3,0.0
+Richland Dist 5,,,Hallam,36,64.8,79,43,0,122,64.8,35.2,0.0
 Richland Dist 6,,,Hallam,7,52.2,72,65,1,138,52.2,47.1,0.7
 Richland Dist 7,,,Hallam,30,60.9,84,54,0,138,60.9,39.1,0.0
-Richland Dist 8,,,Hallam,16,55.0,77,61,2,140,55.0,43.6,1.4
+Richland Dist 8,,,Hallam,15,54.6,77,62,2,141,54.6,44.0,1.4
 Robinson Dist 1,,,Hallam,31,54.5,174,143,2,319,54.5,44.8,0.6
-Robinson Dist 2,,,Doven,25,54.7,121,146,0,267,45.3,54.7,0.0
-Robinson Dist 3,,,Hallam,8,52.2,70,62,2,134,52.2,46.3,1.5
+Robinson Dist 2,,,Doven,25,54.6,123,148,0,271,45.4,54.6,0.0
+Robinson Dist 3,,,Hallam,5,51.1,71,66,2,139,51.1,47.5,1.4
 Robinson Dist 4,,,Hallam,12,53.0,97,85,1,183,53.0,46.4,0.5
-Robinson Dist 5,,,Doven,21,55.1,88,109,1,198,44.4,55.1,0.5
+Robinson Dist 5,,,Doven,21,55.0,89,110,1,200,44.5,55.0,0.5
 Robinson Dist 6,,,Hallam,4,51.3,61,57,1,119,51.3,47.9,0.8
-Robinson Dist 7,,,Hallam,18,52.4,165,147,3,315,52.4,46.7,1.0
-Robinson Dist 8,,,Hallam,42,58.6,139,97,1,237,58.6,40.9,0.4
-Robinson Dist 9,,,Hallam,35,53.6,241,206,3,450,53.6,45.8,0.7
+Robinson Dist 7,,,Hallam,19,52.5,168,149,3,320,52.5,46.6,0.9
+Robinson Dist 8,,,Hallam,43,58.8,140,97,1,238,58.8,40.8,0.4
+Robinson Dist 9,,,Hallam,37,53.6,243,206,4,453,53.6,45.5,0.9
 Ross Ward 1 Dist 1,,,Hallam,16,54.6,77,61,3,141,54.6,43.3,2.1
-Ross Ward 1 Dist 2,,,Hallam,19,56.3,80,61,1,142,56.3,43.0,0.7
+Ross Ward 1 Dist 2,,,Hallam,21,56.6,82,61,2,145,56.6,42.1,1.4
 Ross Ward 1 Dist 3,,,Doven,4,51.1,41,45,2,88,46.6,51.1,2.3
-Ross Ward 1 Dist 4,,,Hallam,0,50.0,71,71,0,142,50.0,50.0,0.0
-Ross Ward 2 Dist 1,,,Hallam,46,62.0,116,70,1,187,62.0,37.4,0.5
-Ross Ward 2 Dist 2,,,Hallam,7,51.7,89,82,1,172,51.7,47.7,0.6
-Ross Ward 2 Dist 3,,,Hallam,7,52.5,64,57,1,122,52.5,46.7,0.8
-Ross Ward 3 Dist 1,,,Hallam,18,57.4,66,48,1,115,57.4,41.7,0.9
-Ross Ward 3 Dist 2,,,Hallam,34,62.5,85,51,0,136,62.5,37.5,0.0
+Ross Ward 1 Dist 4,,,Doven,1,50.3,72,73,0,145,49.7,50.3,0.0
+Ross Ward 2 Dist 1,,,Hallam,47,62.2,117,70,1,188,62.2,37.2,0.5
+Ross Ward 2 Dist 2,,,Hallam,8,52.0,90,82,1,173,52.0,47.4,0.6
+Ross Ward 2 Dist 3,,,Hallam,8,52.8,65,57,1,123,52.8,46.3,0.8
+Ross Ward 3 Dist 1,,,Hallam,17,56.9,66,49,1,116,56.9,42.2,0.9
+Ross Ward 3 Dist 2,,,Hallam,33,62.0,85,52,0,137,62.0,38.0,0.0
 Ross Ward 3 Dist 3,,,Hallam,17,60.0,48,31,1,80,60.0,38.8,1.3
 Ross Ward 3 Dist 4,,,Hallam,15,56.3,67,52,0,119,56.3,43.7,0.0
 Ross Ward 4 Dist 1,,,Hallam,27,57.9,99,72,0,171,57.9,42.1,0.0
 Ross Ward 4 Dist 2,,,Hallam,20,55.3,89,69,3,161,55.3,42.9,1.9
-Ross Ward 4 Dist 3,,,Hallam,7,52.3,67,60,1,128,52.3,46.9,0.8
+Ross Ward 4 Dist 3,,,Hallam,8,52.7,68,60,1,129,52.7,46.5,0.8
 Ross Ward 4 Dist 4,,,Hallam,21,58.1,72,51,1,124,58.1,41.1,0.8
 Ross Ward 5 Dist 1,,,Hallam,8,53.8,56,48,0,104,53.8,46.2,0.0
 Ross Ward 5 Dist 2,,,Hallam,20,62.8,49,29,0,78,62.8,37.2,0.0
 Ross Ward 5 Dist 3,,,Hallam,21,57.7,75,54,1,130,57.7,41.5,0.8
 Ross Ward 5 Dist 4,,,Hallam,0,50.0,76,76,0,152,50.0,50.0,0.0
-Ross Ward 6 Dist 1,,,Hallam,19,58.4,59,40,2,101,58.4,39.6,2.0
-Ross Ward 6 Dist 2,,,Hallam,22,55.9,104,82,0,186,55.9,44.1,0.0
-Ross Ward 6 Dist 3,,,Hallam,45,69.9,79,34,0,113,69.9,30.1,0.0
+Ross Ward 6 Dist 1,,,Hallam,18,57.8,59,41,2,102,57.8,40.2,2.0
+Ross Ward 6 Dist 2,,,Hallam,20,55.3,104,84,0,188,55.3,44.7,0.0
+Ross Ward 6 Dist 3,,,Hallam,46,70.2,80,34,0,114,70.2,29.8,0.0
 Ross Ward 6 Dist 4,,,Hallam,3,51.3,59,56,0,115,51.3,48.7,0.0
 Ross Ward 7 Dist 1,,,Hallam,22,59.8,67,45,0,112,59.8,40.2,0.0
-Ross Ward 7 Dist 2,,,Hallam,4,51.9,42,38,1,81,51.9,46.9,1.2
-Ross Ward 7 Dist 3,,,Doven,11,53.5,74,85,0,159,46.5,53.5,0.0
-Ross Ward 7 Dist 4,,,Hallam,7,53.5,53,46,0,99,53.5,46.5,0.0
-Ross Ward 8 Dist 1,,,Hallam,45,58.2,159,114,0,273,58.2,41.8,0.0
-Ross Ward 8 Dist 2,,,Hallam,4,52.1,49,45,0,94,52.1,47.9,0.0
+Ross Ward 7 Dist 2,,,Hallam,5,52.4,43,38,1,82,52.4,46.3,1.2
+Ross Ward 7 Dist 3,,,Doven,12,53.8,74,86,0,160,46.3,53.8,0.0
+Ross Ward 7 Dist 4,,,Hallam,6,53.0,53,47,0,100,53.0,47.0,0.0
+Ross Ward 8 Dist 1,,,Hallam,46,58.4,160,114,0,274,58.4,41.6,0.0
+Ross Ward 8 Dist 2,,,Hallam,3,51.6,49,46,0,95,51.6,48.4,0.0
 Ross Ward 8 Dist 3,,,Hallam,35,65.0,76,41,0,117,65.0,35.0,0.0
 Ross Ward 9 Dist 1,,,Hallam,37,62.2,92,55,1,148,62.2,37.2,0.7
-Ross Ward 9 Dist 2,,,Hallam,39,62.4,98,59,0,157,62.4,37.6,0.0
+Ross Ward 9 Dist 2,,,Hallam,40,62.7,99,59,0,158,62.7,37.3,0.0
 Ross Ward 9 Dist 3,,,Hallam,26,58.8,87,61,0,148,58.8,41.2,0.0
 Rosslyn Farms,,,Hallam,6,53.3,48,42,0,90,53.3,46.7,0.0
 Scott Ward 1 Dist 1,,,Hallam,11,57.1,40,29,1,70,57.1,41.4,1.4
 Scott Ward 1 Dist 2,,,Hallam,13,58.4,45,32,0,77,58.4,41.6,0.0
-Scott Ward 2 Dist 1,,,Hallam,6,53.0,53,47,0,100,53.0,47.0,0.0
+Scott Ward 2 Dist 1,,,Hallam,5,52.5,53,48,0,101,52.5,47.5,0.0
 Scott Ward 2 Dist 2,,,Doven,38,63.8,50,88,0,138,36.2,63.8,0.0
 Scott Ward 3 Dist 1,,,Hallam,23,62.6,57,34,0,91,62.6,37.4,0.0
 Scott Ward 3 Dist 2,,,Doven,9,53.9,53,62,0,115,46.1,53.9,0.0
 Scott Ward 4 Dist 1,,,Hallam,5,51.3,80,75,1,156,51.3,48.1,0.6
-Scott Ward 4 Dist 2,,,Hallam,1,50.4,58,57,0,115,50.4,49.6,0.0
+Scott Ward 4 Dist 2,,,Hallam,0,50.0,58,58,0,116,50.0,50.0,0.0
 Scott Ward 5 Dist 1,,,Hallam,5,52.9,45,40,0,85,52.9,47.1,0.0
 Scott Ward 5 Dist 2,,,Hallam,0,50.0,73,73,0,146,50.0,50.0,0.0
 Scott Ward 6 Dist 1,,,Hallam,1,50.5,50,49,0,99,50.5,49.5,0.0
@@ -1097,29 +1097,29 @@ Scott Ward 8 Dist 1,,,Hallam,17,59.1,55,38,0,93,59.1,40.9,0.0
 Scott Ward 8 Dist 2,,,Doven,5,50.2,106,111,4,221,48.0,50.2,1.8
 Scott Ward 9 Dist 1,,,Hallam,3,52.5,21,18,1,40,52.5,45.0,2.5
 Scott Ward 9 Dist 2,,,Doven,1,51.0,25,26,0,51,49.0,51.0,0.0
-Sewickley Ward 1,,,Hallam,55,65.7,109,54,3,166,65.7,32.5,1.8
+Sewickley Ward 1,,,Hallam,56,65.9,110,54,3,167,65.9,32.3,1.8
 Sewickley Ward 2 Dist 1,,,Hallam,21,62.4,53,32,0,85,62.4,37.6,0.0
 Sewickley Ward 2 Dist 2,,,Hallam,9,53.8,57,48,1,106,53.8,45.3,0.9
-Sewickley Ward 3,,,Hallam,21,55.6,99,78,1,178,55.6,43.8,0.6
-Sewickley Hts,,,Hallam,23,65.3,47,24,1,72,65.3,33.3,1.4
+Sewickley Ward 3,,,Hallam,23,56.1,101,78,1,180,56.1,43.3,0.6
+Sewickley Hts,,,Hallam,21,63.5,47,26,1,74,63.5,35.1,1.4
 Sewickley Hills,,,Hallam,28,64.6,62,34,0,96,64.6,35.4,0.0
 Shaler Ward 1 Dist 1,,,Doven,10,54.7,48,58,0,106,45.3,54.7,0.0
-Shaler Ward 1 Dist 2,,,Hallam,5,52.9,45,40,0,85,52.9,47.1,0.0
+Shaler Ward 1 Dist 2,,,Hallam,6,53.5,46,40,0,86,53.5,46.5,0.0
 Shaler Ward 1 Dist 3,,,Hallam,16,58.7,54,38,0,92,58.7,41.3,0.0
 Shaler Ward 1 Dist 4,,,Hallam,24,58.5,83,59,0,142,58.5,41.5,0.0
 Shaler Ward 1 Dist 5,,,Doven,6,53.1,46,52,0,98,46.9,53.1,0.0
 Shaler Ward 2 Dist 1,,,Doven,13,53.6,83,96,0,179,46.4,53.6,0.0
 Shaler Ward 2 Dist 2,,,Hallam,41,66.1,84,43,0,127,66.1,33.9,0.0
-Shaler Ward 2 Dist 3,,,Doven,8,53.6,51,59,0,110,46.4,53.6,0.0
+Shaler Ward 2 Dist 3,,,Doven,9,54.1,51,60,0,111,45.9,54.1,0.0
 Shaler Ward 2 Dist 4,,,Hallam,22,58.7,74,52,0,126,58.7,41.3,0.0
 Shaler Ward 2 Dist 5,,,Hallam,6,54.0,34,28,1,63,54.0,44.4,1.6
 Shaler Ward 3 Dist 1,,,Hallam,13,54.8,69,56,1,126,54.8,44.4,0.8
 Shaler Ward 3 Dist 2,,,Doven,2,50.8,59,61,0,120,49.2,50.8,0.0
 Shaler Ward 3 Dist 3,,,Hallam,1,50.6,45,44,0,89,50.6,49.4,0.0
-Shaler Ward 3 Dist 4,,,Hallam,8,52.6,70,62,1,133,52.6,46.6,0.8
-Shaler Ward 3 Dist 5,,,Doven,13,55.4,54,67,0,121,44.6,55.4,0.0
+Shaler Ward 3 Dist 4,,,Hallam,9,53.0,71,62,1,134,53.0,46.3,0.7
+Shaler Ward 3 Dist 5,,,Doven,14,55.7,54,68,0,122,44.3,55.7,0.0
 Shaler Ward 4 Dist 1,,,Hallam,19,56.1,88,69,0,157,56.1,43.9,0.0
-Shaler Ward 4 Dist 2,,,Hallam,11,58.2,39,28,0,67,58.2,41.8,0.0
+Shaler Ward 4 Dist 2,,,Hallam,10,57.4,39,29,0,68,57.4,42.6,0.0
 Shaler Ward 4 Dist 3,,,Hallam,38,66.1,78,40,0,118,66.1,33.9,0.0
 Shaler Ward 4 Dist 4,,,Doven,6,52.9,48,54,0,102,47.1,52.9,0.0
 Shaler Ward 4 Dist 5,,,Hallam,17,57.8,63,46,0,109,57.8,42.2,0.0
@@ -1127,7 +1127,7 @@ Shaler Ward 5 Dist 1,,,Hallam,27,61.9,70,43,0,113,61.9,38.1,0.0
 Shaler Ward 5 Dist 2,,,Hallam,35,63.2,84,49,0,133,63.2,36.8,0.0
 Shaler Ward 5 Dist 3,,,Hallam,8,53.6,60,52,0,112,53.6,46.4,0.0
 Shaler Ward 5 Dist 4,,,Hallam,11,60.4,32,21,0,53,60.4,39.6,0.0
-Shaler Ward 5 Dist 5,,,Hallam,7,52.5,64,57,1,122,52.5,46.7,0.8
+Shaler Ward 5 Dist 5,,,Hallam,8,52.8,65,57,1,123,52.8,46.3,0.8
 Shaler Ward 6 Dist 1,,,Hallam,16,57.4,62,46,0,108,57.4,42.6,0.0
 Shaler Ward 6 Dist 2,,,Doven,2,50.9,53,55,0,108,49.1,50.9,0.0
 Shaler Ward 6 Dist 3,,,Doven,7,53.9,41,48,0,89,46.1,53.9,0.0
@@ -1138,61 +1138,61 @@ Shaler Ward 7 Dist 2,,,Hallam,24,59.7,74,50,0,124,59.7,40.3,0.0
 Shaler Ward 7 Dist 3,,,Doven,9,54.3,42,51,1,94,44.7,54.3,1.1
 Shaler Ward 7 Dist 4,,,Hallam,4,51.1,90,86,0,176,51.1,48.9,0.0
 Sharpsburg Dist 1,,,Hallam,6,52.4,54,48,1,103,52.4,46.6,1.0
-Sharpsburg Dist 2,,,Hallam,14,53.8,77,63,3,143,53.8,44.1,2.1
+Sharpsburg Dist 2,,,Hallam,17,54.8,80,63,3,146,54.8,43.2,2.1
 Sharpsburg Dist 3,,,Hallam,16,55.1,76,60,2,138,55.1,43.5,1.4
-S Fayette Dist 1,,,Hallam,5,52.4,54,49,0,103,52.4,47.6,0.0
+S Fayette Dist 1,,,Hallam,6,52.9,55,49,0,104,52.9,47.1,0.0
 S Fayette Dist 2,,,Hallam,24,58.3,84,60,0,144,58.3,41.7,0.0
-S Fayette Dist 3,,,Hallam,4,50.2,115,111,3,229,50.2,48.5,1.3
-S Fayette Dist 4,,,Hallam,10,53.3,65,55,2,122,53.3,45.1,1.6
-S Fayette Dist 5,,,Hallam,17,57.5,65,48,0,113,57.5,42.5,0.0
-S Fayette Dist 6,,,Hallam,19,56.1,88,69,0,157,56.1,43.9,0.0
+S Fayette Dist 3,,,Hallam,5,50.4,116,111,3,230,50.4,48.3,1.3
+S Fayette Dist 4,,,Hallam,9,52.8,65,56,2,123,52.8,45.5,1.6
+S Fayette Dist 5,,,Hallam,19,58.3,67,48,0,115,58.3,41.7,0.0
+S Fayette Dist 6,,,Hallam,18,55.6,89,71,0,160,55.6,44.4,0.0
 S Fayette Dist 7,,,Hallam,15,56.3,58,43,2,103,56.3,41.7,1.9
-S Fayette Dist 8,,,Hallam,31,55.9,142,111,1,254,55.9,43.7,0.4
+S Fayette Dist 8,,,Hallam,30,55.7,142,112,1,255,55.7,43.9,0.4
 S Fayette Dist 9,,,Hallam,14,58.0,51,37,0,88,58.0,42.0,0.0
-S Fayette Dist 10,,,Hallam,6,52.9,54,48,0,102,52.9,47.1,0.0
-S Fayette Dist 11,,,Hallam,25,59.1,81,56,0,137,59.1,40.9,0.0
-S Fayette Dist 12,,,Doven,15,55.1,61,76,1,138,44.2,55.1,0.7
+S Fayette Dist 10,,,Hallam,5,52.4,54,49,0,103,52.4,47.6,0.0
+S Fayette Dist 11,,,Hallam,26,59.4,82,56,0,138,59.4,40.6,0.0
+S Fayette Dist 12,,,Doven,17,55.7,61,78,1,140,43.6,55.7,0.7
 South Park Dist 1,,,Hallam,22,59.6,62,40,2,104,59.6,38.5,1.9
-South Park Dist 2,,,Hallam,29,62.6,72,43,0,115,62.6,37.4,0.0
+South Park Dist 2,,,Hallam,28,62.1,72,44,0,116,62.1,37.9,0.0
 South Park Dist 3,,,Hallam,25,66.2,49,24,1,74,66.2,32.4,1.4
 South Park Dist 4,,,Hallam,17,57.9,62,45,0,107,57.9,42.1,0.0
 South Park Dist 5,,,Hallam,19,56.3,76,57,2,135,56.3,42.2,1.5
 South Park Dist 6,,,Hallam,23,57.4,89,66,0,155,57.4,42.6,0.0
 South Park Dist 7,,,Hallam,4,50.8,97,93,1,191,50.8,48.7,0.5
-South Park Dist 8,,,Hallam,14,57.0,57,43,0,100,57.0,43.0,0.0
+South Park Dist 8,,,Hallam,15,57.4,58,43,0,101,57.4,42.6,0.0
 South Park Dist 9,,,Hallam,39,63.8,90,51,0,141,63.8,36.2,0.0
-South Park Dist 10,,,Hallam,32,62.1,82,50,0,132,62.1,37.9,0.0
+South Park Dist 10,,,Hallam,33,62.4,83,50,0,133,62.4,37.6,0.0
 South Park Dist 11,,,Hallam,28,69.4,50,22,0,72,69.4,30.6,0.0
 South Park Dist 12,,,Hallam,21,58.9,63,42,2,107,58.9,39.3,1.9
 South Park Dist 13,,,Hallam,43,64.6,95,52,0,147,64.6,35.4,0.0
-S Versailles,,,Hallam,6,61.5,16,10,0,26,61.5,38.5,0.0
-Springdale Br Dist 1,,,Doven,12,55.5,49,61,0,110,44.5,55.5,0.0
+S Versailles,,,Hallam,5,59.3,16,11,0,27,59.3,40.7,0.0
+Springdale Br Dist 1,,,Doven,11,55.0,50,61,0,111,45.0,55.0,0.0
 Springdale Br Dist 2,,,Doven,5,51.9,49,54,1,104,47.1,51.9,1.0
 Springdale Br Dist 3,,,Hallam,11,55.4,51,40,1,92,55.4,43.5,1.1
 Springdale Br Dist 4,,,Hallam,5,53.6,37,32,0,69,53.6,46.4,0.0
-Springdale Twp,,,Hallam,25,55.7,117,92,1,210,55.7,43.8,0.5
+Springdale Twp,,,Hallam,26,55.8,120,94,1,215,55.8,43.7,0.5
 Stowe Ward 1,,,Doven,8,56.7,26,34,0,60,43.3,56.7,0.0
 Stowe Ward 2 Dist 1,,,Hallam,0,50.0,9,9,0,18,50.0,50.0,0.0
-Stowe Ward 2 Dist 2,,,Doven,5,52.6,46,51,0,97,47.4,52.6,0.0
+Stowe Ward 2 Dist 2,,,Doven,6,53.1,46,52,0,98,46.9,53.1,0.0
 Stowe Ward 3,,,Doven,13,60.7,24,37,0,61,39.3,60.7,0.0
-Stowe Ward 4 Dist 1,,,Hallam,4,53.0,35,31,0,66,53.0,47.0,0.0
+Stowe Ward 4 Dist 1,,,Hallam,3,52.2,35,32,0,67,52.2,47.8,0.0
 Stowe Ward 4 Dist 2,,,Doven,9,54.9,41,50,0,91,45.1,54.9,0.0
 Stowe Ward 5,,,Doven,16,61.5,24,40,1,65,36.9,61.5,1.5
 Stowe Ward 6,,,Hallam,24,76.1,35,11,0,46,76.1,23.9,0.0
-Stowe Ward 7,,,Hallam,2,55.6,10,8,0,18,55.6,44.4,0.0
+Stowe Ward 7,,,Hallam,1,52.6,10,9,0,19,52.6,47.4,0.0
 Stowe Ward 8,,,Doven,3,51.5,14,17,2,33,42.4,51.5,6.1
-Stowe Ward 9,,,Doven,3,54.5,15,18,0,33,45.5,54.5,0.0
-Swissvale Dist 1,,,Hallam,2,50.7,70,68,0,138,50.7,49.3,0.0
+Stowe Ward 9,,,Doven,1,51.4,17,18,0,35,48.6,51.4,0.0
+Swissvale Dist 1,,,Hallam,3,51.1,71,68,0,139,51.1,48.9,0.0
 Swissvale Dist 2,,,Hallam,43,65.0,93,50,0,143,65.0,35.0,0.0
 Swissvale Dist 3,,,Hallam,54,71.8,89,35,0,124,71.8,28.2,0.0
 Swissvale Dist 4,,,Hallam,57,72.4,92,35,0,127,72.4,27.6,0.0
-Swissvale Dist 5,,,Hallam,32,60.0,96,64,0,160,60.0,40.0,0.0
+Swissvale Dist 5,,,Hallam,33,60.2,97,64,0,161,60.2,39.8,0.0
 Swissvale Dist 6,,,Hallam,9,56.9,37,28,0,65,56.9,43.1,0.0
 Swissvale Dist 7,,,Hallam,47,63.0,114,67,0,181,63.0,37.0,0.0
 Swissvale Dist 8,,,Hallam,60,66.9,117,57,1,175,66.9,32.6,0.6
-Swissvale Dist 9,,,Hallam,24,56.4,97,73,2,172,56.4,42.4,1.2
+Swissvale Dist 9,,,Hallam,27,57.0,102,75,2,179,57.0,41.9,1.1
 Swissvale Dist 10,,,Hallam,0,50.0,20,20,0,40,50.0,50.0,0.0
-Swissvale Dist 11,,,Hallam,67,64.0,151,84,1,236,64.0,35.6,0.4
+Swissvale Dist 11,,,Hallam,70,64.3,155,85,1,241,64.3,35.3,0.4
 Tarentum Ward 1 Dist 1,,,Doven,2,51.6,30,32,0,62,48.4,51.6,0.0
 Tarentum Ward 1 Dist 2,,,Hallam,25,69.2,45,20,0,65,69.2,30.8,0.0
 Tarentum Ward 2,,,Hallam,1,50.0,33,32,1,66,50.0,48.5,1.5
@@ -1203,123 +1203,123 @@ Pennsbury Vill,,,Hallam,9,54.3,57,48,0,105,54.3,45.7,0.0
 Trafford,,,Doven,4,75.0,2,6,0,8,25.0,75.0,0.0
 Turtle Creek Ward 1 Dist 1,,,Hallam,3,50.8,62,59,1,122,50.8,48.4,0.8
 Turtle Creek Ward 1 Dist 2,,,Hallam,2,52.6,20,18,0,38,52.6,47.4,0.0
-Turtle Creek Ward 2 Dist 1,,,Hallam,1,50.6,42,41,0,83,50.6,49.4,0.0
+Turtle Creek Ward 2 Dist 1,,,Hallam,2,51.2,44,42,0,86,51.2,48.8,0.0
 Turtle Creek Ward 2 Dist 2,,,Doven,1,50.0,18,19,1,38,47.4,50.0,2.6
 Turtle Creek Ward 3 Dist 1,,,Hallam,5,53.8,35,30,0,65,53.8,46.2,0.0
 Turtle Creek Ward 3 Dist 2,,,Doven,7,54.2,38,45,0,83,45.8,54.2,0.0
 Up St Clair Ward 1 Dist 1,,,Hallam,2,50.8,62,60,0,122,50.8,49.2,0.0
 Up St Clair Ward 1 Dist 2,,,Hallam,14,55.9,66,52,0,118,55.9,44.1,0.0
-Up St Clair Ward 1 Dist 3,,,Hallam,23,58.3,81,58,0,139,58.3,41.7,0.0
+Up St Clair Ward 1 Dist 3,,,Hallam,24,58.6,82,58,0,140,58.6,41.4,0.0
 Up St Clair Ward 1 Dist 4,,,Hallam,31,62.8,76,45,0,121,62.8,37.2,0.0
 Up St Clair Ward 2 Dist 1,,,Hallam,32,62.4,78,46,1,125,62.4,36.8,0.8
 Up St Clair Ward 2 Dist 2,,,Hallam,16,58.2,53,37,1,91,58.2,40.7,1.1
-Up St Clair Ward 2 Dist 3,,,Hallam,18,55.0,82,64,3,149,55.0,43.0,2.0
+Up St Clair Ward 2 Dist 3,,,Hallam,20,55.6,84,64,3,151,55.6,42.4,2.0
 Up St Clair Ward 2 Dist 4,,,Hallam,12,56.6,47,35,1,83,56.6,42.2,1.2
 Up St Clair Ward 3 Dist 1,,,Hallam,19,55.6,84,65,2,151,55.6,43.0,1.3
 Up St Clair Ward 3 Dist 2,,,Doven,4,51.8,54,58,0,112,48.2,51.8,0.0
-Up St Clair Ward 3 Dist 3,,,Hallam,43,61.0,100,57,7,164,61.0,34.8,4.3
+Up St Clair Ward 3 Dist 3,,,Hallam,43,60.7,102,59,7,168,60.7,35.1,4.2
 Up St Clair Ward 4 Dist 1,,,Hallam,33,61.0,89,56,1,146,61.0,38.4,0.7
-Up St Clair Ward 4 Dist 2,,,Hallam,25,61.5,67,42,0,109,61.5,38.5,0.0
+Up St Clair Ward 4 Dist 2,,,Hallam,26,61.8,68,42,0,110,61.8,38.2,0.0
 Up St Clair Ward 4 Dist 3,,,Hallam,37,68.4,67,30,1,98,68.4,30.6,1.0
 Up St Clair Ward 4 Dist 4,,,Hallam,35,63.0,80,45,2,127,63.0,35.4,1.6
-Up St Clair Ward 5 Dist 1,,,Hallam,32,58.1,104,72,3,179,58.1,40.2,1.7
-Up St Clair Ward 5 Dist 2,,,Hallam,24,60.0,72,48,0,120,60.0,40.0,0.0
+Up St Clair Ward 5 Dist 1,,,Hallam,30,57.5,104,74,3,181,57.5,40.9,1.7
+Up St Clair Ward 5 Dist 2,,,Hallam,25,60.3,73,48,0,121,60.3,39.7,0.0
 Up St Clair Ward 5 Dist 3,,,Hallam,23,60.0,69,46,0,115,60.0,40.0,0.0
-Verona Dist 1,,,Hallam,4,52.6,41,37,0,78,52.6,47.4,0.0
+Verona Dist 1,,,Hallam,5,53.2,42,37,0,79,53.2,46.8,0.0
 Verona Dist 2,,,Hallam,5,52.6,51,46,0,97,52.6,47.4,0.0
-Verona Dist 3,,,Doven,1,50.5,55,56,0,111,49.5,50.5,0.0
-Versailles Dist 1,,,Doven,5,51.4,33,38,3,74,44.6,51.4,4.1
+Verona Dist 3,,,Hallam,0,50.0,56,56,0,112,50.0,50.0,0.0
+Versailles Dist 1,,,Doven,4,50.7,34,38,3,75,45.3,50.7,4.0
 Versailles Dist 2,,,Doven,7,54.2,32,39,1,72,44.4,54.2,1.4
 Wall,,,Hallam,1,51.0,25,24,0,49,51.0,49.0,0.0
 West Deer Dist 1,,,Doven,10,52.1,89,99,2,190,46.8,52.1,1.1
 West Deer Dist 2,,,Hallam,4,52.7,39,35,0,74,52.7,47.3,0.0
 West Deer Dist 3,,,Hallam,10,55.6,50,40,0,90,55.6,44.4,0.0
-West Deer Dist 4,,,Hallam,13,55.0,71,58,0,129,55.0,45.0,0.0
+West Deer Dist 4,,,Hallam,12,54.6,71,59,0,130,54.6,45.4,0.0
 West Deer Dist 5,,,Hallam,1,50.6,45,44,0,89,50.6,49.4,0.0
 West Deer Dist 6,,,Hallam,7,52.4,55,48,2,105,52.4,45.7,1.9
 West Deer Dist 7,,,Hallam,12,52.3,134,122,0,256,52.3,47.7,0.0
-West Deer Dist 8,,,Hallam,15,52.8,143,128,0,271,52.8,47.2,0.0
+West Deer Dist 8,,,Hallam,16,52.9,144,128,0,272,52.9,47.1,0.0
 W Elizabeth,,,Doven,9,68.0,8,17,0,25,32.0,68.0,0.0
 W Homestead Dist 1,,,Doven,3,51.8,26,29,1,56,46.4,51.8,1.8
 W Homestead Dist 2,,,Doven,15,55.6,59,74,0,133,44.4,55.6,0.0
 W Homestead Dist 3,,,Doven,26,60.3,44,70,2,116,37.9,60.3,1.7
-West Mifflin Dist 1,,,Doven,13,54.1,59,72,2,133,44.4,54.1,1.5
+West Mifflin Dist 1,,,Doven,11,53.3,61,72,2,135,45.2,53.3,1.5
 West Mifflin Dist 2,,,Hallam,10,55.6,50,40,0,90,55.6,44.4,0.0
 West Mifflin Dist 3,,,Doven,9,54.8,42,51,0,93,45.2,54.8,0.0
 West Mifflin Dist 4,,,Doven,14,68.4,12,26,0,38,31.6,68.4,0.0
 West Mifflin Dist 5,,,Doven,30,57.0,88,118,1,207,42.5,57.0,0.5
 West Mifflin Dist 6,,,Doven,5,54.1,28,33,0,61,45.9,54.1,0.0
 West Mifflin Dist 7,,,Hallam,16,55.0,83,67,1,151,55.0,44.4,0.7
-West Mifflin Dist 8,,,Doven,6,53.4,41,47,0,88,46.6,53.4,0.0
+West Mifflin Dist 8,,,Doven,7,53.8,42,49,0,91,46.2,53.8,0.0
 West Mifflin Dist 9,,,Hallam,1,50.0,90,89,1,180,50.0,49.4,0.6
 West Mifflin Dist 10,,,Hallam,5,52.9,45,40,0,85,52.9,47.1,0.0
-West Mifflin Dist 11,,,Doven,14,55.9,52,66,0,118,44.1,55.9,0.0
+West Mifflin Dist 11,,,Doven,13,55.5,53,66,0,119,44.5,55.5,0.0
 West Mifflin Dist 12,,,Hallam,14,54.7,81,67,0,148,54.7,45.3,0.0
 West Mifflin Dist 13,,,Doven,25,62.6,37,62,0,99,37.4,62.6,0.0
-West Mifflin Dist 14,,,Hallam,4,50.8,100,96,1,197,50.8,48.7,0.5
+West Mifflin Dist 14,,,Hallam,4,50.8,101,97,1,199,50.8,48.7,0.5
 West Mifflin Dist 15,,,Doven,4,51.7,58,62,0,120,48.3,51.7,0.0
-West Mifflin Dist 16,,,Doven,25,55.0,113,138,0,251,45.0,55.0,0.0
+West Mifflin Dist 16,,,Doven,26,55.2,113,139,0,252,44.8,55.2,0.0
 West Mifflin Dist 17,,,Doven,9,53.5,52,61,1,114,45.6,53.5,0.9
 West Mifflin Dist 18,,,Doven,24,56.6,74,98,1,173,42.8,56.6,0.6
 West Mifflin Dist 19,,,Hallam,0,50.0,58,58,0,116,50.0,50.0,0.0
 West Mifflin Dist 20,,,Doven,30,61.4,51,81,0,132,38.6,61.4,0.0
 West Mifflin Dist 21,,,Hallam,6,52.4,66,60,0,126,52.4,47.6,0.0
-West View Dist 1,,,Hallam,21,59.6,62,41,1,104,59.6,39.4,1.0
-West View Dist 2,,,Hallam,40,67.3,74,34,2,110,67.3,30.9,1.8
-West View Dist 3,,,Hallam,20,60.4,58,38,0,96,60.4,39.6,0.0
-West View Dist 4,,,Hallam,22,60.4,61,39,1,101,60.4,38.6,1.0
-West View Dist 5,,,Hallam,22,57.0,86,64,1,151,57.0,42.4,0.7
-West View Dist 6,,,Hallam,33,63.6,75,42,1,118,63.6,35.6,0.8
+West View Dist 1,,,Hallam,21,59.4,63,42,1,106,59.4,39.6,0.9
+West View Dist 2,,,Hallam,43,68.1,77,34,2,113,68.1,30.1,1.8
+West View Dist 3,,,Hallam,19,59.8,58,39,0,97,59.8,40.2,0.0
+West View Dist 4,,,Hallam,23,60.8,62,39,1,102,60.8,38.2,1.0
+West View Dist 5,,,Hallam,22,56.9,87,65,1,153,56.9,42.5,0.7
+West View Dist 6,,,Hallam,34,63.9,76,42,1,119,63.9,35.3,0.8
 West View Dist 7,,,Hallam,27,58.3,88,61,2,151,58.3,40.4,1.3
-Whitaker Dist 1,,,Doven,7,54.2,38,45,0,83,45.8,54.2,0.0
+Whitaker Dist 1,,,Doven,6,53.6,39,45,0,84,46.4,53.6,0.0
 Whitaker Dist 2,,,Doven,16,61.8,26,42,0,68,38.2,61.8,0.0
 Whitehall Dist 1,,,Hallam,39,66.1,80,41,0,121,66.1,33.9,0.0
 Whitehall Dist 2,,,Hallam,20,59.3,64,44,0,108,59.3,40.7,0.0
-Whitehall Dist 3,,,Hallam,11,52.7,69,58,4,131,52.7,44.3,3.1
+Whitehall Dist 3,,,Hallam,12,53.0,70,58,4,132,53.0,43.9,3.0
 Whitehall Dist 4,,,Hallam,7,52.2,70,63,1,134,52.2,47.0,0.7
-Whitehall Dist 5,,,Hallam,21,57.8,74,53,1,128,57.8,41.4,0.8
-Whitehall Dist 6,,,Hallam,8,55.6,40,32,0,72,55.6,44.4,0.0
-Whitehall Dist 7,,,Hallam,5,52.1,62,57,0,119,52.1,47.9,0.0
+Whitehall Dist 5,,,Hallam,22,58.1,75,53,1,129,58.1,41.1,0.8
+Whitehall Dist 6,,,Hallam,6,54.1,40,34,0,74,54.1,45.9,0.0
+Whitehall Dist 7,,,Hallam,5,52.1,63,58,0,121,52.1,47.9,0.0
 Whitehall Dist 8,,,Hallam,11,53.6,82,71,0,153,53.6,46.4,0.0
-Whitehall Dist 9,,,Hallam,20,61.6,53,33,0,86,61.6,38.4,0.0
+Whitehall Dist 9,,,Hallam,21,62.1,54,33,0,87,62.1,37.9,0.0
 Whitehall Dist 10,,,Hallam,8,53.2,59,51,1,111,53.2,45.9,0.9
-Whitehall Dist 11,,,Doven,14,55.3,49,63,2,114,43.0,55.3,1.8
-Whitehall Dist 12,,,Hallam,16,57.1,60,44,1,105,57.1,41.9,1.0
-Whitehall Dist 13,,,Hallam,18,56.2,82,64,0,146,56.2,43.8,0.0
+Whitehall Dist 11,,,Doven,13,54.8,50,63,2,115,43.5,54.8,1.7
+Whitehall Dist 12,,,Hallam,17,57.5,61,44,1,106,57.5,41.5,0.9
+Whitehall Dist 13,,,Hallam,16,55.3,83,67,0,150,55.3,44.7,0.0
 Whitehall Dist 14,,,Doven,12,55.1,53,65,0,118,44.9,55.1,0.0
 Whitehall Dist 15,,,Doven,11,52.1,103,114,2,219,47.0,52.1,0.9
 Whitehall Dist 16,,,Hallam,35,64.5,78,43,0,121,64.5,35.5,0.0
-White Oak Dist 1,,,Hallam,10,54.6,59,49,0,108,54.6,45.4,0.0
+White Oak Dist 1,,,Hallam,9,54.1,59,50,0,109,54.1,45.9,0.0
 White Oak Dist 2,,,Doven,10,53.7,55,65,1,121,45.5,53.7,0.8
-White Oak Dist 3,,,Doven,1,50.0,71,72,1,144,49.3,50.0,0.7
-White Oak Dist 4,,,Doven,5,51.6,75,80,0,155,48.4,51.6,0.0
+White Oak Dist 3,,,Hallam,0,49.7,73,73,1,147,49.7,49.7,0.7
+White Oak Dist 4,,,Doven,4,51.3,77,81,0,158,48.7,51.3,0.0
 White Oak Dist 5,,,Doven,8,52.6,74,82,0,156,47.4,52.6,0.0
-White Oak Dist 6,,,Doven,4,51.5,47,51,1,99,47.5,51.5,1.0
+White Oak Dist 6,,,Doven,3,51.0,48,51,1,100,48.0,51.0,1.0
 White Oak Dist 7,,,Hallam,24,58.3,84,60,0,144,58.3,41.7,0.0
 Wilkins Ward 1 Dist 1,,,Doven,19,58.0,50,69,0,119,42.0,58.0,0.0
 Wilkins Ward 1 Dist 2,,,Doven,2,50.3,76,78,1,155,49.0,50.3,0.6
-Wilkins Ward 1 Dist 3,,,Hallam,40,60.0,114,74,2,190,60.0,38.9,1.1
+Wilkins Ward 1 Dist 3,,,Hallam,39,59.7,114,75,2,191,59.7,39.3,1.0
 Wilkins Ward 1 Dist 4,,,Hallam,7,52.7,69,62,0,131,52.7,47.3,0.0
-Wilkins Ward 1 Dist 5,,,Doven,9,54.5,46,55,0,101,45.5,54.5,0.0
+Wilkins Ward 1 Dist 5,,,Doven,8,53.8,48,56,0,104,46.2,53.8,0.0
 Wilkins Ward 2 Dist 1,,,Hallam,4,51.3,58,54,1,113,51.3,47.8,0.9
 Wilkins Ward 2 Dist 2,,,Hallam,31,58.6,106,75,0,181,58.6,41.4,0.0
 Wilkinsburg Ward 1 Dist 1,,,Hallam,15,55.2,79,64,0,143,55.2,44.8,0.0
-Wilkinsburg Ward 1 Dist 2,,,Doven,1,48.7,36,37,3,76,47.4,48.7,3.9
+Wilkinsburg Ward 1 Dist 2,,,Doven,1,48.7,37,38,3,78,47.4,48.7,3.8
 Wilkinsburg Ward 1 Dist 3,,,Doven,14,62.7,18,32,1,51,35.3,62.7,2.0
 Wilkinsburg Ward 1 Dist 4,,,Hallam,70,69.4,125,55,0,180,69.4,30.6,0.0
 Wilkinsburg Ward 1 Dist 5,,,Hallam,27,59.7,80,53,1,134,59.7,39.6,0.7
-Wilkinsburg Ward 1 Dist 6,,,Doven,2,50.7,74,76,0,150,49.3,50.7,0.0
-Wilkinsburg Ward 2 Dist 1,,,Hallam,21,57.8,74,53,1,128,57.8,41.4,0.8
-Wilkinsburg Ward 2 Dist 2,,,Doven,29,56.0,107,136,0,243,44.0,56.0,0.0
-Wilkinsburg Ward 2 Dist 3,,,Doven,2,51.1,46,48,0,94,48.9,51.1,0.0
+Wilkinsburg Ward 1 Dist 6,,,Doven,1,50.3,76,77,0,153,49.7,50.3,0.0
+Wilkinsburg Ward 2 Dist 1,,,Hallam,20,57.4,74,54,1,129,57.4,41.9,0.8
+Wilkinsburg Ward 2 Dist 2,,,Doven,29,55.9,108,137,0,245,44.1,55.9,0.0
+Wilkinsburg Ward 2 Dist 3,,,Doven,1,50.5,47,48,0,95,49.5,50.5,0.0
 Wilkinsburg Ward 2 Dist 4,,,Hallam,6,56.5,26,20,0,46,56.5,43.5,0.0
 Wilkinsburg Ward 2 Dist 5,,,Hallam,46,67.4,89,43,0,132,67.4,32.6,0.0
-Wilkinsburg Ward 3 Dist 1,,,Hallam,94,69.3,165,71,2,238,69.3,29.8,0.8
+Wilkinsburg Ward 3 Dist 1,,,Hallam,95,69.5,166,71,2,239,69.5,29.7,0.8
 Wilkinsburg Ward 3 Dist 2,,,Hallam,67,70.6,115,48,0,163,70.6,29.4,0.0
 Wilkinsburg Ward 3 Dist 3,,,Doven,6,53.0,47,53,0,100,47.0,53.0,0.0
-Wilkinsburg Ward 3 Dist 4,,,Hallam,87,70.7,147,60,1,208,70.7,28.8,0.5
-Wilkinsburg Ward 3 Dist 5,,,Hallam,52,66.3,106,54,0,160,66.3,33.8,0.0
-Wilkinsburg Ward 3 Dist 6,,,Doven,9,57.6,25,34,0,59,42.4,57.6,0.0
+Wilkinsburg Ward 3 Dist 4,,,Hallam,89,71.0,149,60,1,210,71.0,28.6,0.5
+Wilkinsburg Ward 3 Dist 5,,,Hallam,50,65.4,106,56,0,162,65.4,34.6,0.0
+Wilkinsburg Ward 3 Dist 6,,,Doven,10,58.3,25,35,0,60,41.7,58.3,0.0
 Wilmerding Dist 1,,,Doven,3,53.3,21,24,0,45,46.7,53.3,0.0
 Wilmerding Dist 2,,,Doven,3,51.7,43,46,0,89,48.3,51.7,0.0
 McKeesport Ward 1,,,,0,0,0,0,0,0,0,0,0
